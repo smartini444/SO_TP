@@ -1,0 +1,3262 @@
+[INFO] 10:56:41:684 kernel/(12449:12449): inicio Consola
+[INFO] 10:59:05:944 kernel/(12729:12729): inicio Consola
+[INFO] 10:59:42:624 kernel/(12804:12804): inicio Consola
+[INFO] 10:59:42:626 kernel/(12804:12804): no tiene los parametros
+[INFO] 11:00:15:872 kernel/(12869:12869): inicio Consola
+[INFO] 11:01:10:242 kernel/(12964:12964): inicio Consola
+[INFO] 11:01:19:742 kernel/(12994:12994): inicio Consola
+[INFO] 11:07:41:992 kernel/(13551:13551): inicio Consola
+[INFO] 11:07:41:993 kernel/(13551:13551): leerPseudocodigo
+[INFO] 11:07:41:994 kernel/(13551:13551): entro en leerPseudocodigo
+[INFO] 11:07:41:995 kernel/(13551:13551): creando instruccion
+[INFO] 11:07:41:995 kernel/(13551:13551): termino de crear lista de inst 0
+[INFO] 11:09:10:877 kernel/(13720:13720): inicio Consola
+[INFO] 11:09:10:877 kernel/(13720:13720): leerPseudocodigo
+[INFO] 11:09:10:877 kernel/(13720:13720): entro en leerPseudocodigo
+[INFO] 11:09:10:877 kernel/(13720:13720): creando instruccion
+[INFO] 11:09:10:878 kernel/(13720:13720): array 0 NO_OP
+[INFO] 11:09:10:878 kernel/(13720:13720): array 1 5
+
+[INFO] 11:09:10:878 kernel/(13720:13720): termino de crear lista de inst 0
+[INFO] 11:10:06:531 kernel/(13830:13830): inicio Consola
+[INFO] 11:10:06:532 kernel/(13830:13830): leerPseudocodigo
+[INFO] 11:10:06:532 kernel/(13830:13830): entro en leerPseudocodigo
+[INFO] 11:10:06:532 kernel/(13830:13830): creando instruccion
+[INFO] 11:10:06:532 kernel/(13830:13830): array 0 NO_OP
+[INFO] 11:10:06:532 kernel/(13830:13830): array 1 5
+
+[INFO] 11:10:06:532 kernel/(13830:13830): creando instruccion
+[INFO] 11:10:06:532 kernel/(13830:13830): array 0 I/O
+[INFO] 11:10:06:532 kernel/(13830:13830): array 1 3000
+
+[INFO] 11:10:06:532 kernel/(13830:13830): creando instruccion
+[INFO] 11:10:06:532 kernel/(13830:13830): array 0 READ
+[INFO] 11:10:06:532 kernel/(13830:13830): array 1 0
+
+[INFO] 11:10:06:532 kernel/(13830:13830): creando instruccion
+[INFO] 11:10:06:532 kernel/(13830:13830): array 0 WRITE
+[INFO] 11:10:06:532 kernel/(13830:13830): array 1 4
+[INFO] 11:10:06:532 kernel/(13830:13830): creando instruccion
+[INFO] 11:10:06:532 kernel/(13830:13830): array 0 COPY
+[INFO] 11:10:06:533 kernel/(13830:13830): array 1 0
+[INFO] 11:10:06:533 kernel/(13830:13830): creando instruccion
+[INFO] 11:10:06:533 kernel/(13830:13830): array 0 EXIT
+[INFO] 11:10:06:533 kernel/(13830:13830): array 1 (null)
+[INFO] 11:10:06:533 kernel/(13830:13830): termino de crear lista de inst 6
+[INFO] 11:11:45:921 kernel/(14017:14017): inicio Consola
+[DEBUG] 11:11:45:921 kernel/(14017:14017): entro en leerPseudocodigo
+[DEBUG] 11:11:45:921 kernel/(14017:14017): creando instruccion
+[DEBUG] 11:11:45:922 kernel/(14017:14017): array 0 NO_OP
+[DEBUG] 11:11:45:922 kernel/(14017:14017): array 1 5
+
+[DEBUG] 11:11:45:922 kernel/(14017:14017): creando instruccion
+[DEBUG] 11:11:45:923 kernel/(14017:14017): array 0 I/O
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 1 3000
+
+[DEBUG] 11:11:45:924 kernel/(14017:14017): creando instruccion
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 0 READ
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 1 0
+
+[DEBUG] 11:11:45:924 kernel/(14017:14017): creando instruccion
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 0 WRITE
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 1 4
+[DEBUG] 11:11:45:924 kernel/(14017:14017): creando instruccion
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 0 COPY
+[DEBUG] 11:11:45:924 kernel/(14017:14017): array 1 0
+[DEBUG] 11:11:45:924 kernel/(14017:14017): creando instruccion
+[DEBUG] 11:11:45:925 kernel/(14017:14017): array 0 EXIT
+[DEBUG] 11:11:45:925 kernel/(14017:14017): array 1 (null)
+[DEBUG] 11:11:45:925 kernel/(14017:14017): termino de crear lista de inst 6
+[INFO] 11:12:41:159 kernel/(14114:14114): inicio Consola
+[DEBUG] 11:12:41:159 kernel/(14114:14114): entro en leerPseudocodigo
+[DEBUG] 11:12:41:159 kernel/(14114:14114): creando instruccion
+[DEBUG] 11:12:41:159 kernel/(14114:14114): array 0 NO_OP
+[DEBUG] 11:12:41:159 kernel/(14114:14114): array 1 5
+
+[DEBUG] 11:12:41:160 kernel/(14114:14114): creando instruccion
+[DEBUG] 11:12:41:160 kernel/(14114:14114): array 0 I/O
+[DEBUG] 11:12:41:160 kernel/(14114:14114): array 1 3000
+
+[DEBUG] 11:12:41:160 kernel/(14114:14114): creando instruccion
+[DEBUG] 11:12:41:160 kernel/(14114:14114): array 0 READ
+[DEBUG] 11:12:41:160 kernel/(14114:14114): array 1 0
+
+[DEBUG] 11:12:41:160 kernel/(14114:14114): creando instruccion
+[DEBUG] 11:12:41:160 kernel/(14114:14114): array 0 WRITE
+[DEBUG] 11:12:41:161 kernel/(14114:14114): array 1 4
+[DEBUG] 11:12:41:161 kernel/(14114:14114): array 2 42
+
+[DEBUG] 11:12:41:161 kernel/(14114:14114): creando instruccion
+[DEBUG] 11:12:41:161 kernel/(14114:14114): array 0 COPY
+[DEBUG] 11:12:41:161 kernel/(14114:14114): array 1 0
+[DEBUG] 11:12:41:161 kernel/(14114:14114): array 2 4
+
+[DEBUG] 11:12:41:161 kernel/(14114:14114): creando instruccion
+[DEBUG] 11:12:41:161 kernel/(14114:14114): array 0 EXIT
+[DEBUG] 11:12:41:162 kernel/(14114:14114): array 1 (null)
+[DEBUG] 11:12:41:162 kernel/(14114:14114): termino de crear lista de inst 6
+[INFO] 11:16:19:491 kernel/(14571:14571): inicio Consola
+[DEBUG] 11:16:19:492 kernel/(14571:14571): entro en leerPseudocodigo
+[DEBUG] 11:16:19:492 kernel/(14571:14571): creando instruccion
+[DEBUG] 11:16:19:492 kernel/(14571:14571): array 0 NO_OP
+[DEBUG] 11:16:19:492 kernel/(14571:14571): array 1 5
+
+[DEBUG] 11:16:19:492 kernel/(14571:14571): creando instruccion
+[DEBUG] 11:16:19:492 kernel/(14571:14571): array 0 I/O
+[DEBUG] 11:16:19:492 kernel/(14571:14571): array 1 3000
+
+[DEBUG] 11:16:19:492 kernel/(14571:14571): creando instruccion
+[DEBUG] 11:16:19:494 kernel/(14571:14571): array 0 READ
+[DEBUG] 11:16:19:494 kernel/(14571:14571): array 1 0
+
+[DEBUG] 11:16:19:495 kernel/(14571:14571): creando instruccion
+[DEBUG] 11:16:19:495 kernel/(14571:14571): array 0 WRITE
+[DEBUG] 11:16:19:495 kernel/(14571:14571): array 1 4
+[DEBUG] 11:16:19:495 kernel/(14571:14571): array 2 42
+
+[DEBUG] 11:16:19:495 kernel/(14571:14571): creando instruccion
+[DEBUG] 11:16:19:495 kernel/(14571:14571): array 0 COPY
+[DEBUG] 11:16:19:495 kernel/(14571:14571): array 1 0
+[DEBUG] 11:16:19:495 kernel/(14571:14571): array 2 4
+
+[DEBUG] 11:16:19:495 kernel/(14571:14571): creando instruccion
+[DEBUG] 11:16:19:497 kernel/(14571:14571): array 0 EXIT
+[DEBUG] 11:16:19:497 kernel/(14571:14571): array 1 (null)
+[DEBUG] 11:16:19:497 kernel/(14571:14571): termino de crear lista de inst 6
+[INFO] 11:16:19:499 kernel/(14571:14571): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:16:19:499 kernel/(14571:14571): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 11:23:41:345 kernel/(15340:15340): inicio Consola
+[DEBUG] 11:23:41:348 kernel/(15340:15340): crearMensaje
+[DEBUG] 11:23:41:349 kernel/(15340:15340): agrega linea NO_OP 5
+
+[DEBUG] 11:23:41:349 kernel/(15340:15340): agrega linea NO_OP 5
+I/O 3000
+
+[DEBUG] 11:23:41:349 kernel/(15340:15340): agrega linea NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:23:41:349 kernel/(15340:15340): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:23:41:350 kernel/(15340:15340): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:23:41:350 kernel/(15340:15340): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:23:41:360 kernel/(15340:15340): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:23:41:360 kernel/(15340:15340): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 11:39:20:958 kernel/(16908:16908): inicio Consola
+[DEBUG] 11:39:20:960 kernel/(16908:16908): crearMensaje
+[DEBUG] 11:39:20:966 kernel/(16908:16908): agrega linea NO_OP 5
+
+[DEBUG] 11:39:20:966 kernel/(16908:16908): agrega linea NO_OP 5
+I/O 3000
+
+[DEBUG] 11:39:20:966 kernel/(16908:16908): agrega linea NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:39:20:966 kernel/(16908:16908): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:39:20:967 kernel/(16908:16908): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:39:20:967 kernel/(16908:16908): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:39:20:968 kernel/(16908:16908): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:39:20:971 kernel/(16908:16908): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 11:48:50:463 kernel/(18125:18125): inicio Consola
+[DEBUG] 11:48:50:468 kernel/(18125:18125): crearMensaje
+[DEBUG] 11:48:50:469 kernel/(18125:18125): agrega linea NO_OP 5
+
+[DEBUG] 11:48:50:470 kernel/(18125:18125): agrega linea NO_OP 5
+I/O 3000
+
+[DEBUG] 11:48:50:470 kernel/(18125:18125): agrega linea NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:48:50:470 kernel/(18125:18125): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:48:50:471 kernel/(18125:18125): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:48:50:471 kernel/(18125:18125): agrega linea NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:48:50:472 kernel/(18125:18125): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:48:50:477 kernel/(18125:18125): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 11:53:00:552 kernel/(18541:18541): inicio Consola
+[DEBUG] 11:53:00:560 kernel/(18541:18541): crearMensaje
+[DEBUG] 11:53:00:561 kernel/(18541:18541): agrega linea 240NO_OP 5
+
+[DEBUG] 11:53:00:561 kernel/(18541:18541): agrega linea 240NO_OP 5
+I/O 3000
+
+[DEBUG] 11:53:00:563 kernel/(18541:18541): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:53:00:564 kernel/(18541:18541): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:53:00:564 kernel/(18541:18541): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:53:00:564 kernel/(18541:18541): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:53:00:565 kernel/(18541:18541): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:53:00:569 kernel/(18541:18541): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 11:54:10:173 kernel/(18642:18642): inicio Consola
+[DEBUG] 11:54:10:175 kernel/(18642:18642): crearMensaje
+[DEBUG] 11:54:10:176 kernel/(18642:18642): agrega linea 240NO_OP 5
+
+[DEBUG] 11:54:10:176 kernel/(18642:18642): agrega linea 240NO_OP 5
+I/O 3000
+
+[DEBUG] 11:54:10:176 kernel/(18642:18642): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:54:10:176 kernel/(18642:18642): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:54:10:177 kernel/(18642:18642): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:54:10:177 kernel/(18642:18642): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:54:10:181 kernel/(18642:18642): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:54:10:181 kernel/(18642:18642): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 11:54:54:017 kernel/(18738:18738): inicio Consola
+[DEBUG] 11:54:54:020 kernel/(18738:18738): crearMensaje
+[DEBUG] 11:54:54:020 kernel/(18738:18738): agrega linea 240NO_OP 5
+
+[DEBUG] 11:54:54:021 kernel/(18738:18738): agrega linea 240NO_OP 5
+I/O 3000
+
+[DEBUG] 11:54:54:021 kernel/(18738:18738): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:54:54:021 kernel/(18738:18738): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:54:54:022 kernel/(18738:18738): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:54:54:022 kernel/(18738:18738): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:55:47:243 kernel/(18955:18955): inicio Consola
+[DEBUG] 11:55:47:250 kernel/(18955:18955): crearMensaje
+[DEBUG] 11:55:47:251 kernel/(18955:18955): agrega linea 240NO_OP 5
+
+[DEBUG] 11:55:47:251 kernel/(18955:18955): agrega linea 240NO_OP 5
+I/O 3000
+
+[DEBUG] 11:55:47:252 kernel/(18955:18955): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 11:55:47:252 kernel/(18955:18955): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 11:55:47:252 kernel/(18955:18955): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 11:55:47:252 kernel/(18955:18955): agrega linea 240NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 11:55:47:258 kernel/(18955:18955): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:55:47:258 kernel/(18955:18955): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 12:04:52:005 kernel/(19839:19839): inicio Consola
+[DEBUG] 12:04:52:012 kernel/(19839:19839): crearMensaje
+[INFO] 12:06:39:081 kernel/(20037:20037): inicio Consola
+[DEBUG] 12:06:39:088 kernel/(20037:20037): crearMensaje
+[DEBUG] 12:06:39:089 kernel/(20037:20037): agrega linea 
+NO_OP 5
+
+[DEBUG] 12:06:39:089 kernel/(20037:20037): agrega linea 
+NO_OP 5
+I/O 3000
+
+[DEBUG] 12:06:39:089 kernel/(20037:20037): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 12:06:39:089 kernel/(20037:20037): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 12:06:39:089 kernel/(20037:20037): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 12:06:39:090 kernel/(20037:20037): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 12:06:39:090 kernel/(20037:20037): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:06:39:094 kernel/(20037:20037): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 12:07:49:537 kernel/(20173:20173): inicio Consola
+[DEBUG] 12:07:49:540 kernel/(20173:20173): crearMensaje
+[DEBUG] 12:07:49:540 kernel/(20173:20173): agrega linea 
+NO_OP 5
+
+[DEBUG] 12:07:49:541 kernel/(20173:20173): agrega linea 
+NO_OP 5
+I/O 3000
+
+[DEBUG] 12:07:49:541 kernel/(20173:20173): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 12:07:49:542 kernel/(20173:20173): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 12:07:49:542 kernel/(20173:20173): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 12:07:49:542 kernel/(20173:20173): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 12:07:49:544 kernel/(20173:20173): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:07:49:549 kernel/(20173:20173): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 12:08:44:243 kernel/(20274:20274): inicio Consola
+[DEBUG] 12:08:44:251 kernel/(20274:20274): crearMensaje
+[DEBUG] 12:08:44:251 kernel/(20274:20274): 
+
+[DEBUG] 12:08:44:252 kernel/(20274:20274): agrega linea 
+NO_OP 5
+
+[DEBUG] 12:08:44:252 kernel/(20274:20274): agrega linea 
+NO_OP 5
+I/O 3000
+
+[DEBUG] 12:08:44:252 kernel/(20274:20274): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 12:08:44:252 kernel/(20274:20274): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 12:08:44:252 kernel/(20274:20274): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 12:08:44:253 kernel/(20274:20274): agrega linea 
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 12:10:27:678 kernel/(20438:20438): inicio Consola
+[DEBUG] 12:10:27:681 kernel/(20438:20438): crearMensaje
+[DEBUG] 12:10:27:681 kernel/(20438:20438): 240
+
+[INFO] 12:11:33:616 kernel/(20572:20572): inicio Consola
+[DEBUG] 12:11:33:623 kernel/(20572:20572): crearMensaje
+[DEBUG] 12:11:33:624 kernel/(20572:20572): 240
+
+[ERROR] 12:11:33:624 kernel/(20572:20572): no input_file
+[INFO] 12:11:53:731 kernel/(20625:20625): inicio Consola
+[DEBUG] 12:11:53:732 kernel/(20625:20625): crearMensaje
+[DEBUG] 12:11:53:732 kernel/(20625:20625): 
+[ERROR] 12:11:53:732 kernel/(20625:20625): no input_file
+[INFO] 12:12:50:791 kernel/(20734:20734): inicio Consola
+[DEBUG] 12:12:50:791 kernel/(20734:20734): �ǿ�ǿ�ǿ
+[DEBUG] 12:12:50:791 kernel/(20734:20734): crearMensaje
+[DEBUG] 12:12:50:792 kernel/(20734:20734): 
+[ERROR] 12:12:50:792 kernel/(20734:20734): no input_file
+[INFO] 12:13:11:399 kernel/(20770:20770): inicio Consola
+[DEBUG] 12:13:11:399 kernel/(20770:20770): ѯ��ۯ��߯��
+[DEBUG] 12:13:11:399 kernel/(20770:20770): crearMensaje
+[DEBUG] 12:13:11:399 kernel/(20770:20770): 
+[ERROR] 12:13:11:399 kernel/(20770:20770): no input_file
+[INFO] 12:13:18:499 kernel/(20801:20801): inicio Consola
+[DEBUG] 12:13:18:500 kernel/(20801:20801): 240
+[DEBUG] 12:13:18:500 kernel/(20801:20801): pseudocodigo.txt
+[DEBUG] 12:13:18:500 kernel/(20801:20801): crearMensaje
+[DEBUG] 12:13:18:500 kernel/(20801:20801): 
+[ERROR] 12:13:18:500 kernel/(20801:20801): no input_file
+[INFO] 12:17:44:755 kernel/(21198:21198): inicio Consola
+[DEBUG] 12:17:44:762 kernel/(21198:21198): 240
+[DEBUG] 12:17:44:762 kernel/(21198:21198): pseudocodigo.txt
+[DEBUG] 12:17:44:763 kernel/(21198:21198): crearMensaje
+[DEBUG] 12:17:44:763 kernel/(21198:21198): 
+[ERROR] 12:17:44:763 kernel/(21198:21198): no input_file
+[INFO] 12:18:28:682 kernel/(21285:21285): inicio Consola
+[DEBUG] 12:18:28:691 kernel/(21285:21285): 240
+[DEBUG] 12:18:28:691 kernel/(21285:21285): pseudocodigo.txt
+[DEBUG] 12:18:28:691 kernel/(21285:21285): crearMensaje
+[DEBUG] 12:18:28:691 kernel/(21285:21285): pseudocodigo.txt
+[DEBUG] 12:18:28:691 kernel/(21285:21285): 240
+[ERROR] 12:18:28:691 kernel/(21285:21285): no input_file
+[INFO] 12:19:14:325 kernel/(21372:21372): inicio Consola
+[DEBUG] 12:19:14:326 kernel/(21372:21372): 240
+[DEBUG] 12:19:14:326 kernel/(21372:21372): pseudocodigo.txt
+[DEBUG] 12:19:14:327 kernel/(21372:21372): crearMensaje
+[DEBUG] 12:19:14:327 kernel/(21372:21372): pseudocodigo.txt
+[DEBUG] 12:19:14:327 kernel/(21372:21372): 240
+[DEBUG] 12:19:14:328 kernel/(21372:21372): agrega linea 240
+NO_OP 5
+
+[DEBUG] 12:19:14:328 kernel/(21372:21372): agrega linea 240
+NO_OP 5
+I/O 3000
+
+[DEBUG] 12:19:14:328 kernel/(21372:21372): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 12:19:14:329 kernel/(21372:21372): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 12:19:14:329 kernel/(21372:21372): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 12:19:14:330 kernel/(21372:21372): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 12:20:29:957 kernel/(21611:21611): inicio Consola
+[DEBUG] 12:20:29:961 kernel/(21611:21611): 240
+[DEBUG] 12:20:29:961 kernel/(21611:21611): pseudocodigo.txt
+[DEBUG] 12:20:29:961 kernel/(21611:21611): crearMensaje
+[DEBUG] 12:20:29:962 kernel/(21611:21611): agrega linea 240
+NO_OP 5
+
+[DEBUG] 12:20:29:962 kernel/(21611:21611): agrega linea 240
+NO_OP 5
+I/O 3000
+
+[DEBUG] 12:20:29:963 kernel/(21611:21611): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 12:20:29:963 kernel/(21611:21611): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 12:20:29:963 kernel/(21611:21611): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 12:20:29:964 kernel/(21611:21611): agrega linea 240
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 12:20:29:965 kernel/(21611:21611): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:20:29:969 kernel/(21611:21611): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 12:23:47:557 kernel/(22092:22092): inicio Consola
+[DEBUG] 12:23:47:559 kernel/(22092:22092): 320
+[DEBUG] 12:23:47:560 kernel/(22092:22092): pseudocodigo.txt
+[DEBUG] 12:23:47:560 kernel/(22092:22092): crearMensaje
+[DEBUG] 12:23:47:560 kernel/(22092:22092): agrega linea 320
+NO_OP 5
+
+[DEBUG] 12:23:47:561 kernel/(22092:22092): agrega linea 320
+NO_OP 5
+I/O 3000
+
+[DEBUG] 12:23:47:561 kernel/(22092:22092): agrega linea 320
+NO_OP 5
+I/O 3000
+READ 0
+
+[DEBUG] 12:23:47:562 kernel/(22092:22092): agrega linea 320
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+
+[DEBUG] 12:23:47:562 kernel/(22092:22092): agrega linea 320
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+
+[DEBUG] 12:23:47:563 kernel/(22092:22092): agrega linea 320
+NO_OP 5
+I/O 3000
+READ 0
+WRITE 4 42
+COPY 0 4
+EXIT
+[INFO] 12:23:47:564 kernel/(22092:22092): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:23:47:572 kernel/(22092:22092): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 12:25:51:394 kernel/(22336:22336): inicio Consola
+[DEBUG] 12:25:51:407 kernel/(22336:22336): 320
+[DEBUG] 12:25:51:407 kernel/(22336:22336): pseudocodigo.txt
+[DEBUG] 12:25:51:407 kernel/(22336:22336): crearMensaje
+[INFO] 12:25:51:409 kernel/(22336:22336): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:25:51:411 kernel/(22336:22336): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 12:28:43:797 kernel/(22676:22676): inicio Consola
+[DEBUG] 12:28:43:804 kernel/(22676:22676): 320
+[DEBUG] 12:28:43:805 kernel/(22676:22676): pseudocodigo.txt
+[DEBUG] 12:28:43:805 kernel/(22676:22676): crearMensaje
+[INFO] 12:28:43:806 kernel/(22676:22676): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:28:43:809 kernel/(22676:22676): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 01:59:22:685 kernel/(2040:2040): inicio Consola
+[DEBUG] 01:59:22:689 kernel/(2040:2040): 329
+[DEBUG] 01:59:22:689 kernel/(2040:2040): pseudocodigo.txt
+[DEBUG] 01:59:22:690 kernel/(2040:2040): crearMensaje
+[INFO] 01:59:22:691 kernel/(2040:2040): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:59:22:694 kernel/(2040:2040): 
+////////////////////Recibi este mensaje: Finalizado
+[INFO] 13:15:17:865 kernel/(8848:8848): inicio Consola
+[DEBUG] 13:15:17:867 kernel/(8848:8848): 440
+[DEBUG] 13:15:17:867 kernel/(8848:8848): pseudocodigo.txt
+[DEBUG] 13:15:17:867 kernel/(8848:8848): crearMensaje
+[INFO] 13:15:17:868 kernel/(8848:8848): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:16:37:590 kernel/(8848:8848): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:18:27:322 kernel/(9037:9037): inicio Consola
+[DEBUG] 13:18:27:322 kernel/(9037:9037): 440
+[DEBUG] 13:18:27:322 kernel/(9037:9037): pseudocodigo.txt
+[DEBUG] 13:18:27:322 kernel/(9037:9037): crearMensaje
+[INFO] 13:18:27:323 kernel/(9037:9037): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:19:23:932 kernel/(9189:9189): inicio Consola
+[DEBUG] 13:19:23:932 kernel/(9189:9189): 330
+[DEBUG] 13:19:23:932 kernel/(9189:9189): pseudocodigo.txt
+[DEBUG] 13:19:23:933 kernel/(9189:9189): crearMensaje
+[INFO] 13:19:23:933 kernel/(9189:9189): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:21:52:661 kernel/(9189:9189): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:21:52:661 kernel/(9037:9037): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 11:08:31:130 kernel/(7639:7639): inicio Consola
+[DEBUG] 11:08:31:132 kernel/(7639:7639): 220
+[DEBUG] 11:08:31:132 kernel/(7639:7639): pseudocodigo.txt
+[DEBUG] 11:08:31:132 kernel/(7639:7639): crearMensaje
+[INFO] 11:08:31:133 kernel/(7639:7639): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 11:10:32:998 kernel/(7639:7639): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 12:29:07:019 kernel/(12610:12610): inicio Consola
+[DEBUG] 12:29:07:024 kernel/(12610:12610): 240
+[DEBUG] 12:29:07:024 kernel/(12610:12610): pseudocodigo.txt
+[DEBUG] 12:29:07:024 kernel/(12610:12610): crearMensaje
+[INFO] 12:29:07:026 kernel/(12610:12610): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:41:17:732 kernel/(13910:13910): inicio Consola
+[DEBUG] 12:41:17:734 kernel/(13910:13910): 330
+[DEBUG] 12:41:17:734 kernel/(13910:13910): pseudocodigo.txt
+[DEBUG] 12:41:17:734 kernel/(13910:13910): crearMensaje
+[DEBUG] 12:41:17:735 kernel/(13910:13910): entro en leerPseudocodigo
+[DEBUG] 12:41:17:735 kernel/(13910:13910): creando instruccion 1
+[INFO] 12:43:11:225 kernel/(14108:14108): inicio Consola
+[DEBUG] 12:43:11:227 kernel/(14108:14108): 330
+[DEBUG] 12:43:11:227 kernel/(14108:14108): pseudocodigo.txt
+[DEBUG] 12:43:11:228 kernel/(14108:14108): crearMensaje
+[INFO] 12:43:11:228 kernel/(14108:14108): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:43:37:941 kernel/(14108:14108): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 12:48:13:076 kernel/(14220:14220): inicio Consola
+[DEBUG] 12:48:13:077 kernel/(14220:14220): 333
+[DEBUG] 12:48:13:078 kernel/(14220:14220): pseudocodigo.txt
+[DEBUG] 12:48:13:078 kernel/(14220:14220): crearMensaje
+[INFO] 12:48:13:080 kernel/(14220:14220): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 12:49:11:433 kernel/(14220:14220): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:11:09:128 kernel/(16923:16923): inicio Consola
+[DEBUG] 13:11:09:130 kernel/(16923:16923): 333
+[DEBUG] 13:11:09:130 kernel/(16923:16923): pseudocodigo.txt
+[DEBUG] 13:11:09:130 kernel/(16923:16923): crearMensaje
+[INFO] 13:11:09:132 kernel/(16923:16923): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:13:21:478 kernel/(16923:16923): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:15:23:665 kernel/(17424:17424): inicio Consola
+[DEBUG] 13:15:23:666 kernel/(17424:17424): 333
+[DEBUG] 13:15:23:666 kernel/(17424:17424): pseudocodigo.txt
+[DEBUG] 13:15:23:666 kernel/(17424:17424): crearMensaje
+[INFO] 13:15:23:668 kernel/(17424:17424): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:24:55:163 kernel/(18807:18807): inicio Consola
+[DEBUG] 13:24:55:165 kernel/(18807:18807): 333
+[DEBUG] 13:24:55:165 kernel/(18807:18807): pseudocodigo.txt
+[DEBUG] 13:24:55:165 kernel/(18807:18807): crearMensaje
+[INFO] 13:24:55:167 kernel/(18807:18807): socket kernel 4
+[INFO] 13:24:55:167 kernel/(18807:18807): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:26:03:499 kernel/(18807:18807): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:29:08:417 kernel/(19282:19282): inicio Consola
+[DEBUG] 13:29:08:419 kernel/(19282:19282): 333
+[DEBUG] 13:29:08:419 kernel/(19282:19282): pseudocodigo.txt
+[DEBUG] 13:29:08:419 kernel/(19282:19282): crearMensaje
+[INFO] 13:29:08:421 kernel/(19282:19282): socket kernel 4
+[INFO] 13:29:08:421 kernel/(19282:19282): 
+/////////////////////Envie el mensaje al kernel
+
+                                                                                           [INFO] 13:40:59:369 kernel/(4196:4196): inicio Consola
+[DEBUG] 13:40:59:370 kernel/(4196:4196): 244
+[DEBUG] 13:40:59:371 kernel/(4196:4196): pseudocodigo.txt
+[DEBUG] 13:40:59:371 kernel/(4196:4196): crearMensaje
+[INFO] 13:40:59:373 kernel/(4196:4196): socket kernel 4
+[INFO] 13:40:59:373 kernel/(4196:4196): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:43:29:381 kernel/(4196:4196): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:46:17:187 kernel/(5368:5368): inicio Consola
+[DEBUG] 13:46:17:188 kernel/(5368:5368): 244
+[DEBUG] 13:46:17:188 kernel/(5368:5368): pseudocodigo.txt
+[DEBUG] 13:46:17:188 kernel/(5368:5368): crearMensaje
+[INFO] 13:46:17:190 kernel/(5368:5368): socket kernel 4
+[INFO] 13:46:17:190 kernel/(5368:5368): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:53:23:950 kernel/(6199:6199): inicio Consola
+[DEBUG] 13:53:23:951 kernel/(6199:6199): 244
+[DEBUG] 13:53:23:951 kernel/(6199:6199): pseudocodigo.txt
+[DEBUG] 13:53:23:951 kernel/(6199:6199): crearMensaje
+[INFO] 13:53:23:953 kernel/(6199:6199): socket kernel 4
+[INFO] 13:53:23:953 kernel/(6199:6199): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:53:23:962 kernel/(6199:6199): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:56:38:140 kernel/(6623:6623): inicio Consola
+[DEBUG] 13:56:38:141 kernel/(6623:6623): 244
+[DEBUG] 13:56:38:141 kernel/(6623:6623): pseudocodigo.txt
+[DEBUG] 13:56:38:142 kernel/(6623:6623): crearMensaje
+[INFO] 13:56:38:143 kernel/(6623:6623): socket kernel 4
+[INFO] 13:56:38:144 kernel/(6623:6623): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:57:01:884 kernel/(6623:6623): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 13:58:15:105 kernel/(6866:6866): inicio Consola
+[DEBUG] 13:58:15:105 kernel/(6866:6866): 244
+[DEBUG] 13:58:15:105 kernel/(6866:6866): pseudocodigo.txt
+[DEBUG] 13:58:15:105 kernel/(6866:6866): crearMensaje
+[INFO] 13:58:15:106 kernel/(6866:6866): socket kernel 4
+[INFO] 13:58:15:106 kernel/(6866:6866): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 13:58:15:115 kernel/(6866:6866): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 22:46:36:504 kernel/(6974:6974): inicio Consola
+[DEBUG] 22:46:36:506 kernel/(6974:6974): 1234
+[DEBUG] 22:46:36:506 kernel/(6974:6974): pseudocodigo.txt
+[DEBUG] 22:46:36:506 kernel/(6974:6974): crearMensaje
+[INFO] 22:46:36:508 kernel/(6974:6974): socket kernel 4
+[INFO] 22:46:36:508 kernel/(6974:6974): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 22:46:54:371 kernel/(6974:6974): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:21:44:298 kernel/(10399:10399): inicio Consola
+[DEBUG] 23:21:44:300 kernel/(10399:10399): 1234
+[DEBUG] 23:21:44:300 kernel/(10399:10399): pseudocodigo.txt
+[DEBUG] 23:21:44:300 kernel/(10399:10399): crearMensaje
+[INFO] 23:21:44:302 kernel/(10399:10399): socket kernel 4
+[INFO] 23:21:44:302 kernel/(10399:10399): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:21:44:853 kernel/(10399:10399): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:24:53:609 kernel/(10709:10709): inicio Consola
+[DEBUG] 23:24:53:616 kernel/(10709:10709): 1234
+[DEBUG] 23:24:53:616 kernel/(10709:10709): pseudocodigo.txt
+[DEBUG] 23:24:53:616 kernel/(10709:10709): crearMensaje
+[INFO] 23:24:53:618 kernel/(10709:10709): socket kernel 4
+[INFO] 23:24:53:619 kernel/(10709:10709): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:25:01:302 kernel/(10709:10709): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:26:07:724 kernel/(11036:11036): inicio Consola
+[DEBUG] 23:26:07:726 kernel/(11036:11036): 1234
+[DEBUG] 23:26:07:726 kernel/(11036:11036): pseudocodigo.txt
+[DEBUG] 23:26:07:726 kernel/(11036:11036): crearMensaje
+[INFO] 23:26:07:728 kernel/(11036:11036): socket kernel 4
+[INFO] 23:26:07:728 kernel/(11036:11036): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:27:14:201 kernel/(11036:11036): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:28:37:428 kernel/(11315:11315): inicio Consola
+[DEBUG] 23:28:37:429 kernel/(11315:11315): 1234
+[DEBUG] 23:28:37:429 kernel/(11315:11315): pseudocodigo.txt
+[DEBUG] 23:28:37:430 kernel/(11315:11315): crearMensaje
+[INFO] 23:28:37:434 kernel/(11315:11315): socket kernel 4
+[INFO] 23:28:37:434 kernel/(11315:11315): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:28:49:970 kernel/(11315:11315): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:38:00:051 kernel/(12345:12345): inicio Consola
+[DEBUG] 23:38:00:053 kernel/(12345:12345): 1234
+[DEBUG] 23:38:00:053 kernel/(12345:12345): pseudocodigo.txt
+[DEBUG] 23:38:00:053 kernel/(12345:12345): crearMensaje
+[INFO] 23:38:00:054 kernel/(12345:12345): socket kernel 4
+[INFO] 23:38:00:055 kernel/(12345:12345): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:39:42:986 kernel/(12345:12345): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:40:53:070 kernel/(12826:12826): inicio Consola
+[DEBUG] 23:40:53:071 kernel/(12826:12826): 1234
+[DEBUG] 23:40:53:071 kernel/(12826:12826): pseudocodigo.txt
+[DEBUG] 23:40:53:071 kernel/(12826:12826): crearMensaje
+[INFO] 23:40:53:073 kernel/(12826:12826): socket kernel 4
+[INFO] 23:40:53:073 kernel/(12826:12826): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:41:27:525 kernel/(12826:12826): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:49:11:191 kernel/(13619:13619): inicio Consola
+[DEBUG] 23:49:11:192 kernel/(13619:13619): 1234
+[DEBUG] 23:49:11:193 kernel/(13619:13619): pseudocodigo.txt
+[DEBUG] 23:49:11:193 kernel/(13619:13619): crearMensaje
+[INFO] 23:49:11:196 kernel/(13619:13619): socket kernel 4
+[INFO] 23:49:11:196 kernel/(13619:13619): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:49:54:094 kernel/(13619:13619): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:53:12:757 kernel/(14052:14052): inicio Consola
+[DEBUG] 23:53:12:759 kernel/(14052:14052): 1234
+[DEBUG] 23:53:12:759 kernel/(14052:14052): pseudocodigo.txt
+[DEBUG] 23:53:12:759 kernel/(14052:14052): crearMensaje
+[INFO] 23:53:12:761 kernel/(14052:14052): socket kernel 4
+[INFO] 23:53:12:761 kernel/(14052:14052): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:53:23:251 kernel/(14052:14052): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:42:27:922 kernel/(7040:7040): inicio Consola
+[DEBUG] 00:42:27:925 kernel/(7040:7040): 1222
+[DEBUG] 00:42:27:926 kernel/(7040:7040): pseudocodigo.txt
+[DEBUG] 00:42:27:926 kernel/(7040:7040): crearMensaje
+[INFO] 00:42:27:927 kernel/(7040:7040): socket kernel 4
+[INFO] 00:42:27:927 kernel/(7040:7040): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:42:33:506 kernel/(7040:7040): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:44:42:324 kernel/(7349:7349): inicio Consola
+[DEBUG] 00:44:42:325 kernel/(7349:7349): 1222
+[DEBUG] 00:44:42:326 kernel/(7349:7349): pseudocodigo.txt
+[DEBUG] 00:44:42:326 kernel/(7349:7349): crearMensaje
+[INFO] 00:44:42:328 kernel/(7349:7349): socket kernel 4
+[INFO] 00:44:42:328 kernel/(7349:7349): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:44:47:719 kernel/(7349:7349): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:46:15:548 kernel/(7540:7540): inicio Consola
+[DEBUG] 00:46:15:549 kernel/(7540:7540): 1222
+[DEBUG] 00:46:15:549 kernel/(7540:7540): pseudocodigo.txt
+[DEBUG] 00:46:15:549 kernel/(7540:7540): crearMensaje
+[INFO] 00:46:15:550 kernel/(7540:7540): socket kernel 4
+[INFO] 00:46:15:550 kernel/(7540:7540): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:46:20:876 kernel/(7540:7540): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:47:35:139 kernel/(7923:7923): inicio Consola
+[DEBUG] 00:47:35:139 kernel/(7923:7923): 1222
+[DEBUG] 00:47:35:139 kernel/(7923:7923): pseudocodigo.txt
+[DEBUG] 00:47:35:139 kernel/(7923:7923): crearMensaje
+[INFO] 00:47:35:140 kernel/(7923:7923): socket kernel 4
+[INFO] 00:47:35:141 kernel/(7923:7923): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:47:40:364 kernel/(7923:7923): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:48:50:096 kernel/(8125:8125): inicio Consola
+[DEBUG] 00:48:50:096 kernel/(8125:8125): 1222
+[DEBUG] 00:48:50:096 kernel/(8125:8125): pseudocodigo.txt
+[DEBUG] 00:48:50:097 kernel/(8125:8125): crearMensaje
+[INFO] 00:48:50:098 kernel/(8125:8125): socket kernel 4
+[INFO] 00:48:50:098 kernel/(8125:8125): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:49:11:199 kernel/(8125:8125): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:50:31:635 kernel/(8436:8436): inicio Consola
+[DEBUG] 00:50:31:636 kernel/(8436:8436): 1222
+[DEBUG] 00:50:31:636 kernel/(8436:8436): pseudocodigo.txt
+[DEBUG] 00:50:31:636 kernel/(8436:8436): crearMensaje
+[INFO] 00:50:31:637 kernel/(8436:8436): socket kernel 4
+[INFO] 00:50:31:637 kernel/(8436:8436): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:52:51:095 kernel/(8436:8436): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:56:25:718 kernel/(9215:9215): inicio Consola
+[DEBUG] 00:56:25:718 kernel/(9215:9215): 1222
+[DEBUG] 00:56:25:718 kernel/(9215:9215): pseudocodigo.txt
+[DEBUG] 00:56:25:718 kernel/(9215:9215): crearMensaje
+[INFO] 00:56:25:719 kernel/(9215:9215): socket kernel 4
+[INFO] 00:56:25:719 kernel/(9215:9215): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:57:11:282 kernel/(9215:9215): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:58:23:394 kernel/(9494:9494): inicio Consola
+[DEBUG] 00:58:23:394 kernel/(9494:9494): 1222
+[DEBUG] 00:58:23:394 kernel/(9494:9494): pseudocodigo.txt
+[DEBUG] 00:58:23:394 kernel/(9494:9494): crearMensaje
+[INFO] 00:58:23:396 kernel/(9494:9494): socket kernel 4
+[INFO] 00:58:23:396 kernel/(9494:9494): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:58:38:198 kernel/(9494:9494): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:59:48:044 kernel/(9693:9693): inicio Consola
+[DEBUG] 00:59:48:044 kernel/(9693:9693): 1222
+[DEBUG] 00:59:48:044 kernel/(9693:9693): pseudocodigo.txt
+[DEBUG] 00:59:48:045 kernel/(9693:9693): crearMensaje
+[INFO] 00:59:48:045 kernel/(9693:9693): socket kernel 4
+[INFO] 00:59:48:045 kernel/(9693:9693): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:00:03:272 kernel/(9693:9693): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 01:01:30:238 kernel/(10172:10172): inicio Consola
+[DEBUG] 01:01:30:239 kernel/(10172:10172): 1222
+[DEBUG] 01:01:30:239 kernel/(10172:10172): pseudocodigo.txt
+[DEBUG] 01:01:30:239 kernel/(10172:10172): crearMensaje
+[INFO] 01:01:30:240 kernel/(10172:10172): socket kernel 4
+[INFO] 01:01:30:240 kernel/(10172:10172): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:02:06:973 kernel/(10172:10172): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 01:03:19:481 kernel/(10466:10466): inicio Consola
+[DEBUG] 01:03:19:483 kernel/(10466:10466): 1222
+[DEBUG] 01:03:19:483 kernel/(10466:10466): pseudocodigo.txt
+[DEBUG] 01:03:19:483 kernel/(10466:10466): crearMensaje
+[INFO] 01:03:19:485 kernel/(10466:10466): socket kernel 4
+[INFO] 01:03:19:485 kernel/(10466:10466): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:03:32:764 kernel/(10466:10466): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 01:09:48:879 kernel/(11276:11276): inicio Consola
+[DEBUG] 01:09:48:880 kernel/(11276:11276): 1222
+[DEBUG] 01:09:48:880 kernel/(11276:11276): pseudocodigo.txt
+[DEBUG] 01:09:48:880 kernel/(11276:11276): crearMensaje
+[INFO] 01:09:48:882 kernel/(11276:11276): socket kernel 4
+[INFO] 01:09:48:882 kernel/(11276:11276): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:09:59:897 kernel/(11276:11276): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 01:17:26:032 kernel/(11983:11983): inicio Consola
+[DEBUG] 01:17:26:033 kernel/(11983:11983): 1222
+[DEBUG] 01:17:26:033 kernel/(11983:11983): pseudocodigo.txt
+[DEBUG] 01:17:26:033 kernel/(11983:11983): crearMensaje
+[INFO] 01:17:26:035 kernel/(11983:11983): socket kernel 4
+[INFO] 01:17:26:035 kernel/(11983:11983): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:17:41:145 kernel/(11983:11983): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 01:21:10:486 kernel/(12822:12822): inicio Consola
+[DEBUG] 01:21:10:487 kernel/(12822:12822): 122
+[DEBUG] 01:21:10:487 kernel/(12822:12822): pseudocodigo.txt
+[DEBUG] 01:21:10:487 kernel/(12822:12822): crearMensaje
+[INFO] 01:21:10:488 kernel/(12822:12822): socket kernel 4
+[INFO] 01:21:10:488 kernel/(12822:12822): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:21:27:561 kernel/(12822:12822): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 01:22:33:323 kernel/(13090:13090): inicio Consola
+[DEBUG] 01:22:33:324 kernel/(13090:13090): 122
+[DEBUG] 01:22:33:325 kernel/(13090:13090): pseudocodigo.txt
+[DEBUG] 01:22:33:325 kernel/(13090:13090): crearMensaje
+[INFO] 01:22:33:327 kernel/(13090:13090): socket kernel 4
+[INFO] 01:22:33:327 kernel/(13090:13090): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 01:22:44:696 kernel/(13090:13090): 
+////////////////////Recibi este mensaje: (null)
+
+[INFO] 23:52:26:507 kernel/(6159:6159): inicio Consola
+[DEBUG] 23:52:26:510 kernel/(6159:6159): 1233
+[DEBUG] 23:52:26:510 kernel/(6159:6159): pseudocodigo.txt
+[DEBUG] 23:52:26:510 kernel/(6159:6159): crearMensaje
+[INFO] 23:52:26:512 kernel/(6159:6159): socket kernel 4
+[INFO] 23:52:26:512 kernel/(6159:6159): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 23:52:37:892 kernel/(6159:6159): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 23:59:27:508 kernel/(6861:6861): inicio Consola
+[DEBUG] 23:59:27:509 kernel/(6861:6861): 1233
+[DEBUG] 23:59:27:509 kernel/(6861:6861): pseudocodigo.txt
+[DEBUG] 23:59:27:509 kernel/(6861:6861): crearMensaje
+[INFO] 23:59:27:512 kernel/(6861:6861): socket kernel 4
+[INFO] 23:59:27:512 kernel/(6861:6861): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:00:00:413 kernel/(6861:6861): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:03:45:779 kernel/(7339:7339): inicio Consola
+[DEBUG] 00:03:45:781 kernel/(7339:7339): 1233
+[DEBUG] 00:03:45:781 kernel/(7339:7339): pseudocodigo.txt
+[DEBUG] 00:03:45:781 kernel/(7339:7339): crearMensaje
+[INFO] 00:03:45:787 kernel/(7339:7339): socket kernel 4
+[INFO] 00:03:45:789 kernel/(7339:7339): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:03:59:046 kernel/(7339:7339): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:08:07:205 kernel/(7829:7829): inicio Consola
+[DEBUG] 00:08:07:206 kernel/(7829:7829): 1233
+[DEBUG] 00:08:07:206 kernel/(7829:7829): pseudocodigo.txt
+[DEBUG] 00:08:07:206 kernel/(7829:7829): crearMensaje
+[INFO] 00:08:07:208 kernel/(7829:7829): socket kernel 4
+[INFO] 00:08:07:208 kernel/(7829:7829): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:08:20:424 kernel/(7829:7829): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:09:29:742 kernel/(7997:7997): inicio Consola
+[DEBUG] 00:09:29:742 kernel/(7997:7997): 1233
+[DEBUG] 00:09:29:742 kernel/(7997:7997): pseudocodigo.txt
+[DEBUG] 00:09:29:743 kernel/(7997:7997): crearMensaje
+[INFO] 00:09:29:743 kernel/(7997:7997): socket kernel 4
+[INFO] 00:09:29:743 kernel/(7997:7997): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 00:09:42:753 kernel/(7997:7997): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 00:14:10:879 kernel/(8548:8548): inicio Consola
+[DEBUG] 00:14:10:880 kernel/(8548:8548): 1233
+[DEBUG] 00:14:10:880 kernel/(8548:8548): pseudocodigo.txt
+[DEBUG] 00:14:10:881 kernel/(8548:8548): crearMensaje
+[INFO] 00:14:10:882 kernel/(8548:8548): socket kernel 4
+[INFO] 00:14:10:883 kernel/(8548:8548): 
+/////////////////////Envie el mensaje al kernel
+[INFO] 00:14:23:891 kernel/(8548:8548): RECIBI EL  TIPO MENSAJE: -1217341472
+[INFO] 00:14:23:892 kernel/(8548:8548): RECIBI EL MENSAJE: 0
+[INFO] 00:23:03:879 kernel/(9395:9395): inicio Consola
+[DEBUG] 00:23:03:880 kernel/(9395:9395): 1233
+[DEBUG] 00:23:03:880 kernel/(9395:9395): pseudocodigo.txt
+[DEBUG] 00:23:03:880 kernel/(9395:9395): crearMensaje
+[INFO] 00:23:03:882 kernel/(9395:9395): socket kernel 4
+[INFO] 00:23:03:882 kernel/(9395:9395): 
+/////////////////////Envie el mensaje al kernel
+[INFO] 00:23:16:888 kernel/(9395:9395): RECIBI EL  TIPO MENSAJE: -1217693728
+[INFO] 00:23:16:888 kernel/(9395:9395): RECIBI EL MENSAJE: 0
+[INFO] 00:25:37:257 kernel/(9661:9661): inicio Consola
+[DEBUG] 00:25:37:258 kernel/(9661:9661): 1233
+[DEBUG] 00:25:37:258 kernel/(9661:9661): pseudocodigo.txt
+[DEBUG] 00:25:37:258 kernel/(9661:9661): crearMensaje
+[INFO] 00:25:37:259 kernel/(9661:9661): socket kernel 4
+[INFO] 00:25:37:259 kernel/(9661:9661): 
+/////////////////////Envie el mensaje al kernel
+[INFO] 00:25:50:266 kernel/(9661:9661): RECIBI EL  TIPO MENSAJE: -1216870432
+[INFO] 00:25:50:267 kernel/(9661:9661): RECIBI EL MENSAJE: 0
+[INFO] 00:33:41:897 kernel/(10535:10535): inicio Consola
+[DEBUG] 00:33:41:898 kernel/(10535:10535): 1233
+[DEBUG] 00:33:41:898 kernel/(10535:10535): pseudocodigo.txt
+[DEBUG] 00:33:41:898 kernel/(10535:10535): crearMensaje
+[INFO] 00:33:41:900 kernel/(10535:10535): socket kernel 4
+[INFO] 00:33:41:901 kernel/(10535:10535): Envie Instrucciones al kernel
+[INFO] 00:33:54:909 kernel/(10535:10535): RECIBI EL tamaño: -1217566752
+[INFO] 00:33:54:910 kernel/(10535:10535): RECIBI DE: 825243962
+[INFO] 00:33:54:912 kernel/(10535:10535): RECIBI EL  TIPO MENSAJE: -1217566752
+[INFO] 00:33:54:912 kernel/(10535:10535): RECIBI EL MENSAJE: 0
+[INFO] 00:39:18:810 kernel/(11213:11213): inicio Consola
+[DEBUG] 00:39:18:810 kernel/(11213:11213): 1233
+[DEBUG] 00:39:18:811 kernel/(11213:11213): pseudocodigo.txt
+[DEBUG] 00:39:18:811 kernel/(11213:11213): crearMensaje
+[INFO] 00:39:18:816 kernel/(11213:11213): socket kernel 4
+[INFO] 00:39:18:816 kernel/(11213:11213): Envie Instrucciones al kernel
+[INFO] 00:39:31:829 kernel/(11213:11213): RECIBI EL tamaño: -1216792608
+[INFO] 00:39:31:830 kernel/(11213:11213): RECIBI DE: 909195322
+[INFO] 00:39:31:830 kernel/(11213:11213): RECIBI EL  TIPO MENSAJE: -1216792608
+[INFO] 00:39:31:830 kernel/(11213:11213): RECIBI EL MENSAJE: 0
+[INFO] 00:50:30:923 kernel/(12233:12233): inicio Consola
+[DEBUG] 00:50:30:923 kernel/(12233:12233): 1233
+[DEBUG] 00:50:30:923 kernel/(12233:12233): pseudocodigo.txt
+[DEBUG] 00:50:30:923 kernel/(12233:12233): crearMensaje
+[INFO] 00:50:30:925 kernel/(12233:12233): socket kernel 4
+[INFO] 00:50:30:925 kernel/(12233:12233): Envie Instrucciones al kernel
+[INFO] 00:50:43:933 kernel/(12233:12233): RECIBI EL tamaño: -1217132576
+[INFO] 00:50:43:935 kernel/(12233:12233): RECIBI DE: 892483898
+[INFO] 00:50:43:935 kernel/(12233:12233): RECIBI EL  TIPO MENSAJE: -1217132576
+[INFO] 00:50:43:936 kernel/(12233:12233): RECIBI EL MENSAJE: 0
+[INFO] 00:51:57:531 kernel/(12441:12441): inicio Consola
+[DEBUG] 00:51:57:532 kernel/(12441:12441): 1233
+[DEBUG] 00:51:57:532 kernel/(12441:12441): pseudocodigo.txt
+[DEBUG] 00:51:57:532 kernel/(12441:12441): crearMensaje
+[INFO] 00:51:57:533 kernel/(12441:12441): socket kernel 4
+[INFO] 00:51:57:533 kernel/(12441:12441): Envie Instrucciones al kernel
+[INFO] 00:52:10:545 kernel/(12441:12441): RECIBI EL tamaño: -1217398816
+[INFO] 00:52:10:547 kernel/(12441:12441): RECIBI DE: 858993978
+[INFO] 00:52:10:548 kernel/(12441:12441): RECIBI EL  TIPO MENSAJE: -1217398816
+[INFO] 00:52:10:548 kernel/(12441:12441): RECIBI EL MENSAJE: 0
+[INFO] 00:54:39:654 kernel/(12710:12710): inicio Consola
+[DEBUG] 00:54:39:655 kernel/(12710:12710): 1233
+[DEBUG] 00:54:39:655 kernel/(12710:12710): pseudocodigo.txt
+[DEBUG] 00:54:39:655 kernel/(12710:12710): crearMensaje
+[INFO] 00:54:39:660 kernel/(12710:12710): socket kernel 4
+[INFO] 00:54:39:660 kernel/(12710:12710): Envie Instrucciones al kernel
+[INFO] 00:54:52:672 kernel/(12710:12710): RECIBI EL tamaño: -1217468448
+[INFO] 00:54:52:673 kernel/(12710:12710): RECIBI DE: 808859194
+[INFO] 00:54:52:673 kernel/(12710:12710): RECIBI EL  TIPO MENSAJE: -1217468448
+[INFO] 00:54:52:673 kernel/(12710:12710): RECIBI EL MENSAJE: 0
+[INFO] 00:58:43:288 kernel/(13086:13086): inicio Consola
+[DEBUG] 00:58:43:288 kernel/(13086:13086): 1233
+[DEBUG] 00:58:43:288 kernel/(13086:13086): pseudocodigo.txt
+[DEBUG] 00:58:43:288 kernel/(13086:13086): crearMensaje
+[INFO] 00:58:43:289 kernel/(13086:13086): socket kernel 4
+[INFO] 00:58:43:289 kernel/(13086:13086): Envie Instrucciones al kernel
+[INFO] 00:58:56:300 kernel/(13086:13086): RECIBI EL tamaño: -1216895008
+[INFO] 00:58:56:301 kernel/(13086:13086): RECIBI DE: 959984186
+[INFO] 00:58:56:301 kernel/(13086:13086): RECIBI EL  TIPO MENSAJE: -1216895008
+[INFO] 00:58:56:301 kernel/(13086:13086): RECIBI EL MENSAJE: 0
+[INFO] 01:03:08:643 kernel/(13557:13557): inicio Consola
+[DEBUG] 01:03:08:643 kernel/(13557:13557): 1222
+[DEBUG] 01:03:08:643 kernel/(13557:13557): pseudocodigo.txt
+[DEBUG] 01:03:08:643 kernel/(13557:13557): crearMensaje
+[INFO] 01:03:08:645 kernel/(13557:13557): socket kernel 4
+[INFO] 01:03:08:645 kernel/(13557:13557): Envie Instrucciones al kernel
+[INFO] 01:03:11:441 kernel/(13567:13567): inicio Consola
+[DEBUG] 01:03:11:441 kernel/(13567:13567): 1233
+[DEBUG] 01:03:11:441 kernel/(13567:13567): pseudocodigo.txt
+[DEBUG] 01:03:11:441 kernel/(13567:13567): crearMensaje
+[INFO] 01:03:11:442 kernel/(13567:13567): socket kernel 4
+[INFO] 01:03:11:442 kernel/(13567:13567): Envie Instrucciones al kernel
+[INFO] 01:03:15:652 kernel/(13567:13567): RECIBI EL tamaño: -1217320992
+[INFO] 01:03:15:652 kernel/(13557:13557): RECIBI EL tamaño: -1216718880
+[INFO] 01:03:15:655 kernel/(13557:13557): RECIBI DE: 892614202
+[INFO] 01:03:15:655 kernel/(13567:13567): RECIBI DE: 842282042
+[INFO] 01:03:15:655 kernel/(13567:13567): RECIBI EL  TIPO MENSAJE: -1217320992
+[INFO] 01:03:15:655 kernel/(13557:13557): RECIBI EL  TIPO MENSAJE: -1216718880
+[INFO] 01:03:15:655 kernel/(13567:13567): RECIBI EL MENSAJE: 0
+[INFO] 01:03:15:656 kernel/(13557:13557): RECIBI EL MENSAJE: 0
+[INFO] 01:09:31:421 kernel/(14177:14177): inicio Consola
+[DEBUG] 01:09:31:421 kernel/(14177:14177): 1233
+[DEBUG] 01:09:31:422 kernel/(14177:14177): pseudocodigo.txt
+[DEBUG] 01:09:31:422 kernel/(14177:14177): crearMensaje
+[INFO] 01:09:31:423 kernel/(14177:14177): socket kernel 4
+[INFO] 01:09:31:423 kernel/(14177:14177): Envie Instrucciones al kernel
+[INFO] 01:09:44:419 kernel/(14177:14177): RECIBI EL tamaño: -1217316896
+[INFO] 01:09:44:420 kernel/(14177:14177): RECIBI DE: 858928186
+[INFO] 01:09:44:420 kernel/(14177:14177): RECIBI EL  TIPO MENSAJE: -1217316896
+[INFO] 01:09:44:420 kernel/(14177:14177): RECIBI EL MENSAJE: 0
+[INFO] 01:10:48:525 kernel/(14327:14327): inicio Consola
+[DEBUG] 01:10:48:525 kernel/(14327:14327): 1233
+[DEBUG] 01:10:48:526 kernel/(14327:14327): pseudocodigo.txt
+[DEBUG] 01:10:48:526 kernel/(14327:14327): crearMensaje
+[INFO] 01:10:48:527 kernel/(14327:14327): socket kernel 4
+[INFO] 01:10:48:527 kernel/(14327:14327): Envie Instrucciones al kernel
+[INFO] 01:10:52:617 kernel/(14335:14335): inicio Consola
+[DEBUG] 01:10:52:617 kernel/(14335:14335): 1222
+[DEBUG] 01:10:52:617 kernel/(14335:14335): pseudocodigo.txt
+[DEBUG] 01:10:52:617 kernel/(14335:14335): crearMensaje
+[INFO] 01:10:52:618 kernel/(14335:14335): socket kernel 4
+[INFO] 01:10:52:619 kernel/(14335:14335): Envie Instrucciones al kernel
+[INFO] 01:10:55:536 kernel/(14335:14335): RECIBI EL tamaño: -1216829472
+[INFO] 01:10:55:536 kernel/(14327:14327): RECIBI EL tamaño: -1217320992
+[INFO] 01:10:55:539 kernel/(14327:14327): RECIBI DE: 926037306
+[INFO] 01:10:55:539 kernel/(14327:14327): RECIBI EL  TIPO MENSAJE: -1217320992
+[INFO] 01:10:55:539 kernel/(14335:14335): RECIBI DE: 959526458
+[INFO] 01:10:55:540 kernel/(14327:14327): RECIBI EL MENSAJE: 0
+[INFO] 01:10:55:540 kernel/(14335:14335): RECIBI EL  TIPO MENSAJE: -1216829472
+[INFO] 01:10:55:543 kernel/(14335:14335): RECIBI EL MENSAJE: 0
+[INFO] 01:13:01:638 kernel/(14542:14542): inicio Consola
+[DEBUG] 01:13:01:639 kernel/(14542:14542): 1233
+[DEBUG] 01:13:01:639 kernel/(14542:14542): pseudocodigo.txt
+[DEBUG] 01:13:01:639 kernel/(14542:14542): crearMensaje
+[INFO] 01:13:01:640 kernel/(14542:14542): socket kernel 4
+[INFO] 01:13:01:640 kernel/(14542:14542): Envie Instrucciones al kernel
+[INFO] 01:13:03:759 kernel/(14547:14547): inicio Consola
+[DEBUG] 01:13:03:759 kernel/(14547:14547): 1222
+[DEBUG] 01:13:03:759 kernel/(14547:14547): pseudocodigo.txt
+[DEBUG] 01:13:03:759 kernel/(14547:14547): crearMensaje
+[INFO] 01:13:03:760 kernel/(14547:14547): socket kernel 4
+[INFO] 01:13:03:761 kernel/(14547:14547): Envie Instrucciones al kernel
+[INFO] 01:13:08:650 kernel/(14547:14547): RECIBI EL tamaño: -1217402912
+[INFO] 01:13:08:650 kernel/(14542:14542): RECIBI EL tamaño: -1217284128
+[INFO] 01:13:08:651 kernel/(14542:14542): RECIBI DE: 808728122
+[INFO] 01:13:08:651 kernel/(14547:14547): RECIBI DE: 825636666
+[INFO] 01:13:08:651 kernel/(14542:14542): RECIBI EL  TIPO MENSAJE: -1217284128
+[INFO] 01:13:08:651 kernel/(14547:14547): RECIBI EL  TIPO MENSAJE: -1217402912
+[INFO] 01:13:08:651 kernel/(14542:14542): RECIBI EL MENSAJE: 0
+[INFO] 01:13:08:651 kernel/(14547:14547): RECIBI EL MENSAJE: 0
+
+[INFO] 15:57:00:639 kernel/(9296:9296): inicio Consola
+[DEBUG] 15:57:00:641 kernel/(9296:9296): 1111
+[DEBUG] 15:57:00:641 kernel/(9296:9296): pseudocodigo.txt
+[DEBUG] 15:57:00:641 kernel/(9296:9296): crearMensaje
+[INFO] 15:58:36:638 kernel/(9667:9667): inicio Consola
+[DEBUG] 15:58:36:638 kernel/(9667:9667): 1111
+[DEBUG] 15:58:36:639 kernel/(9667:9667): pseudocodigo.txt
+[DEBUG] 15:58:36:639 kernel/(9667:9667): crearMensaje
+[INFO] 15:58:36:641 kernel/(9667:9667): socket kernel 4
+[INFO] 15:58:36:641 kernel/(9667:9667): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 15:58:47:870 kernel/(9667:9667): 
+////////////////////Recibi este mensaje: (null)
+[INFO] 16:01:09:045 kernel/(9977:9977): inicio Consola
+[DEBUG] 16:01:09:045 kernel/(9977:9977): 1111
+[DEBUG] 16:01:09:045 kernel/(9977:9977): pseudocodigo.txt
+[DEBUG] 16:01:09:045 kernel/(9977:9977): crearMensaje
+[INFO] 16:01:09:046 kernel/(9977:9977): socket kernel 4
+[INFO] 16:01:09:046 kernel/(9977:9977): 
+/////////////////////Envie el mensaje al kernel
+
+[INFO] 16:02:22:389 kernel/(9977:9977): 
+////////////////////Recibi este mensaje: (null)
+
+[INFO] 16:25:16:596 kernel/(12869:12869): inicio Consola
+[DEBUG] 16:25:16:597 kernel/(12869:12869): 111
+[DEBUG] 16:25:16:597 kernel/(12869:12869): BASE_1.txt
+[DEBUG] 16:25:16:597 kernel/(12869:12869): crearMensaje
+[INFO] 16:25:16:599 kernel/(12869:12869): socket kernel 4
+[INFO] 16:25:16:599 kernel/(12869:12869): Envie Instrucciones al kernel
+[INFO] 16:25:17:987 kernel/(12874:12874): inicio Consola
+[DEBUG] 16:25:17:987 kernel/(12874:12874): 222
+[DEBUG] 16:25:17:988 kernel/(12874:12874): BASE_2.txt
+[DEBUG] 16:25:17:988 kernel/(12874:12874): crearMensaje
+[INFO] 16:25:17:990 kernel/(12874:12874): socket kernel 4
+[INFO] 16:25:17:991 kernel/(12874:12874): Envie Instrucciones al kernel
+[INFO] 16:27:50:198 kernel/(12874:12874): RECIBI EL tamaño: -1216784384
+[INFO] 16:27:50:198 kernel/(12869:12869): RECIBI EL tamaño: -1216976912
+[INFO] 16:27:50:198 kernel/(12869:12869): RECIBI DE: 1970435187
+[INFO] 16:27:50:198 kernel/(12874:12874): RECIBI DE: 1970435187
+[INFO] 16:27:50:198 kernel/(12869:12869): RECIBI EL  TIPO MENSAJE: -1216976912
+[INFO] 16:27:50:199 kernel/(12874:12874): RECIBI EL  TIPO MENSAJE: -1216784384
+[INFO] 16:27:50:199 kernel/(12869:12869): RECIBI EL MENSAJE: 0
+[INFO] 16:27:50:199 kernel/(12874:12874): RECIBI EL MENSAJE: 0
+[INFO] 16:42:08:945 kernel/(15015:15015): inicio Consola
+[DEBUG] 16:42:08:945 kernel/(15015:15015): 111
+[DEBUG] 16:42:08:945 kernel/(15015:15015): BASE_1.txt
+[DEBUG] 16:42:08:946 kernel/(15015:15015): crearMensaje
+[INFO] 16:42:08:946 kernel/(15015:15015): socket kernel 4
+[INFO] 16:42:08:946 kernel/(15015:15015): Envie Instrucciones al kernel
+[INFO] 16:42:09:340 kernel/(15015:15015): RECIBI EL tamaño: -1217456144
+[INFO] 16:42:09:340 kernel/(15015:15015): RECIBI DE: 1970435187
+[INFO] 16:42:09:340 kernel/(15015:15015): RECIBI EL  TIPO MENSAJE: -1217456144
+[INFO] 16:42:09:340 kernel/(15015:15015): RECIBI EL MENSAJE: 0
+[INFO] 16:42:10:884 kernel/(15022:15022): inicio Consola
+[DEBUG] 16:42:10:884 kernel/(15022:15022): 222
+[DEBUG] 16:42:10:884 kernel/(15022:15022): BASE_2.txt
+[DEBUG] 16:42:10:884 kernel/(15022:15022): crearMensaje
+[INFO] 16:43:49:690 kernel/(15226:15226): inicio Consola
+[DEBUG] 16:43:49:692 kernel/(15226:15226): 111
+[DEBUG] 16:43:49:692 kernel/(15226:15226): BASE_1.txt
+[DEBUG] 16:43:49:692 kernel/(15226:15226): crearMensaje
+[INFO] 16:43:49:694 kernel/(15226:15226): socket kernel 4
+[INFO] 16:43:49:694 kernel/(15226:15226): Envie Instrucciones al kernel
+[INFO] 16:43:50:038 kernel/(15226:15226): RECIBI EL tamaño: -1217124368
+[INFO] 16:43:50:038 kernel/(15226:15226): RECIBI DE: 1970435187
+[INFO] 16:43:50:038 kernel/(15226:15226): RECIBI EL  TIPO MENSAJE: -1217124368
+[INFO] 16:43:50:038 kernel/(15226:15226): RECIBI EL MENSAJE: 0
+[INFO] 16:47:32:624 kernel/(15656:15656): inicio Consola
+[DEBUG] 16:47:32:625 kernel/(15656:15656): 111
+[DEBUG] 16:47:32:626 kernel/(15656:15656): BASE_1.txt
+[DEBUG] 16:47:32:626 kernel/(15656:15656): crearMensaje
+[INFO] 16:47:32:627 kernel/(15656:15656): socket kernel 4
+[INFO] 16:47:32:627 kernel/(15656:15656): Envie Instrucciones al kernel
+[INFO] 16:47:32:991 kernel/(15656:15656): RECIBI EL tamaño: -1217034256
+[INFO] 16:47:32:991 kernel/(15656:15656): RECIBI DE: 1970435187
+[INFO] 16:47:32:991 kernel/(15656:15656): RECIBI EL  TIPO MENSAJE: -1217034256
+[INFO] 16:47:32:991 kernel/(15656:15656): RECIBI EL MENSAJE: 0
+[INFO] 16:48:47:077 kernel/(15841:15841): inicio Consola
+[DEBUG] 16:48:47:079 kernel/(15841:15841): 111
+[DEBUG] 16:48:47:080 kernel/(15841:15841): BASE_1.txt
+[DEBUG] 16:48:47:080 kernel/(15841:15841): crearMensaje
+[INFO] 16:48:47:082 kernel/(15841:15841): socket kernel 4
+[INFO] 16:48:47:082 kernel/(15841:15841): Envie Instrucciones al kernel
+[INFO] 16:48:47:433 kernel/(15841:15841): RECIBI EL tamaño: -1217361936
+[INFO] 16:48:47:433 kernel/(15841:15841): RECIBI DE: 1970435187
+[INFO] 16:48:47:433 kernel/(15841:15841): RECIBI EL  TIPO MENSAJE: -1217361936
+[INFO] 16:48:47:433 kernel/(15841:15841): RECIBI EL MENSAJE: 0
+[INFO] 16:51:04:214 kernel/(16110:16110): inicio Consola
+[DEBUG] 16:51:04:214 kernel/(16110:16110): 111
+[DEBUG] 16:51:04:215 kernel/(16110:16110): BASE_1.txt
+[DEBUG] 16:51:04:215 kernel/(16110:16110): crearMensaje
+[INFO] 16:51:04:217 kernel/(16110:16110): socket kernel 4
+[INFO] 16:51:04:217 kernel/(16110:16110): Envie Instrucciones al kernel
+[INFO] 16:51:04:544 kernel/(16110:16110): RECIBI EL tamaño: -1217644560
+[INFO] 16:51:04:544 kernel/(16110:16110): RECIBI DE: 1970435187
+[INFO] 16:51:04:544 kernel/(16110:16110): RECIBI EL  TIPO MENSAJE: -1217644560
+[INFO] 16:51:04:544 kernel/(16110:16110): RECIBI EL MENSAJE: 0
+[INFO] 16:56:31:996 kernel/(16658:16658): inicio Consola
+[DEBUG] 16:56:31:998 kernel/(16658:16658): 111
+[DEBUG] 16:56:31:998 kernel/(16658:16658): BASE_1.txt
+[DEBUG] 16:56:31:998 kernel/(16658:16658): crearMensaje
+[INFO] 16:56:32:000 kernel/(16658:16658): socket kernel 4
+[INFO] 16:56:32:000 kernel/(16658:16658): Envie Instrucciones al kernel
+[INFO] 16:56:32:340 kernel/(16658:16658): RECIBI EL tamaño: -1217046544
+[INFO] 16:56:32:340 kernel/(16658:16658): RECIBI DE: 1970435187
+[INFO] 16:56:32:340 kernel/(16658:16658): RECIBI EL  TIPO MENSAJE: -1217046544
+[INFO] 16:56:32:340 kernel/(16658:16658): RECIBI EL MENSAJE: 0
+[INFO] 16:58:27:057 kernel/(16880:16880): inicio Consola
+[DEBUG] 16:58:27:058 kernel/(16880:16880): 111
+[DEBUG] 16:58:27:058 kernel/(16880:16880): BASE_1.txt
+[DEBUG] 16:58:27:058 kernel/(16880:16880): crearMensaje
+[INFO] 16:58:27:060 kernel/(16880:16880): socket kernel 4
+[INFO] 16:58:27:060 kernel/(16880:16880): Envie Instrucciones al kernel
+[INFO] 16:58:27:403 kernel/(16880:16880): RECIBI EL tamaño: -1217587216
+[INFO] 16:58:27:403 kernel/(16880:16880): RECIBI DE: 1970435187
+[INFO] 16:58:27:403 kernel/(16880:16880): RECIBI EL  TIPO MENSAJE: -1217587216
+[INFO] 16:58:27:403 kernel/(16880:16880): RECIBI EL MENSAJE: 0
+[INFO] 17:11:49:980 kernel/(18214:18214): inicio Consola
+[DEBUG] 17:11:49:984 kernel/(18214:18214): 111
+[DEBUG] 17:11:49:984 kernel/(18214:18214): BASE_1.txt
+[DEBUG] 17:11:49:985 kernel/(18214:18214): crearMensaje
+[INFO] 17:11:49:986 kernel/(18214:18214): socket kernel 4
+[INFO] 17:11:49:986 kernel/(18214:18214): Envie Instrucciones al kernel
+[INFO] 17:11:50:382 kernel/(18214:18214): RECIBI EL tamaño: -1217370128
+[INFO] 17:11:50:382 kernel/(18214:18214): RECIBI DE: 1970435187
+[INFO] 17:11:50:382 kernel/(18214:18214): RECIBI EL  TIPO MENSAJE: -1217370128
+[INFO] 17:11:50:382 kernel/(18214:18214): RECIBI EL MENSAJE: 0
+[INFO] 17:16:46:495 kernel/(18887:18887): inicio Consola
+[DEBUG] 17:16:46:497 kernel/(18887:18887): 111
+[DEBUG] 17:16:46:497 kernel/(18887:18887): BASE_1.txt
+[DEBUG] 17:16:46:497 kernel/(18887:18887): crearMensaje
+[INFO] 17:16:46:498 kernel/(18887:18887): socket kernel 4
+[INFO] 17:16:46:498 kernel/(18887:18887): Envie Instrucciones al kernel
+[INFO] 17:16:46:931 kernel/(18887:18887): RECIBI EL tamaño: -1217652752
+[INFO] 17:16:46:931 kernel/(18887:18887): RECIBI DE: 1970435187
+[INFO] 17:16:46:931 kernel/(18887:18887): RECIBI EL  TIPO MENSAJE: -1217652752
+[INFO] 17:16:46:931 kernel/(18887:18887): RECIBI EL MENSAJE: 0
+[INFO] 20:18:11:037 kernel/(1739:1739): inicio Consola
+[DEBUG] 20:18:11:038 kernel/(1739:1739): 111
+[DEBUG] 20:18:11:038 kernel/(1739:1739): BASE_1.txt
+[DEBUG] 20:18:11:038 kernel/(1739:1739): crearMensaje
+[INFO] 20:18:11:040 kernel/(1739:1739): socket kernel 4
+[INFO] 20:18:11:040 kernel/(1739:1739): Envie Instrucciones al kernel
+[INFO] 20:18:12:806 kernel/(1739:1739): RECIBI EL tamaño: -1217501200
+[INFO] 20:18:12:806 kernel/(1739:1739): RECIBI DE: 1970435187
+[INFO] 20:18:12:806 kernel/(1739:1739): RECIBI EL  TIPO MENSAJE: -1217501200
+[INFO] 20:18:12:806 kernel/(1739:1739): RECIBI EL MENSAJE: 0
+[INFO] 20:21:03:940 kernel/(2338:2338): inicio Consola
+[DEBUG] 20:21:03:941 kernel/(2338:2338): 111
+[DEBUG] 20:21:03:941 kernel/(2338:2338): BASE_1.txt
+[DEBUG] 20:21:03:941 kernel/(2338:2338): crearMensaje
+[INFO] 20:21:03:943 kernel/(2338:2338): socket kernel 4
+[INFO] 20:21:03:943 kernel/(2338:2338): Envie Instrucciones al kernel
+[INFO] 20:21:06:194 kernel/(2338:2338): RECIBI EL tamaño: -1217476624
+[INFO] 20:21:06:194 kernel/(2338:2338): RECIBI DE: 1970435187
+[INFO] 20:21:06:194 kernel/(2338:2338): RECIBI EL  TIPO MENSAJE: -1217476624
+[INFO] 20:21:06:194 kernel/(2338:2338): RECIBI EL MENSAJE: 0
+[INFO] 22:10:05:671 kernel/(10842:10842): inicio Consola
+[DEBUG] 22:10:05:671 kernel/(10842:10842): 111
+[DEBUG] 22:10:05:671 kernel/(10842:10842): BASE_1.txt
+[DEBUG] 22:10:05:671 kernel/(10842:10842): crearMensaje
+[INFO] 22:10:05:672 kernel/(10842:10842): socket kernel 4
+[INFO] 22:10:05:672 kernel/(10842:10842): Envie Instrucciones al kernel
+[INFO] 22:10:06:076 kernel/(10842:10842): RECIBI EL tamaño: -1217460240
+[INFO] 22:10:06:076 kernel/(10842:10842): RECIBI DE: 1970435187
+[INFO] 22:10:06:076 kernel/(10842:10842): RECIBI EL  TIPO MENSAJE: -1217460240
+[INFO] 22:10:06:076 kernel/(10842:10842): RECIBI EL MENSAJE: 0
+[INFO] 22:13:20:647 kernel/(11034:11034): inicio Consola
+[DEBUG] 22:13:20:648 kernel/(11034:11034): 111
+[DEBUG] 22:13:20:649 kernel/(11034:11034): BASE_1.txt
+[DEBUG] 22:13:20:649 kernel/(11034:11034): crearMensaje
+[INFO] 22:13:20:650 kernel/(11034:11034): socket kernel 4
+[INFO] 22:13:20:651 kernel/(11034:11034): Envie Instrucciones al kernel
+[INFO] 22:13:21:000 kernel/(11034:11034): RECIBI EL tamaño: -1216813072
+[INFO] 22:13:21:000 kernel/(11034:11034): RECIBI DE: 1970435187
+[INFO] 22:13:21:000 kernel/(11034:11034): RECIBI EL  TIPO MENSAJE: -1216813072
+[INFO] 22:13:21:000 kernel/(11034:11034): RECIBI EL MENSAJE: 0
+[INFO] 22:22:28:619 kernel/(11494:11494): inicio Consola
+[DEBUG] 22:22:28:621 kernel/(11494:11494): 111
+[DEBUG] 22:22:28:621 kernel/(11494:11494): BASE_1.txt
+[DEBUG] 22:22:28:621 kernel/(11494:11494): crearMensaje
+[INFO] 22:22:28:623 kernel/(11494:11494): socket kernel 4
+[INFO] 22:22:28:623 kernel/(11494:11494): Envie Instrucciones al kernel
+[INFO] 22:22:29:061 kernel/(11494:11494): RECIBI EL tamaño: -1216706576
+[INFO] 22:22:29:061 kernel/(11494:11494): RECIBI DE: 1970435187
+[INFO] 22:22:29:061 kernel/(11494:11494): RECIBI EL  TIPO MENSAJE: -1216706576
+[INFO] 22:22:29:061 kernel/(11494:11494): RECIBI EL MENSAJE: 0
+[INFO] 22:28:38:481 kernel/(11806:11806): inicio Consola
+[DEBUG] 22:28:38:482 kernel/(11806:11806): 111
+[DEBUG] 22:28:38:482 kernel/(11806:11806): BASE_1.txt
+[DEBUG] 22:28:38:482 kernel/(11806:11806): crearMensaje
+[INFO] 22:28:38:484 kernel/(11806:11806): socket kernel 4
+[INFO] 22:28:38:484 kernel/(11806:11806): Envie Instrucciones al kernel
+[INFO] 22:28:38:947 kernel/(11806:11806): RECIBI EL tamaño: -1217513488
+[INFO] 22:28:38:947 kernel/(11806:11806): RECIBI DE: 1970435187
+[INFO] 22:28:38:947 kernel/(11806:11806): RECIBI EL  TIPO MENSAJE: -1217513488
+[INFO] 22:28:38:947 kernel/(11806:11806): RECIBI EL MENSAJE: 0
+[INFO] 22:46:17:317 kernel/(12873:12873): inicio Consola
+[DEBUG] 22:46:17:317 kernel/(12873:12873): 111
+[DEBUG] 22:46:17:317 kernel/(12873:12873): BASE_1.txt
+[DEBUG] 22:46:17:317 kernel/(12873:12873): crearMensaje
+[INFO] 22:46:17:318 kernel/(12873:12873): socket kernel 4
+[INFO] 22:46:17:318 kernel/(12873:12873): Envie Instrucciones al kernel
+[INFO] 22:46:17:603 kernel/(12873:12873): RECIBI EL tamaño: -1217189904
+[INFO] 22:46:17:603 kernel/(12873:12873): RECIBI DE: 1970435187
+[INFO] 22:46:17:603 kernel/(12873:12873): RECIBI EL  TIPO MENSAJE: -1217189904
+[INFO] 22:46:17:603 kernel/(12873:12873): RECIBI EL MENSAJE: 0
+[INFO] 22:49:03:764 kernel/(13165:13165): inicio Consola
+[DEBUG] 22:49:03:766 kernel/(13165:13165): 111
+[DEBUG] 22:49:03:766 kernel/(13165:13165): BASE_1.txt
+[DEBUG] 22:49:03:766 kernel/(13165:13165): crearMensaje
+[INFO] 22:49:03:768 kernel/(13165:13165): socket kernel 4
+[INFO] 22:49:03:769 kernel/(13165:13165): Envie Instrucciones al kernel
+[INFO] 22:49:04:079 kernel/(13165:13165): RECIBI EL tamaño: -1217071120
+[INFO] 22:49:04:079 kernel/(13165:13165): RECIBI DE: 1970435187
+[INFO] 22:49:04:079 kernel/(13165:13165): RECIBI EL  TIPO MENSAJE: -1217071120
+[INFO] 22:49:04:079 kernel/(13165:13165): RECIBI EL MENSAJE: 0
+[INFO] 22:57:24:480 kernel/(13691:13691): inicio Consola
+[DEBUG] 22:57:24:481 kernel/(13691:13691): 111
+[DEBUG] 22:57:24:481 kernel/(13691:13691): BASE_1.txt
+[DEBUG] 22:57:24:482 kernel/(13691:13691): crearMensaje
+[INFO] 22:57:24:483 kernel/(13691:13691): socket kernel 4
+[INFO] 22:57:24:488 kernel/(13691:13691): Envie Instrucciones al kernel
+[INFO] 22:57:24:802 kernel/(13691:13691): RECIBI EL tamaño: -1217091600
+[INFO] 22:57:24:802 kernel/(13691:13691): RECIBI DE: 1970435187
+[INFO] 22:57:24:802 kernel/(13691:13691): RECIBI EL  TIPO MENSAJE: -1217091600
+[INFO] 22:57:24:802 kernel/(13691:13691): RECIBI EL MENSAJE: 0
+[INFO] 22:58:47:974 kernel/(13829:13829): inicio Consola
+[DEBUG] 22:58:47:976 kernel/(13829:13829): 111
+[DEBUG] 22:58:47:976 kernel/(13829:13829): BASE_1.txt
+[DEBUG] 22:58:47:976 kernel/(13829:13829): crearMensaje
+[INFO] 22:58:47:978 kernel/(13829:13829): socket kernel 4
+[INFO] 22:58:47:978 kernel/(13829:13829): Envie Instrucciones al kernel
+[INFO] 22:58:48:417 kernel/(13829:13829): RECIBI EL tamaño: -1217468432
+[INFO] 22:58:48:417 kernel/(13829:13829): RECIBI DE: 1970435187
+[INFO] 22:58:48:417 kernel/(13829:13829): RECIBI EL  TIPO MENSAJE: -1217468432
+[INFO] 22:58:48:417 kernel/(13829:13829): RECIBI EL MENSAJE: 0
+[INFO] 23:00:24:665 kernel/(14015:14015): inicio Consola
+[DEBUG] 23:00:24:667 kernel/(14015:14015): 111
+[DEBUG] 23:00:24:667 kernel/(14015:14015): BASE_1.txt
+[DEBUG] 23:00:24:667 kernel/(14015:14015): crearMensaje
+[INFO] 23:00:24:674 kernel/(14015:14015): socket kernel 4
+[INFO] 23:00:24:674 kernel/(14015:14015): Envie Instrucciones al kernel
+[INFO] 23:00:25:216 kernel/(14015:14015): RECIBI EL tamaño: -1217529872
+[INFO] 23:00:25:216 kernel/(14015:14015): RECIBI DE: 1970435187
+[INFO] 23:00:25:216 kernel/(14015:14015): RECIBI EL  TIPO MENSAJE: -1217529872
+[INFO] 23:00:25:216 kernel/(14015:14015): RECIBI EL MENSAJE: 0
+[INFO] 23:09:56:323 kernel/(14491:14491): inicio Consola
+[DEBUG] 23:09:56:324 kernel/(14491:14491): 111
+[DEBUG] 23:09:56:324 kernel/(14491:14491): BASE_1.txt
+[DEBUG] 23:09:56:324 kernel/(14491:14491): crearMensaje
+[INFO] 23:09:56:331 kernel/(14491:14491): socket kernel 4
+[INFO] 23:09:56:332 kernel/(14491:14491): Envie Instrucciones al kernel
+[INFO] 23:09:56:541 kernel/(14491:14491): RECIBI EL tamaño: -1216735248
+[INFO] 23:09:56:542 kernel/(14491:14491): RECIBI DE: 1970435187
+[INFO] 23:09:56:542 kernel/(14491:14491): RECIBI EL  TIPO MENSAJE: -1216735248
+[INFO] 23:09:56:542 kernel/(14491:14491): RECIBI EL MENSAJE: 0
+[INFO] 23:16:07:246 kernel/(14910:14910): inicio Consola
+[DEBUG] 23:16:07:248 kernel/(14910:14910): 111
+[DEBUG] 23:16:07:248 kernel/(14910:14910): BASE_1.txt
+[DEBUG] 23:16:07:248 kernel/(14910:14910): crearMensaje
+[INFO] 23:16:07:253 kernel/(14910:14910): socket kernel 4
+[INFO] 23:16:07:254 kernel/(14910:14910): Envie Instrucciones al kernel
+[INFO] 23:16:07:843 kernel/(14910:14910): RECIBI EL tamaño: -1217411088
+[INFO] 23:16:07:843 kernel/(14910:14910): RECIBI DE: 1970435187
+[INFO] 23:16:07:843 kernel/(14910:14910): RECIBI EL  TIPO MENSAJE: -1217411088
+[INFO] 23:16:07:843 kernel/(14910:14910): RECIBI EL MENSAJE: 0
+[INFO] 23:18:39:931 kernel/(15147:15147): inicio Consola
+[DEBUG] 23:18:39:932 kernel/(15147:15147): 111
+[DEBUG] 23:18:39:932 kernel/(15147:15147): BASE_1.txt
+[DEBUG] 23:18:39:932 kernel/(15147:15147): crearMensaje
+[INFO] 23:18:39:941 kernel/(15147:15147): socket kernel 4
+[INFO] 23:18:39:942 kernel/(15147:15147): Envie Instrucciones al kernel
+[INFO] 23:18:40:478 kernel/(15147:15147): RECIBI EL tamaño: -1217288208
+[INFO] 23:18:40:478 kernel/(15147:15147): RECIBI DE: 1970435187
+[INFO] 23:18:40:478 kernel/(15147:15147): RECIBI EL  TIPO MENSAJE: -1217288208
+[INFO] 23:18:40:478 kernel/(15147:15147): RECIBI EL MENSAJE: 0
+[INFO] 23:26:39:798 kernel/(15570:15570): inicio Consola
+[DEBUG] 23:26:39:799 kernel/(15570:15570): 111
+[DEBUG] 23:26:39:799 kernel/(15570:15570): BASE_1.txt
+[DEBUG] 23:26:39:799 kernel/(15570:15570): crearMensaje
+[INFO] 23:26:39:807 kernel/(15570:15570): socket kernel 4
+[INFO] 23:26:39:807 kernel/(15570:15570): Envie Instrucciones al kernel
+[INFO] 23:26:40:498 kernel/(15570:15570): RECIBI EL tamaño: -1217464336
+[INFO] 23:26:40:498 kernel/(15570:15570): RECIBI DE: 1970435187
+[INFO] 23:26:40:498 kernel/(15570:15570): RECIBI EL  TIPO MENSAJE: -1217464336
+[INFO] 23:26:40:498 kernel/(15570:15570): RECIBI EL MENSAJE: 0
+[INFO] 23:34:41:152 kernel/(16049:16049): inicio Consola
+[DEBUG] 23:34:41:153 kernel/(16049:16049): 111
+[DEBUG] 23:34:41:153 kernel/(16049:16049): BASE_1.txt
+[DEBUG] 23:34:41:153 kernel/(16049:16049): crearMensaje
+[INFO] 23:34:41:158 kernel/(16049:16049): socket kernel 4
+[INFO] 23:34:41:160 kernel/(16049:16049): Envie Instrucciones al kernel
+[INFO] 23:34:41:376 kernel/(16049:16049): RECIBI EL tamaño: -1217533968
+[INFO] 23:34:41:376 kernel/(16049:16049): RECIBI DE: 1970435187
+[INFO] 23:34:41:376 kernel/(16049:16049): RECIBI EL  TIPO MENSAJE: -1217533968
+[INFO] 23:34:41:376 kernel/(16049:16049): RECIBI EL MENSAJE: 0
+[INFO] 23:38:08:447 kernel/(16242:16242): inicio Consola
+[DEBUG] 23:38:08:448 kernel/(16242:16242): 111
+[DEBUG] 23:38:08:448 kernel/(16242:16242): BASE_1.txt
+[DEBUG] 23:38:08:448 kernel/(16242:16242): crearMensaje
+[INFO] 23:38:08:453 kernel/(16242:16242): socket kernel 4
+[INFO] 23:38:08:454 kernel/(16242:16242): Envie Instrucciones al kernel
+[INFO] 23:38:08:990 kernel/(16242:16242): RECIBI EL tamaño: -1217611792
+[INFO] 23:38:08:990 kernel/(16242:16242): RECIBI DE: 1970435187
+[INFO] 23:38:08:990 kernel/(16242:16242): RECIBI EL  TIPO MENSAJE: -1217611792
+[INFO] 23:38:08:990 kernel/(16242:16242): RECIBI EL MENSAJE: 0
+[INFO] 23:43:25:240 kernel/(16511:16511): inicio Consola
+[DEBUG] 23:43:25:241 kernel/(16511:16511): 111
+[DEBUG] 23:43:25:241 kernel/(16511:16511): BASE_1.txt
+[DEBUG] 23:43:25:241 kernel/(16511:16511): crearMensaje
+[INFO] 23:43:25:245 kernel/(16511:16511): socket kernel 4
+[INFO] 23:43:25:245 kernel/(16511:16511): Envie Instrucciones al kernel
+[INFO] 23:43:25:988 kernel/(16511:16511): RECIBI EL tamaño: -1217509392
+[INFO] 23:43:25:988 kernel/(16511:16511): RECIBI DE: 1970435187
+[INFO] 23:43:25:988 kernel/(16511:16511): RECIBI EL  TIPO MENSAJE: -1217509392
+[INFO] 23:43:25:988 kernel/(16511:16511): RECIBI EL MENSAJE: 0
+[INFO] 23:49:03:738 kernel/(16829:16829): inicio Consola
+[DEBUG] 23:49:03:739 kernel/(16829:16829): 111
+[DEBUG] 23:49:03:739 kernel/(16829:16829): BASE_1.txt
+[DEBUG] 23:49:03:739 kernel/(16829:16829): crearMensaje
+[INFO] 23:49:03:743 kernel/(16829:16829): socket kernel 4
+[INFO] 23:49:03:743 kernel/(16829:16829): Envie Instrucciones al kernel
+[INFO] 23:49:04:330 kernel/(16829:16829): RECIBI EL tamaño: -1217652752
+[INFO] 23:49:04:330 kernel/(16829:16829): RECIBI DE: 1970435187
+[INFO] 23:49:04:330 kernel/(16829:16829): RECIBI EL  TIPO MENSAJE: -1217652752
+[INFO] 23:49:04:330 kernel/(16829:16829): RECIBI EL MENSAJE: 0
+[INFO] 23:55:24:873 kernel/(17130:17130): inicio Consola
+[DEBUG] 23:55:24:878 kernel/(17130:17130): 111
+[DEBUG] 23:55:24:878 kernel/(17130:17130): BASE_1.txt
+[DEBUG] 23:55:24:878 kernel/(17130:17130): crearMensaje
+[INFO] 23:55:24:882 kernel/(17130:17130): socket kernel 4
+[INFO] 23:55:24:882 kernel/(17130:17130): Envie Instrucciones al kernel
+[INFO] 23:55:25:408 kernel/(17130:17130): RECIBI EL tamaño: -1216915472
+[INFO] 23:55:25:408 kernel/(17130:17130): RECIBI DE: 1970435187
+[INFO] 23:55:25:408 kernel/(17130:17130): RECIBI EL  TIPO MENSAJE: -1216915472
+[INFO] 23:55:25:408 kernel/(17130:17130): RECIBI EL MENSAJE: 0
+[INFO] 09:47:38:697 kernel/(3967:3967): inicio Consola
+[DEBUG] 09:47:38:700 kernel/(3967:3967): 111
+[DEBUG] 09:47:38:701 kernel/(3967:3967): BASE_1.txt
+[DEBUG] 09:47:38:701 kernel/(3967:3967): crearMensaje
+[INFO] 09:47:38:706 kernel/(3967:3967): socket kernel 4
+[INFO] 09:47:38:706 kernel/(3967:3967): Envie Instrucciones al kernel
+[INFO] 09:47:39:310 kernel/(3967:3967): RECIBI EL tamaño: -1216714768
+[INFO] 09:47:39:311 kernel/(3967:3967): RECIBI DE: 1970435187
+[INFO] 09:47:39:311 kernel/(3967:3967): RECIBI EL  TIPO MENSAJE: -1216714768
+[INFO] 09:47:39:311 kernel/(3967:3967): RECIBI EL MENSAJE: 0
+[INFO] 09:56:55:048 kernel/(4962:4962): inicio Consola
+[DEBUG] 09:56:55:050 kernel/(4962:4962): 111
+[DEBUG] 09:56:55:050 kernel/(4962:4962): BASE_1.txt
+[DEBUG] 09:56:55:050 kernel/(4962:4962): crearMensaje
+[INFO] 09:56:55:053 kernel/(4962:4962): socket kernel 4
+[INFO] 09:56:55:055 kernel/(4962:4962): Envie Instrucciones al kernel
+[INFO] 09:56:55:607 kernel/(4962:4962): RECIBI EL tamaño: -1216849936
+[INFO] 09:56:55:607 kernel/(4962:4962): RECIBI DE: 1970435187
+[INFO] 09:56:55:607 kernel/(4962:4962): RECIBI EL  TIPO MENSAJE: -1216849936
+[INFO] 09:56:55:607 kernel/(4962:4962): RECIBI EL MENSAJE: 0
+[INFO] 09:58:17:135 kernel/(5139:5139): inicio Consola
+[DEBUG] 09:58:17:136 kernel/(5139:5139): 111
+[DEBUG] 09:58:17:136 kernel/(5139:5139): BASE_1.txt
+[DEBUG] 09:58:17:136 kernel/(5139:5139): crearMensaje
+[INFO] 09:58:17:140 kernel/(5139:5139): socket kernel 4
+[INFO] 09:58:17:140 kernel/(5139:5139): Envie Instrucciones al kernel
+[INFO] 09:58:17:497 kernel/(5139:5139): RECIBI EL tamaño: -1217673232
+[INFO] 09:58:17:498 kernel/(5139:5139): RECIBI DE: 1970435187
+[INFO] 09:58:17:498 kernel/(5139:5139): RECIBI EL  TIPO MENSAJE: -1217673232
+[INFO] 09:58:17:498 kernel/(5139:5139): RECIBI EL MENSAJE: 0
+[INFO] 10:05:57:408 kernel/(5963:5963): inicio Consola
+[DEBUG] 10:05:57:409 kernel/(5963:5963): 111
+[DEBUG] 10:05:57:409 kernel/(5963:5963): BASE_1.txt
+[DEBUG] 10:05:57:409 kernel/(5963:5963): crearMensaje
+[INFO] 10:05:57:415 kernel/(5963:5963): socket kernel 4
+[INFO] 10:05:57:415 kernel/(5963:5963): Envie Instrucciones al kernel
+[INFO] 10:05:57:786 kernel/(5963:5963): RECIBI EL tamaño: -1217669136
+[INFO] 10:05:57:786 kernel/(5963:5963): RECIBI DE: 1970435187
+[INFO] 10:05:57:786 kernel/(5963:5963): RECIBI EL  TIPO MENSAJE: -1217669136
+[INFO] 10:05:57:786 kernel/(5963:5963): RECIBI EL MENSAJE: 0
+[INFO] 10:11:02:883 kernel/(6495:6495): inicio Consola
+[DEBUG] 10:11:02:885 kernel/(6495:6495): 111
+[DEBUG] 10:11:02:886 kernel/(6495:6495): BASE_1.txt
+[DEBUG] 10:11:02:886 kernel/(6495:6495): crearMensaje
+[INFO] 10:11:02:892 kernel/(6495:6495): socket kernel 4
+[INFO] 10:11:02:895 kernel/(6495:6495): Envie Instrucciones al kernel
+[INFO] 10:11:03:476 kernel/(6495:6495): RECIBI EL tamaño: -1217099792
+[INFO] 10:11:03:476 kernel/(6495:6495): RECIBI DE: 1970435187
+[INFO] 10:11:03:476 kernel/(6495:6495): RECIBI EL  TIPO MENSAJE: -1217099792
+[INFO] 10:11:03:476 kernel/(6495:6495): RECIBI EL MENSAJE: 0
+[INFO] 10:18:40:346 kernel/(7423:7423): inicio Consola
+[DEBUG] 10:18:40:347 kernel/(7423:7423): 111
+[DEBUG] 10:18:40:347 kernel/(7423:7423): BASE_1.txt
+[DEBUG] 10:18:40:347 kernel/(7423:7423): crearMensaje
+[INFO] 10:18:40:355 kernel/(7423:7423): socket kernel 4
+[INFO] 10:18:40:355 kernel/(7423:7423): Envie Instrucciones al kernel
+[INFO] 10:18:40:884 kernel/(7423:7423): RECIBI EL tamaño: -1217476624
+[INFO] 10:18:40:885 kernel/(7423:7423): RECIBI DE: 1970435187
+[INFO] 10:18:40:885 kernel/(7423:7423): RECIBI EL  TIPO MENSAJE: -1217476624
+[INFO] 10:18:40:885 kernel/(7423:7423): RECIBI EL MENSAJE: 0
+[INFO] 10:26:32:148 kernel/(8194:8194): inicio Consola
+[DEBUG] 10:26:32:150 kernel/(8194:8194): 111
+[DEBUG] 10:26:32:150 kernel/(8194:8194): BASE_1.txt
+[DEBUG] 10:26:32:150 kernel/(8194:8194): crearMensaje
+[INFO] 10:26:32:157 kernel/(8194:8194): socket kernel 4
+[INFO] 10:26:32:158 kernel/(8194:8194): Envie Instrucciones al kernel
+[INFO] 10:26:32:558 kernel/(8194:8194): RECIBI EL tamaño: -1217443856
+[INFO] 10:26:32:558 kernel/(8194:8194): RECIBI DE: 1970435187
+[INFO] 10:26:32:558 kernel/(8194:8194): RECIBI EL  TIPO MENSAJE: -1217443856
+[INFO] 10:26:32:558 kernel/(8194:8194): RECIBI EL MENSAJE: 0
+[INFO] 11:18:30:809 kernel/(13960:13960): inicio Consola
+[DEBUG] 11:18:30:811 kernel/(13960:13960): 111
+[DEBUG] 11:18:30:811 kernel/(13960:13960): BASE_1.txt
+[DEBUG] 11:18:30:812 kernel/(13960:13960): crearMensaje
+[INFO] 11:18:30:816 kernel/(13960:13960): socket kernel 4
+[INFO] 11:18:30:822 kernel/(13960:13960): Envie Instrucciones al kernel
+[INFO] 11:18:31:472 kernel/(13960:13960): RECIBI EL tamaño: -1216854032
+[INFO] 11:18:31:472 kernel/(13960:13960): RECIBI DE: 1970435187
+[INFO] 11:18:31:472 kernel/(13960:13960): RECIBI EL  TIPO MENSAJE: -1216854032
+[INFO] 11:18:31:472 kernel/(13960:13960): RECIBI EL MENSAJE: 0
+[INFO] 11:21:36:837 kernel/(14392:14392): inicio Consola
+[DEBUG] 11:21:36:839 kernel/(14392:14392): 111
+[DEBUG] 11:21:36:839 kernel/(14392:14392): BASE_1.txt
+[DEBUG] 11:21:36:839 kernel/(14392:14392): crearMensaje
+[INFO] 11:21:36:845 kernel/(14392:14392): socket kernel 4
+[INFO] 11:21:36:845 kernel/(14392:14392): Envie Instrucciones al kernel
+[INFO] 11:23:51:873 kernel/(14392:14392): RECIBI EL tamaño: -1216972816
+[INFO] 11:23:51:873 kernel/(14392:14392): RECIBI DE: 1970435187
+[INFO] 11:23:51:873 kernel/(14392:14392): RECIBI EL  TIPO MENSAJE: -1216972816
+[INFO] 11:23:51:873 kernel/(14392:14392): RECIBI EL MENSAJE: 0
+[INFO] 11:25:48:147 kernel/(14806:14806): inicio Consola
+[DEBUG] 11:25:48:149 kernel/(14806:14806): 111
+[DEBUG] 11:25:48:149 kernel/(14806:14806): BASE_1.txt
+[DEBUG] 11:25:48:149 kernel/(14806:14806): crearMensaje
+[INFO] 11:25:48:165 kernel/(14806:14806): socket kernel 4
+[INFO] 11:25:48:165 kernel/(14806:14806): Envie Instrucciones al kernel
+[INFO] 11:27:10:042 kernel/(14806:14806): RECIBI EL tamaño: -1217693712
+[INFO] 11:27:10:044 kernel/(14806:14806): RECIBI DE: 1970435187
+[INFO] 11:27:10:045 kernel/(14806:14806): RECIBI EL  TIPO MENSAJE: -1217693712
+[INFO] 11:27:10:045 kernel/(14806:14806): RECIBI EL MENSAJE: 0
+[INFO] 11:28:37:620 kernel/(15301:15301): inicio Consola
+[DEBUG] 11:28:37:621 kernel/(15301:15301): 111
+[DEBUG] 11:28:37:621 kernel/(15301:15301): BASE_1.txt
+[DEBUG] 11:28:37:622 kernel/(15301:15301): crearMensaje
+[INFO] 11:28:37:629 kernel/(15301:15301): socket kernel 4
+[INFO] 11:28:37:629 kernel/(15301:15301): Envie Instrucciones al kernel
+[INFO] 11:34:31:111 kernel/(15301:15301): RECIBI EL tamaño: -1217677328
+[INFO] 11:34:31:113 kernel/(15301:15301): RECIBI DE: 1970435187
+[INFO] 11:34:31:113 kernel/(15301:15301): RECIBI EL  TIPO MENSAJE: -1217677328
+[INFO] 11:34:31:113 kernel/(15301:15301): RECIBI EL MENSAJE: 0
+[INFO] 11:35:41:461 kernel/(16194:16194): inicio Consola
+[DEBUG] 11:35:41:462 kernel/(16194:16194): 111
+[DEBUG] 11:35:41:462 kernel/(16194:16194): BASE_1.txt
+[DEBUG] 11:35:41:462 kernel/(16194:16194): crearMensaje
+[INFO] 11:35:41:471 kernel/(16194:16194): socket kernel 4
+[INFO] 11:35:41:471 kernel/(16194:16194): Envie Instrucciones al kernel
+[INFO] 11:36:01:031 kernel/(16194:16194): RECIBI EL tamaño: -1216694288
+[INFO] 11:36:01:031 kernel/(16194:16194): RECIBI DE: 1970435187
+[INFO] 11:36:01:031 kernel/(16194:16194): RECIBI EL  TIPO MENSAJE: -1216694288
+[INFO] 11:36:01:031 kernel/(16194:16194): RECIBI EL MENSAJE: 0
+[INFO] 11:40:44:540 kernel/(16896:16896): inicio Consola
+[DEBUG] 11:40:44:542 kernel/(16896:16896): 111
+[DEBUG] 11:40:44:542 kernel/(16896:16896): BASE_1.txt
+[DEBUG] 11:40:44:542 kernel/(16896:16896): crearMensaje
+[INFO] 11:40:44:545 kernel/(16896:16896): socket kernel 4
+[INFO] 11:40:44:547 kernel/(16896:16896): Envie Instrucciones al kernel
+[INFO] 11:41:22:310 kernel/(16896:16896): RECIBI EL tamaño: -1217431568
+[INFO] 11:41:22:311 kernel/(16896:16896): RECIBI DE: 1970435187
+[INFO] 11:41:22:311 kernel/(16896:16896): RECIBI EL  TIPO MENSAJE: -1217431568
+[INFO] 11:41:22:311 kernel/(16896:16896): RECIBI EL MENSAJE: 0
+[INFO] 11:43:22:538 kernel/(17144:17144): inicio Consola
+[DEBUG] 11:43:22:539 kernel/(17144:17144): 111
+[DEBUG] 11:43:22:539 kernel/(17144:17144): BASE_1.txt
+[DEBUG] 11:43:22:539 kernel/(17144:17144): crearMensaje
+[INFO] 11:43:22:543 kernel/(17144:17144): socket kernel 4
+[INFO] 11:43:22:543 kernel/(17144:17144): Envie Instrucciones al kernel
+[INFO] 11:47:06:647 kernel/(17144:17144): RECIBI EL tamaño: -1217026064
+[INFO] 11:47:06:648 kernel/(17144:17144): RECIBI DE: 1970435187
+[INFO] 11:47:06:648 kernel/(17144:17144): RECIBI EL  TIPO MENSAJE: -1217026064
+[INFO] 11:47:06:648 kernel/(17144:17144): RECIBI EL MENSAJE: 0
+[INFO] 11:49:01:101 kernel/(17900:17900): inicio Consola
+[DEBUG] 11:49:01:102 kernel/(17900:17900): 111
+[DEBUG] 11:49:01:102 kernel/(17900:17900): BASE_1.txt
+[DEBUG] 11:49:01:102 kernel/(17900:17900): crearMensaje
+[INFO] 11:49:01:103 kernel/(17900:17900): socket kernel 4
+[INFO] 11:49:01:103 kernel/(17900:17900): Envie Instrucciones al kernel
+[INFO] 11:51:06:315 kernel/(17900:17900): RECIBI EL tamaño: -1217353744
+[INFO] 11:51:06:315 kernel/(17900:17900): RECIBI DE: 1970435187
+[INFO] 11:51:06:315 kernel/(17900:17900): RECIBI EL  TIPO MENSAJE: -1217353744
+[INFO] 11:51:06:316 kernel/(17900:17900): RECIBI EL MENSAJE: 0
+[INFO] 11:54:10:822 kernel/(18453:18453): inicio Consola
+[DEBUG] 11:54:10:825 kernel/(18453:18453): 111
+[DEBUG] 11:54:10:825 kernel/(18453:18453): BASE_1.txt
+[DEBUG] 11:54:10:825 kernel/(18453:18453): crearMensaje
+[INFO] 11:54:10:826 kernel/(18453:18453): socket kernel 4
+[INFO] 11:54:10:826 kernel/(18453:18453): Envie Instrucciones al kernel
+[INFO] 11:55:33:481 kernel/(18453:18453): RECIBI EL tamaño: -1217341456
+[INFO] 11:55:33:481 kernel/(18453:18453): RECIBI DE: 1970435187
+[INFO] 11:55:33:481 kernel/(18453:18453): RECIBI EL  TIPO MENSAJE: -1217341456
+[INFO] 11:55:33:481 kernel/(18453:18453): RECIBI EL MENSAJE: 0
+[INFO] 12:05:37:514 kernel/(19644:19644): inicio Consola
+[DEBUG] 12:05:37:515 kernel/(19644:19644): 111
+[DEBUG] 12:05:37:515 kernel/(19644:19644): BASE_1.txt
+[DEBUG] 12:05:37:515 kernel/(19644:19644): crearMensaje
+[INFO] 12:05:37:516 kernel/(19644:19644): socket kernel 4
+[INFO] 12:05:37:516 kernel/(19644:19644): Envie Instrucciones al kernel
+[INFO] 12:07:39:366 kernel/(19644:19644): RECIBI EL tamaño: -1216874512
+[INFO] 12:07:39:366 kernel/(19644:19644): RECIBI DE: 1970435187
+[INFO] 12:07:39:366 kernel/(19644:19644): RECIBI EL  TIPO MENSAJE: -1216874512
+[INFO] 12:07:39:366 kernel/(19644:19644): RECIBI EL MENSAJE: 0
+[INFO] 12:13:41:339 kernel/(20592:20592): inicio Consola
+[DEBUG] 12:13:41:340 kernel/(20592:20592): 111
+[DEBUG] 12:13:41:340 kernel/(20592:20592): BASE_1.txt
+[DEBUG] 12:13:41:340 kernel/(20592:20592): crearMensaje
+[INFO] 12:13:41:344 kernel/(20592:20592): socket kernel 4
+[INFO] 12:13:41:344 kernel/(20592:20592): Envie Instrucciones al kernel
+[INFO] 12:14:23:490 kernel/(20592:20592): RECIBI EL tamaño: -1217021968
+[INFO] 12:14:23:491 kernel/(20592:20592): RECIBI DE: 1970435187
+[INFO] 12:14:23:491 kernel/(20592:20592): RECIBI EL  TIPO MENSAJE: -1217021968
+[INFO] 12:14:23:491 kernel/(20592:20592): RECIBI EL MENSAJE: 0
+[INFO] 12:16:10:767 kernel/(20855:20855): inicio Consola
+[DEBUG] 12:16:10:771 kernel/(20855:20855): 111
+[DEBUG] 12:16:10:771 kernel/(20855:20855): BASE_1.txt
+[DEBUG] 12:16:10:771 kernel/(20855:20855): crearMensaje
+[INFO] 12:45:59:724 kernel/(23620:23620): inicio Consola
+[DEBUG] 12:45:59:725 kernel/(23620:23620): 111
+[DEBUG] 12:45:59:726 kernel/(23620:23620): BASE_1.txt
+[DEBUG] 12:45:59:726 kernel/(23620:23620): crearMensaje
+[INFO] 12:45:59:733 kernel/(23620:23620): socket kernel 4
+[INFO] 12:45:59:733 kernel/(23620:23620): Envie Instrucciones al kernel
+[INFO] 12:48:10:112 kernel/(23620:23620): RECIBI EL tamaño: -1216956432
+[INFO] 12:48:10:114 kernel/(23620:23620): RECIBI DE: 1970435187
+[INFO] 12:48:10:115 kernel/(23620:23620): RECIBI EL  TIPO MENSAJE: -1216956432
+[INFO] 12:48:10:115 kernel/(23620:23620): RECIBI EL MENSAJE: 0
+[INFO] 12:49:15:403 kernel/(24074:24074): inicio Consola
+[DEBUG] 12:49:15:405 kernel/(24074:24074): 111
+[DEBUG] 12:49:15:405 kernel/(24074:24074): BASE_1.txt
+[DEBUG] 12:49:15:405 kernel/(24074:24074): crearMensaje
+[INFO] 12:49:15:411 kernel/(24074:24074): socket kernel 4
+[INFO] 12:49:15:411 kernel/(24074:24074): Envie Instrucciones al kernel
+[INFO] 12:51:15:579 kernel/(24074:24074): RECIBI EL tamaño: -1217107984
+[INFO] 12:51:15:580 kernel/(24074:24074): RECIBI DE: 1970435187
+[INFO] 12:51:15:580 kernel/(24074:24074): RECIBI EL  TIPO MENSAJE: -1217107984
+[INFO] 12:51:15:580 kernel/(24074:24074): RECIBI EL MENSAJE: 0
+[INFO] 12:53:56:373 kernel/(24576:24576): inicio Consola
+[DEBUG] 12:53:56:374 kernel/(24576:24576): 111
+[DEBUG] 12:53:56:374 kernel/(24576:24576): BASE_1.txt
+[DEBUG] 12:53:56:374 kernel/(24576:24576): crearMensaje
+[INFO] 12:53:56:375 kernel/(24576:24576): socket kernel 4
+[INFO] 12:53:56:375 kernel/(24576:24576): Envie Instrucciones al kernel
+[INFO] 12:54:45:385 kernel/(24576:24576): RECIBI EL tamaño: -1217513488
+[INFO] 12:54:45:385 kernel/(24576:24576): RECIBI DE: 1970435187
+[INFO] 12:54:45:385 kernel/(24576:24576): RECIBI EL  TIPO MENSAJE: -1217513488
+[INFO] 12:54:45:385 kernel/(24576:24576): RECIBI EL MENSAJE: 0
+[INFO] 12:56:08:988 kernel/(24837:24837): inicio Consola
+[DEBUG] 12:56:08:990 kernel/(24837:24837): 111
+[DEBUG] 12:56:08:990 kernel/(24837:24837): BASE_1.txt
+[DEBUG] 12:56:08:990 kernel/(24837:24837): crearMensaje
+[INFO] 12:56:08:992 kernel/(24837:24837): socket kernel 4
+[INFO] 12:56:08:994 kernel/(24837:24837): Envie Instrucciones al kernel
+[INFO] 12:57:24:599 kernel/(24837:24837): RECIBI EL tamaño: -1217259536
+[INFO] 12:57:24:601 kernel/(24837:24837): RECIBI DE: 1970435187
+[INFO] 12:57:24:601 kernel/(24837:24837): RECIBI EL  TIPO MENSAJE: -1217259536
+[INFO] 12:57:24:601 kernel/(24837:24837): RECIBI EL MENSAJE: 0
+[INFO] 13:02:14:631 kernel/(25532:25532): inicio Consola
+[DEBUG] 13:02:14:633 kernel/(25532:25532): 111
+[DEBUG] 13:02:14:633 kernel/(25532:25532): BASE_1.txt
+[DEBUG] 13:02:14:633 kernel/(25532:25532): crearMensaje
+[INFO] 13:02:14:637 kernel/(25532:25532): socket kernel 4
+[INFO] 13:02:14:637 kernel/(25532:25532): Envie Instrucciones al kernel
+[INFO] 13:03:36:045 kernel/(25532:25532): RECIBI EL tamaño: -1217239056
+[INFO] 13:03:36:048 kernel/(25532:25532): RECIBI DE: 1970435187
+[INFO] 13:03:36:048 kernel/(25532:25532): RECIBI EL  TIPO MENSAJE: -1217239056
+[INFO] 13:03:36:048 kernel/(25532:25532): RECIBI EL MENSAJE: 0
+[INFO] 13:05:22:689 kernel/(25842:25842): inicio Consola
+[DEBUG] 13:05:22:690 kernel/(25842:25842): 111
+[DEBUG] 13:05:22:690 kernel/(25842:25842): BASE_1.txt
+[DEBUG] 13:05:22:691 kernel/(25842:25842): crearMensaje
+[INFO] 13:05:22:695 kernel/(25842:25842): socket kernel 4
+[INFO] 13:05:22:695 kernel/(25842:25842): Envie Instrucciones al kernel
+[INFO] 13:08:22:102 kernel/(26116:26116): inicio Consola
+[DEBUG] 13:08:22:104 kernel/(26116:26116): 111
+[DEBUG] 13:08:22:104 kernel/(26116:26116): BASE_1.txt
+[DEBUG] 13:08:22:106 kernel/(26116:26116): crearMensaje
+[INFO] 13:08:22:111 kernel/(26116:26116): socket kernel 4
+[INFO] 13:08:22:111 kernel/(26116:26116): Envie Instrucciones al kernel
+[INFO] 13:10:24:475 kernel/(26116:26116): RECIBI EL tamaño: -1217308688
+[INFO] 13:10:24:476 kernel/(26116:26116): RECIBI DE: 1970435187
+[INFO] 13:10:24:476 kernel/(26116:26116): RECIBI EL  TIPO MENSAJE: -1217308688
+[INFO] 13:10:24:476 kernel/(26116:26116): RECIBI EL MENSAJE: 0
+[INFO] 13:13:31:424 kernel/(26588:26588): inicio Consola
+[DEBUG] 13:13:31:428 kernel/(26588:26588): 111
+[DEBUG] 13:13:31:429 kernel/(26588:26588): BASE_1.txt
+[DEBUG] 13:13:31:429 kernel/(26588:26588): crearMensaje
+[INFO] 13:13:31:435 kernel/(26588:26588): socket kernel 4
+[INFO] 13:13:31:435 kernel/(26588:26588): Envie Instrucciones al kernel
+[INFO] 13:14:14:762 kernel/(26588:26588): RECIBI EL tamaño: -1216940048
+[INFO] 13:14:14:763 kernel/(26588:26588): RECIBI DE: 1970435187
+[INFO] 13:14:14:763 kernel/(26588:26588): RECIBI EL  TIPO MENSAJE: -1216940048
+[INFO] 13:14:14:763 kernel/(26588:26588): RECIBI EL MENSAJE: 0
+[INFO] 13:17:14:564 kernel/(26969:26969): inicio Consola
+[DEBUG] 13:17:14:565 kernel/(26969:26969): 111
+[DEBUG] 13:17:14:565 kernel/(26969:26969): BASE_1.txt
+[DEBUG] 13:17:14:565 kernel/(26969:26969): crearMensaje
+[INFO] 13:17:14:570 kernel/(26969:26969): socket kernel 4
+[INFO] 13:17:14:570 kernel/(26969:26969): Envie Instrucciones al kernel
+[INFO] 13:22:51:185 kernel/(26969:26969): RECIBI EL tamaño: -1217337360
+[INFO] 13:22:51:186 kernel/(26969:26969): RECIBI DE: 1970435187
+[INFO] 13:22:51:186 kernel/(26969:26969): RECIBI EL  TIPO MENSAJE: -1217337360
+[INFO] 13:22:51:187 kernel/(26969:26969): RECIBI EL MENSAJE: 0
+[INFO] 13:24:03:585 kernel/(27695:27695): inicio Consola
+[DEBUG] 13:24:03:586 kernel/(27695:27695): 111
+[DEBUG] 13:24:03:586 kernel/(27695:27695): BASE_1.txt
+[DEBUG] 13:24:03:586 kernel/(27695:27695): crearMensaje
+[INFO] 13:24:03:590 kernel/(27695:27695): socket kernel 4
+[INFO] 13:24:03:591 kernel/(27695:27695): Envie Instrucciones al kernel
+[INFO] 13:25:38:452 kernel/(27695:27695): RECIBI EL tamaño: -1217685520
+[INFO] 13:25:38:453 kernel/(27695:27695): RECIBI DE: 1970435187
+[INFO] 13:25:38:453 kernel/(27695:27695): RECIBI EL  TIPO MENSAJE: -1217685520
+[INFO] 13:25:38:454 kernel/(27695:27695): RECIBI EL MENSAJE: 0
+[INFO] 13:26:48:144 kernel/(28010:28010): inicio Consola
+[DEBUG] 13:26:48:145 kernel/(28010:28010): 111
+[DEBUG] 13:26:48:145 kernel/(28010:28010): BASE_1.txt
+[DEBUG] 13:26:48:145 kernel/(28010:28010): crearMensaje
+[INFO] 13:26:48:149 kernel/(28010:28010): socket kernel 4
+[INFO] 13:26:48:149 kernel/(28010:28010): Envie Instrucciones al kernel
+[INFO] 13:27:49:683 kernel/(28010:28010): RECIBI EL tamaño: -1217083408
+[INFO] 13:27:49:685 kernel/(28010:28010): RECIBI DE: 1970435187
+[INFO] 13:27:49:685 kernel/(28010:28010): RECIBI EL  TIPO MENSAJE: -1217083408
+[INFO] 13:27:49:685 kernel/(28010:28010): RECIBI EL MENSAJE: 0
+[INFO] 13:28:57:311 kernel/(28372:28372): inicio Consola
+[DEBUG] 13:28:57:313 kernel/(28372:28372): 111
+[DEBUG] 13:28:57:313 kernel/(28372:28372): BASE_1.txt
+[DEBUG] 13:28:57:313 kernel/(28372:28372): crearMensaje
+[INFO] 13:28:57:319 kernel/(28372:28372): socket kernel 4
+[INFO] 13:28:57:319 kernel/(28372:28372): Envie Instrucciones al kernel
+[INFO] 13:37:13:827 kernel/(28372:28372): RECIBI EL tamaño: -1216796688
+[INFO] 13:37:13:828 kernel/(28372:28372): RECIBI DE: 1970435187
+[INFO] 13:37:13:828 kernel/(28372:28372): RECIBI EL  TIPO MENSAJE: -1216796688
+[INFO] 13:37:13:828 kernel/(28372:28372): RECIBI EL MENSAJE: 0
+[INFO] 13:38:23:430 kernel/(29284:29284): inicio Consola
+[DEBUG] 13:38:23:432 kernel/(29284:29284): 111
+[DEBUG] 13:38:23:436 kernel/(29284:29284): BASE_1.txt
+[DEBUG] 13:38:23:436 kernel/(29284:29284): crearMensaje
+[INFO] 13:38:23:442 kernel/(29284:29284): socket kernel 4
+[INFO] 13:38:23:442 kernel/(29284:29284): Envie Instrucciones al kernel
+[INFO] 13:38:43:276 kernel/(29284:29284): RECIBI EL tamaño: -1217284112
+[INFO] 13:38:43:277 kernel/(29284:29284): RECIBI DE: 1970435187
+[INFO] 13:38:43:277 kernel/(29284:29284): RECIBI EL  TIPO MENSAJE: -1217284112
+[INFO] 13:38:43:277 kernel/(29284:29284): RECIBI EL MENSAJE: 0
+[INFO] 13:55:52:436 kernel/(30892:30892): inicio Consola
+[DEBUG] 13:55:52:436 kernel/(30892:30892): 111
+[DEBUG] 13:55:52:437 kernel/(30892:30892): BASE_1.txt
+[DEBUG] 13:55:52:437 kernel/(30892:30892): crearMensaje
+[INFO] 13:55:52:442 kernel/(30892:30892): socket kernel 4
+[INFO] 13:55:52:442 kernel/(30892:30892): Envie Instrucciones al kernel
+[INFO] 14:03:08:142 kernel/(30892:30892): RECIBI EL tamaño: -1217017872
+[INFO] 14:03:08:146 kernel/(30892:30892): RECIBI DE: 1970435187
+[INFO] 14:03:08:146 kernel/(30892:30892): RECIBI EL  TIPO MENSAJE: -1217017872
+[INFO] 14:03:08:146 kernel/(30892:30892): RECIBI EL MENSAJE: 0
+[INFO] 14:04:37:301 kernel/(31895:31895): inicio Consola
+[DEBUG] 14:04:37:302 kernel/(31895:31895): 111
+[DEBUG] 14:04:37:303 kernel/(31895:31895): BASE_1.txt
+[DEBUG] 14:04:37:303 kernel/(31895:31895): crearMensaje
+[INFO] 14:04:37:307 kernel/(31895:31895): socket kernel 4
+[INFO] 14:04:37:307 kernel/(31895:31895): Envie Instrucciones al kernel
+[INFO] 14:04:45:627 kernel/(31895:31895): RECIBI EL tamaño: -1217169424
+[INFO] 14:04:45:627 kernel/(31895:31895): RECIBI DE: 1970435187
+[INFO] 14:04:45:627 kernel/(31895:31895): RECIBI EL  TIPO MENSAJE: -1217169424
+[INFO] 14:04:45:627 kernel/(31895:31895): RECIBI EL MENSAJE: 0
+[INFO] 00:20:03:827 kernel/(20770:20770): inicio Consola
+[DEBUG] 00:20:03:828 kernel/(20770:20770): 11
+[DEBUG] 00:20:03:829 kernel/(20770:20770): BASE_1.txt
+[DEBUG] 00:20:03:829 kernel/(20770:20770): crearMensaje
+[INFO] 00:20:03:834 kernel/(20770:20770): socket kernel 4
+[INFO] 00:20:03:834 kernel/(20770:20770): Envie Instrucciones al kernel
+[INFO] 00:20:04:254 kernel/(20773:20773): inicio Consola
+[DEBUG] 00:20:04:254 kernel/(20773:20773): 22
+[DEBUG] 00:20:04:255 kernel/(20773:20773): BASE_2.txt
+[DEBUG] 00:20:04:255 kernel/(20773:20773): crearMensaje
+[INFO] 00:20:04:260 kernel/(20773:20773): socket kernel 4
+[INFO] 00:20:04:260 kernel/(20773:20773): Envie Instrucciones al kernel
+[INFO] 00:21:36:079 kernel/(20773:20773): RECIBI EL tamaño: -1217054720
+[INFO] 00:21:36:079 kernel/(20773:20773): RECIBI DE: 1970435187
+[INFO] 00:21:36:079 kernel/(20773:20773): RECIBI EL  TIPO MENSAJE: -1217054720
+[INFO] 00:21:36:079 kernel/(20773:20773): RECIBI EL MENSAJE: 0
+[INFO] 00:21:36:080 kernel/(20770:20770): RECIBI EL tamaño: -1217095696
+[INFO] 00:21:36:080 kernel/(20770:20770): RECIBI DE: 1970435187
+[INFO] 00:21:36:080 kernel/(20770:20770): RECIBI EL  TIPO MENSAJE: -1217095696
+[INFO] 00:21:36:080 kernel/(20770:20770): RECIBI EL MENSAJE: 0
+[INFO] 00:24:07:131 kernel/(20893:20893): inicio Consola
+[DEBUG] 00:24:07:135 kernel/(20893:20893): 11
+[DEBUG] 00:24:07:135 kernel/(20893:20893): BASE_1.txt
+[DEBUG] 00:24:07:135 kernel/(20893:20893): crearMensaje
+[INFO] 00:24:07:139 kernel/(20893:20893): socket kernel 4
+[INFO] 00:24:07:139 kernel/(20893:20893): Envie Instrucciones al kernel
+[INFO] 00:24:08:205 kernel/(20896:20896): inicio Consola
+[DEBUG] 00:24:08:205 kernel/(20896:20896): 22
+[DEBUG] 00:24:08:205 kernel/(20896:20896): BASE_2.txt
+[DEBUG] 00:24:08:205 kernel/(20896:20896): crearMensaje
+[INFO] 00:24:08:207 kernel/(20896:20896): socket kernel 4
+[INFO] 00:24:08:207 kernel/(20896:20896): Envie Instrucciones al kernel
+[INFO] 00:24:34:527 kernel/(20896:20896): RECIBI EL tamaño: -1217153024
+[INFO] 00:24:34:527 kernel/(20896:20896): RECIBI DE: 1970435187
+[INFO] 00:24:34:527 kernel/(20896:20896): RECIBI EL  TIPO MENSAJE: -1217153024
+[INFO] 00:24:34:527 kernel/(20896:20896): RECIBI EL MENSAJE: 0
+[INFO] 00:24:34:527 kernel/(20893:20893): RECIBI EL tamaño: -1217198096
+[INFO] 00:24:34:527 kernel/(20893:20893): RECIBI DE: 1970435187
+[INFO] 00:24:34:527 kernel/(20893:20893): RECIBI EL  TIPO MENSAJE: -1217198096
+[INFO] 00:24:34:527 kernel/(20893:20893): RECIBI EL MENSAJE: 0
+[INFO] 21:01:54:234 kernel/(11810:11810): inicio Consola
+[DEBUG] 21:01:54:239 kernel/(11810:11810): 111
+[DEBUG] 21:01:54:239 kernel/(11810:11810): BASE_1.txt
+[DEBUG] 21:01:54:239 kernel/(11810:11810): crearMensaje
+[INFO] 21:01:54:243 kernel/(11810:11810): socket kernel 4
+[INFO] 21:01:54:244 kernel/(11810:11810): Envie Instrucciones al kernel
+[INFO] 21:02:02:571 kernel/(11810:11810): RECIBI EL tamaño: -1217587216
+[INFO] 21:02:02:571 kernel/(11810:11810): RECIBI DE: 1970435187
+[INFO] 21:02:02:571 kernel/(11810:11810): RECIBI EL  TIPO MENSAJE: -1217587216
+[INFO] 21:02:02:571 kernel/(11810:11810): RECIBI EL MENSAJE: 0
+[INFO] 21:04:16:615 kernel/(12054:12054): inicio Consola
+[DEBUG] 21:04:16:616 kernel/(12054:12054): 111
+[DEBUG] 21:04:16:617 kernel/(12054:12054): BASE_1.txt
+[DEBUG] 21:04:16:617 kernel/(12054:12054): crearMensaje
+[INFO] 21:04:16:621 kernel/(12054:12054): socket kernel 4
+[INFO] 21:04:16:623 kernel/(12054:12054): Envie Instrucciones al kernel
+[INFO] 21:04:24:948 kernel/(12054:12054): RECIBI EL tamaño: -1216866320
+[INFO] 21:04:24:948 kernel/(12054:12054): RECIBI DE: 1970435187
+[INFO] 21:04:24:948 kernel/(12054:12054): RECIBI EL  TIPO MENSAJE: -1216866320
+[INFO] 21:04:24:948 kernel/(12054:12054): RECIBI EL MENSAJE: 0
+[INFO] 21:14:43:162 kernel/(13072:13072): inicio Consola
+[DEBUG] 21:14:43:163 kernel/(13072:13072): 111
+[DEBUG] 21:14:43:163 kernel/(13072:13072): BASE_1.txt
+[DEBUG] 21:14:43:163 kernel/(13072:13072): crearMensaje
+[INFO] 21:14:43:167 kernel/(13072:13072): socket kernel 4
+[INFO] 21:14:43:171 kernel/(13072:13072): Envie Instrucciones al kernel
+[INFO] 21:14:52:210 kernel/(13072:13072): RECIBI EL tamaño: -1216772112
+[INFO] 21:14:52:210 kernel/(13072:13072): RECIBI DE: 1970435187
+[INFO] 21:14:52:210 kernel/(13072:13072): RECIBI EL  TIPO MENSAJE: -1216772112
+[INFO] 21:14:52:210 kernel/(13072:13072): RECIBI EL MENSAJE: 0
+[INFO] 21:19:09:751 kernel/(13529:13529): inicio Consola
+[DEBUG] 21:19:09:753 kernel/(13529:13529): 111
+[DEBUG] 21:19:09:753 kernel/(13529:13529): BASE_1.txt
+[DEBUG] 21:19:09:753 kernel/(13529:13529): crearMensaje
+[INFO] 21:19:09:756 kernel/(13529:13529): socket kernel 4
+[INFO] 21:19:09:759 kernel/(13529:13529): Envie Instrucciones al kernel
+[INFO] 21:19:18:777 kernel/(13529:13529): RECIBI EL tamaño: -1216780304
+[INFO] 21:19:18:777 kernel/(13529:13529): RECIBI DE: 1970435187
+[INFO] 21:19:18:777 kernel/(13529:13529): RECIBI EL  TIPO MENSAJE: -1216780304
+[INFO] 21:19:18:777 kernel/(13529:13529): RECIBI EL MENSAJE: 0
+[INFO] 21:23:48:034 kernel/(13953:13953): inicio Consola
+[DEBUG] 21:23:48:036 kernel/(13953:13953): 111
+[DEBUG] 21:23:48:036 kernel/(13953:13953): BASE_1.txt
+[DEBUG] 21:23:48:036 kernel/(13953:13953): crearMensaje
+[INFO] 21:23:48:042 kernel/(13953:13953): socket kernel 4
+[INFO] 21:23:48:043 kernel/(13953:13953): Envie Instrucciones al kernel
+[INFO] 21:23:56:401 kernel/(13953:13953): RECIBI EL tamaño: -1217706000
+[INFO] 21:23:56:401 kernel/(13953:13953): RECIBI DE: 1970435187
+[INFO] 21:23:56:401 kernel/(13953:13953): RECIBI EL  TIPO MENSAJE: -1217706000
+[INFO] 21:23:56:401 kernel/(13953:13953): RECIBI EL MENSAJE: 0
+[INFO] 21:27:12:020 kernel/(14290:14290): inicio Consola
+[DEBUG] 21:27:12:025 kernel/(14290:14290): 111
+[DEBUG] 21:27:12:025 kernel/(14290:14290): BASE_1.txt
+[DEBUG] 21:27:12:026 kernel/(14290:14290): crearMensaje
+[INFO] 21:27:12:034 kernel/(14290:14290): socket kernel 4
+[INFO] 21:27:12:034 kernel/(14290:14290): Envie Instrucciones al kernel
+[INFO] 21:27:20:346 kernel/(14290:14290): RECIBI EL tamaño: -1217005584
+[INFO] 21:27:20:346 kernel/(14290:14290): RECIBI DE: 1970435187
+[INFO] 21:27:20:346 kernel/(14290:14290): RECIBI EL  TIPO MENSAJE: -1217005584
+[INFO] 21:27:20:346 kernel/(14290:14290): RECIBI EL MENSAJE: 0
+[INFO] 21:30:10:767 kernel/(14606:14606): inicio Consola
+[DEBUG] 21:30:10:769 kernel/(14606:14606): 111
+[DEBUG] 21:30:10:769 kernel/(14606:14606): BASE_1.txt
+[DEBUG] 21:30:10:769 kernel/(14606:14606): crearMensaje
+[INFO] 21:30:10:773 kernel/(14606:14606): socket kernel 4
+[INFO] 21:30:10:776 kernel/(14606:14606): Envie Instrucciones al kernel
+[INFO] 21:30:19:374 kernel/(14606:14606): RECIBI EL tamaño: -1217116176
+[INFO] 21:30:19:374 kernel/(14606:14606): RECIBI DE: 1970435187
+[INFO] 21:30:19:374 kernel/(14606:14606): RECIBI EL  TIPO MENSAJE: -1217116176
+[INFO] 21:30:19:374 kernel/(14606:14606): RECIBI EL MENSAJE: 0
+[INFO] 11:27:41:070 kernel/(7037:7037): inicio Consola
+[DEBUG] 11:27:41:071 kernel/(7037:7037): 123
+[DEBUG] 11:27:41:071 kernel/(7037:7037): BASE_1.txt
+[DEBUG] 11:27:41:072 kernel/(7037:7037): crearMensaje
+[INFO] 11:27:41:076 kernel/(7037:7037): socket kernel 4
+[INFO] 11:27:41:077 kernel/(7037:7037): Envie Instrucciones al kernel
+[INFO] 11:27:49:637 kernel/(7037:7037): RECIBI EL tamaño: -1217411088
+[INFO] 11:27:49:638 kernel/(7037:7037): RECIBI DE: 1970435187
+[INFO] 11:27:49:638 kernel/(7037:7037): RECIBI EL  TIPO MENSAJE: -1217411088
+[INFO] 11:27:49:638 kernel/(7037:7037): RECIBI EL MENSAJE: 0
+[INFO] 11:32:57:283 kernel/(7813:7813): inicio Consola
+[DEBUG] 11:32:57:284 kernel/(7813:7813): 123
+[DEBUG] 11:32:57:284 kernel/(7813:7813): BASE_1.txt
+[DEBUG] 11:32:57:284 kernel/(7813:7813): crearMensaje
+[INFO] 11:32:57:288 kernel/(7813:7813): socket kernel 4
+[INFO] 11:32:57:290 kernel/(7813:7813): Envie Instrucciones al kernel
+[INFO] 11:33:05:614 kernel/(7813:7813): RECIBI EL tamaño: -1217607696
+[INFO] 11:33:05:614 kernel/(7813:7813): RECIBI DE: 1970435187
+[INFO] 11:33:05:614 kernel/(7813:7813): RECIBI EL  TIPO MENSAJE: -1217607696
+[INFO] 11:33:05:614 kernel/(7813:7813): RECIBI EL MENSAJE: 0
+[INFO] 11:37:07:519 kernel/(8565:8565): inicio Consola
+[DEBUG] 11:37:07:521 kernel/(8565:8565): 123
+[DEBUG] 11:37:07:521 kernel/(8565:8565): BASE_1.txt
+[DEBUG] 11:37:07:521 kernel/(8565:8565): crearMensaje
+[INFO] 11:37:07:526 kernel/(8565:8565): socket kernel 4
+[INFO] 11:37:07:526 kernel/(8565:8565): Envie Instrucciones al kernel
+[INFO] 11:37:15:892 kernel/(8565:8565): RECIBI EL tamaño: -1217488912
+[INFO] 11:37:15:892 kernel/(8565:8565): RECIBI DE: 1970435187
+[INFO] 11:37:15:892 kernel/(8565:8565): RECIBI EL  TIPO MENSAJE: -1217488912
+[INFO] 11:37:15:892 kernel/(8565:8565): RECIBI EL MENSAJE: 0
+[INFO] 11:43:36:013 kernel/(9522:9522): inicio Consola
+[DEBUG] 11:43:36:015 kernel/(9522:9522): 123
+[DEBUG] 11:43:36:015 kernel/(9522:9522): BASE_1.txt
+[DEBUG] 11:43:36:015 kernel/(9522:9522): crearMensaje
+[INFO] 11:43:36:023 kernel/(9522:9522): socket kernel 4
+[INFO] 11:43:36:023 kernel/(9522:9522): Envie Instrucciones al kernel
+[INFO] 11:50:03:113 kernel/(10382:10382): inicio Consola
+[DEBUG] 11:50:03:113 kernel/(10382:10382): 123
+[DEBUG] 11:50:03:113 kernel/(10382:10382): BASE_1.txt
+[DEBUG] 11:50:03:113 kernel/(10382:10382): crearMensaje
+[INFO] 11:50:03:114 kernel/(10382:10382): socket kernel 4
+[INFO] 11:50:03:114 kernel/(10382:10382): Envie Instrucciones al kernel
+[INFO] 11:50:34:366 kernel/(10382:10382): RECIBI EL tamaño: -1217538064
+[INFO] 11:50:34:368 kernel/(10382:10382): RECIBI DE: 1970435187
+[INFO] 11:50:34:368 kernel/(10382:10382): RECIBI EL  TIPO MENSAJE: -1217538064
+[INFO] 11:50:34:368 kernel/(10382:10382): RECIBI EL MENSAJE: 0
+[INFO] 11:52:02:576 kernel/(10696:10696): inicio Consola
+[DEBUG] 11:52:02:576 kernel/(10696:10696): 123
+[DEBUG] 11:52:02:577 kernel/(10696:10696): BASE_1.txt
+[DEBUG] 11:52:02:577 kernel/(10696:10696): crearMensaje
+[INFO] 11:52:02:584 kernel/(10696:10696): socket kernel 4
+[INFO] 11:52:02:584 kernel/(10696:10696): Envie Instrucciones al kernel
+[INFO] 11:52:43:966 kernel/(10696:10696): RECIBI EL tamaño: -1217599504
+[INFO] 11:52:43:969 kernel/(10696:10696): RECIBI DE: 1970435187
+[INFO] 11:52:43:969 kernel/(10696:10696): RECIBI EL  TIPO MENSAJE: -1217599504
+[INFO] 11:52:43:969 kernel/(10696:10696): RECIBI EL MENSAJE: 0
+[INFO] 11:54:07:471 kernel/(11021:11021): inicio Consola
+[DEBUG] 11:54:07:472 kernel/(11021:11021): 123
+[DEBUG] 11:54:07:472 kernel/(11021:11021): BASE_1.txt
+[DEBUG] 11:54:07:472 kernel/(11021:11021): crearMensaje
+[INFO] 11:54:07:480 kernel/(11021:11021): socket kernel 4
+[INFO] 11:54:07:483 kernel/(11021:11021): Envie Instrucciones al kernel
+[INFO] 11:54:39:428 kernel/(11021:11021): RECIBI EL tamaño: -1217431568
+[INFO] 11:54:39:430 kernel/(11021:11021): RECIBI DE: 1970435187
+[INFO] 11:54:39:430 kernel/(11021:11021): RECIBI EL  TIPO MENSAJE: -1217431568
+[INFO] 11:54:39:430 kernel/(11021:11021): RECIBI EL MENSAJE: 0
+[INFO] 11:58:01:183 kernel/(11525:11525): inicio Consola
+[DEBUG] 11:58:01:183 kernel/(11525:11525): 123
+[DEBUG] 11:58:01:185 kernel/(11525:11525): BASE_1.txt
+[DEBUG] 11:58:01:186 kernel/(11525:11525): crearMensaje
+[INFO] 11:58:01:197 kernel/(11525:11525): socket kernel 4
+[INFO] 11:58:01:197 kernel/(11525:11525): Envie Instrucciones al kernel
+[INFO] 11:59:23:735 kernel/(11525:11525): RECIBI EL tamaño: -1217718288
+[INFO] 11:59:23:737 kernel/(11525:11525): RECIBI DE: 1970435187
+[INFO] 11:59:23:737 kernel/(11525:11525): RECIBI EL  TIPO MENSAJE: -1217718288
+[INFO] 11:59:23:737 kernel/(11525:11525): RECIBI EL MENSAJE: 0
+[INFO] 12:01:06:155 kernel/(11836:11836): inicio Consola
+[DEBUG] 12:01:06:156 kernel/(11836:11836): 123
+[DEBUG] 12:01:06:158 kernel/(11836:11836): BASE_1.txt
+[DEBUG] 12:01:06:158 kernel/(11836:11836): crearMensaje
+[INFO] 12:01:06:162 kernel/(11836:11836): socket kernel 4
+[INFO] 12:01:06:163 kernel/(11836:11836): Envie Instrucciones al kernel
+[INFO] 12:01:38:832 kernel/(11836:11836): RECIBI EL tamaño: -1217038352
+[INFO] 12:01:38:835 kernel/(11836:11836): RECIBI DE: 1970435187
+[INFO] 12:01:38:835 kernel/(11836:11836): RECIBI EL  TIPO MENSAJE: -1217038352
+[INFO] 12:01:38:835 kernel/(11836:11836): RECIBI EL MENSAJE: 0
+[INFO] 12:02:45:958 kernel/(11980:11980): inicio Consola
+[DEBUG] 12:02:45:959 kernel/(11980:11980): 123
+[DEBUG] 12:02:45:959 kernel/(11980:11980): BASE_1.txt
+[DEBUG] 12:02:45:959 kernel/(11980:11980): crearMensaje
+[INFO] 12:02:45:963 kernel/(11980:11980): socket kernel 4
+[INFO] 12:02:45:965 kernel/(11980:11980): Envie Instrucciones al kernel
+[INFO] 12:03:17:520 kernel/(11980:11980): RECIBI EL tamaño: -1217566736
+[INFO] 12:03:17:520 kernel/(11980:11980): RECIBI DE: 1970435187
+[INFO] 12:03:17:520 kernel/(11980:11980): RECIBI EL  TIPO MENSAJE: -1217566736
+[INFO] 12:03:17:520 kernel/(11980:11980): RECIBI EL MENSAJE: 0
+[INFO] 12:04:22:668 kernel/(12109:12109): inicio Consola
+[DEBUG] 12:04:22:668 kernel/(12109:12109): 123
+[DEBUG] 12:04:22:668 kernel/(12109:12109): BASE_1.txt
+[DEBUG] 12:04:22:668 kernel/(12109:12109): crearMensaje
+[INFO] 12:04:22:672 kernel/(12109:12109): socket kernel 4
+[INFO] 12:04:22:675 kernel/(12109:12109): Envie Instrucciones al kernel
+[INFO] 12:04:33:989 kernel/(12109:12109): RECIBI EL tamaño: -1217230864
+[INFO] 12:04:33:989 kernel/(12109:12109): RECIBI DE: 1970435187
+[INFO] 12:04:33:989 kernel/(12109:12109): RECIBI EL  TIPO MENSAJE: -1217230864
+[INFO] 12:04:33:989 kernel/(12109:12109): RECIBI EL MENSAJE: 0
+[INFO] 12:10:03:646 kernel/(12775:12775): inicio Consola
+[DEBUG] 12:10:03:648 kernel/(12775:12775): 123
+[DEBUG] 12:10:03:648 kernel/(12775:12775): BASE_1.txt
+[DEBUG] 12:10:03:648 kernel/(12775:12775): crearMensaje
+[INFO] 12:10:03:653 kernel/(12775:12775): socket kernel 4
+[INFO] 12:10:03:653 kernel/(12775:12775): Envie Instrucciones al kernel
+[INFO] 12:10:15:013 kernel/(12775:12775): RECIBI EL tamaño: -1217017872
+[INFO] 12:10:15:013 kernel/(12775:12775): RECIBI DE: 1970435187
+[INFO] 12:10:15:013 kernel/(12775:12775): RECIBI EL  TIPO MENSAJE: -1217017872
+[INFO] 12:10:15:013 kernel/(12775:12775): RECIBI EL MENSAJE: 0
+[INFO] 12:21:56:996 kernel/(14079:14079): inicio Consola
+[DEBUG] 12:21:56:999 kernel/(14079:14079): 123
+[DEBUG] 12:21:56:999 kernel/(14079:14079): BASE_1.txt
+[DEBUG] 12:21:56:999 kernel/(14079:14079): crearMensaje
+[INFO] 12:21:57:005 kernel/(14079:14079): socket kernel 4
+[INFO] 12:21:57:007 kernel/(14079:14079): Envie Instrucciones al kernel
+[INFO] 12:24:48:633 kernel/(14257:14257): inicio Consola
+[DEBUG] 12:24:48:633 kernel/(14257:14257): 123
+[DEBUG] 12:24:48:633 kernel/(14257:14257): BASE_1.txt
+[DEBUG] 12:24:48:633 kernel/(14257:14257): crearMensaje
+[INFO] 12:24:58:333 kernel/(14271:14271): inicio Consola
+[DEBUG] 12:24:58:334 kernel/(14271:14271): 123
+[DEBUG] 12:24:58:334 kernel/(14271:14271): BASE_1.txt
+[DEBUG] 12:24:58:334 kernel/(14271:14271): crearMensaje
+[INFO] 12:24:58:337 kernel/(14271:14271): socket kernel 4
+[INFO] 12:24:58:339 kernel/(14271:14271): Envie Instrucciones al kernel
+[INFO] 12:28:55:732 kernel/(14473:14473): inicio Consola
+[DEBUG] 12:28:55:814 kernel/(14473:14473): 111
+[DEBUG] 12:28:55:816 kernel/(14473:14473): BASE_1.txt
+[DEBUG] 12:28:55:817 kernel/(14473:14473): crearMensaje
+[INFO] 12:28:55:841 kernel/(14473:14473): socket kernel 4
+[INFO] 12:28:55:841 kernel/(14473:14473): Envie Instrucciones al kernel
+[DEBUG] 12:29:07:161 kernel/(14473:14473): Me llego cod op 0
+[DEBUG] 12:29:07:162 kernel/(14473:14473): Me llego el exit del pcb id 0
+[INFO] 12:32:48:820 kernel/(14746:14746): inicio Consola
+[DEBUG] 12:32:48:902 kernel/(14746:14746): 111
+[DEBUG] 12:32:48:906 kernel/(14746:14746): BASE_1.txt
+[DEBUG] 12:32:48:906 kernel/(14746:14746): crearMensaje
+[INFO] 12:32:48:930 kernel/(14746:14746): socket kernel 4
+[INFO] 12:32:48:931 kernel/(14746:14746): Envie Instrucciones al kernel
+[DEBUG] 12:33:00:240 kernel/(14746:14746): Me llego cod op 0
+[DEBUG] 12:33:00:241 kernel/(14746:14746): Me llego el exit del pcb id 69334280
+[INFO] 12:35:30:862 kernel/(14966:14966): inicio Consola
+[DEBUG] 12:35:30:965 kernel/(14966:14966): 111
+[DEBUG] 12:35:30:967 kernel/(14966:14966): BASE_1.txt
+[DEBUG] 12:35:30:967 kernel/(14966:14966): crearMensaje
+[INFO] 12:35:31:000 kernel/(14966:14966): socket kernel 4
+[INFO] 12:35:31:003 kernel/(14966:14966): Envie Instrucciones al kernel
+[DEBUG] 12:35:42:336 kernel/(14966:14966): Me llego cod op 0
+[DEBUG] 12:35:42:336 kernel/(14966:14966): Me llego el exit del pcb id 69334280
+[INFO] 08:58:18:525 kernel/(5214:5214): inicio Consola
+[DEBUG] 08:58:18:612 kernel/(5214:5214): 112
+[DEBUG] 08:58:18:615 kernel/(5214:5214): BASE_1.txt
+[DEBUG] 08:58:18:616 kernel/(5214:5214): crearMensaje
+[INFO] 08:58:18:640 kernel/(5214:5214): socket kernel 4
+[INFO] 08:58:18:641 kernel/(5214:5214): Envie Instrucciones al kernel
+[DEBUG] 08:58:29:987 kernel/(5214:5214): Me llego cod op 0
+[DEBUG] 08:58:29:987 kernel/(5214:5214): Me llego el exit del pcb id 69334200
+[INFO] 09:06:41:059 kernel/(6086:6086): inicio Consola
+[DEBUG] 09:06:41:169 kernel/(6086:6086): 112
+[DEBUG] 09:06:41:175 kernel/(6086:6086): BASE_1.txt
+[DEBUG] 09:06:41:176 kernel/(6086:6086): crearMensaje
+[INFO] 09:06:41:210 kernel/(6086:6086): socket kernel 4
+[INFO] 09:06:41:211 kernel/(6086:6086): Envie Instrucciones al kernel
+[INFO] 09:17:18:237 kernel/(7115:7115): inicio Consola
+[DEBUG] 09:17:18:326 kernel/(7115:7115): 112
+[DEBUG] 09:17:18:330 kernel/(7115:7115): BASE_1.txt
+[DEBUG] 09:17:18:330 kernel/(7115:7115): crearMensaje
+[INFO] 09:17:18:358 kernel/(7115:7115): socket kernel 4
+[INFO] 09:17:18:358 kernel/(7115:7115): Envie Instrucciones al kernel
+[INFO] 09:19:35:607 kernel/(7350:7350): inicio Consola
+[DEBUG] 09:19:35:691 kernel/(7350:7350): 112
+[DEBUG] 09:19:35:694 kernel/(7350:7350): BASE_1.txt
+[DEBUG] 09:19:35:694 kernel/(7350:7350): crearMensaje
+[INFO] 09:19:35:719 kernel/(7350:7350): socket kernel 4
+[INFO] 09:19:35:720 kernel/(7350:7350): Envie Instrucciones al kernel
+[INFO] 09:19:37:420 kernel/(7355:7355): inicio Consola
+[ERROR] 09:19:37:484 kernel/(7355:7355): no tiene los parametros
+[INFO] 09:21:45:165 kernel/(7636:7636): inicio Consola
+[DEBUG] 09:21:45:256 kernel/(7636:7636): 112
+[DEBUG] 09:21:45:259 kernel/(7636:7636): BASE_1.txt
+[DEBUG] 09:21:45:260 kernel/(7636:7636): crearMensaje
+[INFO] 09:21:45:285 kernel/(7636:7636): socket kernel 4
+[INFO] 09:21:45:290 kernel/(7636:7636): Envie Instrucciones al kernel
+[INFO] 09:21:46:450 kernel/(7638:7638): inicio Consola
+[DEBUG] 09:21:46:541 kernel/(7638:7638): 222
+[DEBUG] 09:21:46:543 kernel/(7638:7638): BASE_2.txt
+[DEBUG] 09:21:46:543 kernel/(7638:7638): crearMensaje
+[INFO] 09:21:46:587 kernel/(7638:7638): socket kernel 4
+[INFO] 09:21:46:588 kernel/(7638:7638): Envie Instrucciones al kernel
+[DEBUG] 09:21:55:610 kernel/(7638:7638): paqute null
+[DEBUG] 09:21:55:613 kernel/(7636:7636): paqute null
+[INFO] 09:27:42:149 kernel/(7901:7901): inicio Consola
+[DEBUG] 09:27:42:231 kernel/(7901:7901): 222
+[DEBUG] 09:27:42:235 kernel/(7901:7901): BASE_2.txt
+[DEBUG] 09:27:42:236 kernel/(7901:7901): crearMensaje
+[INFO] 09:27:42:259 kernel/(7901:7901): socket kernel 4
+[INFO] 09:27:42:259 kernel/(7901:7901): Envie Instrucciones al kernel
+[DEBUG] 09:27:47:496 kernel/(7901:7901): paqute null
+[INFO] 09:46:10:464 kernel/(8298:8298): inicio Consola
+[DEBUG] 09:46:10:548 kernel/(8298:8298): 222
+[DEBUG] 09:46:10:552 kernel/(8298:8298): BASE_2.txt
+[DEBUG] 09:46:10:553 kernel/(8298:8298): crearMensaje
+[INFO] 09:46:10:581 kernel/(8298:8298): socket kernel 4
+[INFO] 09:46:10:584 kernel/(8298:8298): Envie Instrucciones al kernel
+[DEBUG] 09:46:10:750 kernel/(8298:8298): paqute null
+[INFO] 09:47:06:594 kernel/(8355:8355): inicio Consola
+[DEBUG] 09:47:06:680 kernel/(8355:8355): 222
+[DEBUG] 09:47:06:684 kernel/(8355:8355): BASE_2.txt
+[DEBUG] 09:47:06:685 kernel/(8355:8355): crearMensaje
+[INFO] 09:47:06:707 kernel/(8355:8355): socket kernel 4
+[INFO] 09:47:06:711 kernel/(8355:8355): Envie Instrucciones al kernel
+[DEBUG] 09:47:06:893 kernel/(8355:8355): paqute null
+[INFO] 09:57:48:486 kernel/(8475:8475): inicio Consola
+[DEBUG] 09:57:48:570 kernel/(8475:8475): 222
+[DEBUG] 09:57:48:573 kernel/(8475:8475): BASE_2.txt
+[DEBUG] 09:57:48:574 kernel/(8475:8475): crearMensaje
+[INFO] 09:57:48:598 kernel/(8475:8475): socket kernel 4
+[INFO] 09:57:48:601 kernel/(8475:8475): Envie Instrucciones al kernel
+[DEBUG] 09:57:48:767 kernel/(8475:8475): paqute null
+[INFO] 10:00:56:415 kernel/(8546:8546): inicio Consola
+[DEBUG] 10:00:56:513 kernel/(8546:8546): 222
+[DEBUG] 10:00:56:516 kernel/(8546:8546): BASE_2.txt
+[DEBUG] 10:00:56:516 kernel/(8546:8546): crearMensaje
+[INFO] 10:00:56:549 kernel/(8546:8546): socket kernel 4
+[INFO] 10:00:56:552 kernel/(8546:8546): Envie Instrucciones al kernel
+[DEBUG] 10:00:56:734 kernel/(8546:8546): paqute null
+[INFO] 10:02:46:605 kernel/(8582:8582): inicio Consola
+[DEBUG] 10:02:46:688 kernel/(8582:8582): 222
+[DEBUG] 10:02:46:692 kernel/(8582:8582): BASE_2.txt
+[DEBUG] 10:02:46:692 kernel/(8582:8582): crearMensaje
+[INFO] 10:02:46:719 kernel/(8582:8582): socket kernel 4
+[INFO] 10:02:46:725 kernel/(8582:8582): Envie Instrucciones al kernel
+[DEBUG] 10:02:46:891 kernel/(8582:8582): paqute null
+[INFO] 10:04:15:275 kernel/(8636:8636): inicio Consola
+[DEBUG] 10:04:15:385 kernel/(8636:8636): 222
+[DEBUG] 10:04:15:391 kernel/(8636:8636): BASE_2.txt
+[DEBUG] 10:04:15:391 kernel/(8636:8636): crearMensaje
+[INFO] 10:04:15:433 kernel/(8636:8636): socket kernel 4
+[INFO] 10:04:15:438 kernel/(8636:8636): Envie Instrucciones al kernel
+[DEBUG] 10:04:20:588 kernel/(8636:8636): Me llego cod op 4
+[DEBUG] 10:04:20:589 kernel/(8636:8636): Me llego el exit del pcb id 0
+[INFO] 10:04:39:539 kernel/(8638:8638): inicio Consola
+[DEBUG] 10:04:39:621 kernel/(8638:8638): 222
+[DEBUG] 10:04:39:623 kernel/(8638:8638): BASE_2.txt
+[DEBUG] 10:04:39:623 kernel/(8638:8638): crearMensaje
+[INFO] 10:04:39:646 kernel/(8638:8638): socket kernel 4
+[INFO] 10:04:39:647 kernel/(8638:8638): Envie Instrucciones al kernel
+[DEBUG] 10:04:44:712 kernel/(8638:8638): Me llego cod op 4
+[DEBUG] 10:04:44:713 kernel/(8638:8638): Me llego el exit del pcb id 1
+[INFO] 10:17:27:612 kernel/(9164:9164): inicio Consola
+[DEBUG] 10:17:27:779 kernel/(9164:9164): 111
+[DEBUG] 10:17:27:789 kernel/(9164:9164): BASE_1.txt
+[DEBUG] 10:17:27:790 kernel/(9164:9164): crearMensaje
+[INFO] 10:17:27:864 kernel/(9164:9164): socket kernel 4
+[INFO] 10:17:27:865 kernel/(9164:9164): Envie Instrucciones al kernel
+[INFO] 10:17:28:189 kernel/(9165:9165): inicio Consola
+[DEBUG] 10:17:28:270 kernel/(9165:9165): 222
+[DEBUG] 10:17:28:272 kernel/(9165:9165): BASE_2.txt
+[DEBUG] 10:17:28:272 kernel/(9165:9165): crearMensaje
+[INFO] 10:17:28:297 kernel/(9165:9165): socket kernel 4
+[INFO] 10:17:28:298 kernel/(9165:9165): Envie Instrucciones al kernel
+[DEBUG] 10:17:38:100 kernel/(9165:9165): Me llego cod op 4
+[DEBUG] 10:17:38:101 kernel/(9165:9165): Me llego el exit del pcb id 1
+[DEBUG] 10:17:41:124 kernel/(9164:9164): Me llego cod op 4
+[DEBUG] 10:17:41:125 kernel/(9164:9164): Me llego el exit del pcb id 0
+[INFO] 10:27:21:661 kernel/(9640:9640): inicio Consola
+[DEBUG] 10:27:21:662 kernel/(9640:9640): 111
+[DEBUG] 10:27:21:662 kernel/(9640:9640): BASE_1.txt
+[DEBUG] 10:27:21:662 kernel/(9640:9640): crearMensaje
+[INFO] 10:27:22:079 kernel/(9641:9641): inicio Consola
+[DEBUG] 10:27:22:080 kernel/(9641:9641): 222
+[DEBUG] 10:27:22:080 kernel/(9641:9641): BASE_2.txt
+[DEBUG] 10:27:22:080 kernel/(9641:9641): crearMensaje
+[INFO] 10:27:22:599 kernel/(9642:9642): inicio Consola
+[DEBUG] 10:27:22:599 kernel/(9642:9642): 333
+[DEBUG] 10:27:22:599 kernel/(9642:9642): BASE_2.txt
+[DEBUG] 10:27:22:600 kernel/(9642:9642): crearMensaje
+[INFO] 10:28:15:560 kernel/(9649:9649): inicio Consola
+[DEBUG] 10:28:15:561 kernel/(9649:9649): 111
+[DEBUG] 10:28:15:561 kernel/(9649:9649): BASE_1.txt
+[DEBUG] 10:28:15:561 kernel/(9649:9649): crearMensaje
+[INFO] 10:28:15:565 kernel/(9649:9649): socket kernel 4
+[INFO] 10:28:15:566 kernel/(9649:9649): Envie Instrucciones al kernel
+[INFO] 10:28:15:939 kernel/(9651:9651): inicio Consola
+[DEBUG] 10:28:15:939 kernel/(9651:9651): 222
+[DEBUG] 10:28:15:940 kernel/(9651:9651): BASE_2.txt
+[DEBUG] 10:28:15:940 kernel/(9651:9651): crearMensaje
+[INFO] 10:28:15:944 kernel/(9651:9651): socket kernel 4
+[INFO] 10:28:15:948 kernel/(9651:9651): Envie Instrucciones al kernel
+[INFO] 10:28:16:558 kernel/(9653:9653): inicio Consola
+[DEBUG] 10:28:16:558 kernel/(9653:9653): 333
+[DEBUG] 10:28:16:558 kernel/(9653:9653): BASE_2.txt
+[DEBUG] 10:28:16:559 kernel/(9653:9653): crearMensaje
+[INFO] 10:28:16:562 kernel/(9653:9653): socket kernel 4
+[INFO] 10:28:16:562 kernel/(9653:9653): Envie Instrucciones al kernel
+[DEBUG] 10:28:25:755 kernel/(9651:9651): Me llego cod op 4
+[DEBUG] 10:28:25:755 kernel/(9651:9651): Me llego el exit del pcb id 1
+[DEBUG] 10:28:30:814 kernel/(9653:9653): Me llego cod op 4
+[DEBUG] 10:28:30:814 kernel/(9653:9653): Me llego el exit del pcb id 2
+[DEBUG] 10:30:06:819 kernel/(9649:9649): Me llego cod op 4
+[DEBUG] 10:30:06:819 kernel/(9649:9649): Me llego el exit del pcb id 0
+[INFO] 10:35:19:157 kernel/(9819:9819): inicio Consola
+[DEBUG] 10:35:19:159 kernel/(9819:9819): 111
+[DEBUG] 10:35:19:159 kernel/(9819:9819): BASE_1.txt
+[DEBUG] 10:35:19:159 kernel/(9819:9819): crearMensaje
+[INFO] 10:35:19:166 kernel/(9819:9819): socket kernel 4
+[INFO] 10:35:19:166 kernel/(9819:9819): Envie Instrucciones al kernel
+[INFO] 10:35:19:594 kernel/(9821:9821): inicio Consola
+[DEBUG] 10:35:19:594 kernel/(9821:9821): 222
+[DEBUG] 10:35:19:594 kernel/(9821:9821): BASE_2.txt
+[DEBUG] 10:35:19:594 kernel/(9821:9821): crearMensaje
+[INFO] 10:35:19:600 kernel/(9821:9821): socket kernel 4
+[INFO] 10:35:19:600 kernel/(9821:9821): Envie Instrucciones al kernel
+[INFO] 10:35:20:033 kernel/(9823:9823): inicio Consola
+[DEBUG] 10:35:20:033 kernel/(9823:9823): 333
+[DEBUG] 10:35:20:034 kernel/(9823:9823): BASE_2.txt
+[DEBUG] 10:35:20:034 kernel/(9823:9823): crearMensaje
+[INFO] 10:35:20:036 kernel/(9823:9823): socket kernel 4
+[INFO] 10:35:20:038 kernel/(9823:9823): Envie Instrucciones al kernel
+[DEBUG] 10:35:29:397 kernel/(9821:9821): Me llego cod op 4
+[DEBUG] 10:35:29:397 kernel/(9821:9821): Me llego el exit del pcb id 1
+[DEBUG] 10:35:34:460 kernel/(9823:9823): Me llego cod op 4
+[DEBUG] 10:35:34:461 kernel/(9823:9823): Me llego el exit del pcb id 2
+[INFO] 10:37:03:320 kernel/(9837:9837): inicio Consola
+[DEBUG] 10:37:03:320 kernel/(9837:9837): 222
+[DEBUG] 10:37:03:320 kernel/(9837:9837): BASE_2.txt
+[DEBUG] 10:37:03:320 kernel/(9837:9837): crearMensaje
+[INFO] 10:37:03:326 kernel/(9837:9837): socket kernel 4
+[INFO] 10:37:03:326 kernel/(9837:9837): Envie Instrucciones al kernel
+[DEBUG] 10:37:06:379 kernel/(9819:9819): Me llego cod op 4
+[DEBUG] 10:37:06:382 kernel/(9819:9819): Me llego el exit del pcb id 0
+[DEBUG] 10:37:25:294 kernel/(9837:9837): paqute null
+[INFO] 10:42:18:671 kernel/(9978:9978): inicio Consola
+[DEBUG] 10:42:18:673 kernel/(9978:9978): 111
+[DEBUG] 10:42:18:673 kernel/(9978:9978): BASE_1.txt
+[DEBUG] 10:42:18:673 kernel/(9978:9978): crearMensaje
+[INFO] 10:42:18:681 kernel/(9978:9978): socket kernel 4
+[INFO] 10:42:18:684 kernel/(9978:9978): Envie Instrucciones al kernel
+[INFO] 10:42:19:136 kernel/(9980:9980): inicio Consola
+[DEBUG] 10:42:19:137 kernel/(9980:9980): 222
+[DEBUG] 10:42:19:137 kernel/(9980:9980): BASE_2.txt
+[DEBUG] 10:42:19:137 kernel/(9980:9980): crearMensaje
+[INFO] 10:42:19:148 kernel/(9980:9980): socket kernel 4
+[INFO] 10:42:19:149 kernel/(9980:9980): Envie Instrucciones al kernel
+[INFO] 10:42:19:567 kernel/(9982:9982): inicio Consola
+[DEBUG] 10:42:19:568 kernel/(9982:9982): 333
+[DEBUG] 10:42:19:568 kernel/(9982:9982): BASE_2.txt
+[DEBUG] 10:42:19:568 kernel/(9982:9982): crearMensaje
+[INFO] 10:42:19:571 kernel/(9982:9982): socket kernel 4
+[INFO] 10:42:19:571 kernel/(9982:9982): Envie Instrucciones al kernel
+[DEBUG] 10:42:28:896 kernel/(9980:9980): Me llego cod op 4
+[DEBUG] 10:42:28:896 kernel/(9980:9980): Me llego el exit del pcb id 1
+[DEBUG] 10:42:33:957 kernel/(9982:9982): Me llego cod op 4
+[DEBUG] 10:42:33:957 kernel/(9982:9982): Me llego el exit del pcb id 2
+[DEBUG] 10:44:48:262 kernel/(9978:9978): paqute null
+[INFO] 10:47:10:224 kernel/(10100:10100): inicio Consola
+[DEBUG] 10:47:10:225 kernel/(10100:10100): 111
+[DEBUG] 10:47:10:226 kernel/(10100:10100): BASE_1.txt
+[DEBUG] 10:47:10:226 kernel/(10100:10100): crearMensaje
+[INFO] 10:47:10:230 kernel/(10100:10100): socket kernel 4
+[INFO] 10:47:10:230 kernel/(10100:10100): Envie Instrucciones al kernel
+[INFO] 10:47:10:652 kernel/(10102:10102): inicio Consola
+[DEBUG] 10:47:10:653 kernel/(10102:10102): 222
+[DEBUG] 10:47:10:653 kernel/(10102:10102): BASE_2.txt
+[DEBUG] 10:47:10:653 kernel/(10102:10102): crearMensaje
+[INFO] 10:47:10:664 kernel/(10102:10102): socket kernel 4
+[INFO] 10:47:10:664 kernel/(10102:10102): Envie Instrucciones al kernel
+[INFO] 10:47:11:078 kernel/(10104:10104): inicio Consola
+[DEBUG] 10:47:11:078 kernel/(10104:10104): 333
+[DEBUG] 10:47:11:078 kernel/(10104:10104): BASE_2.txt
+[DEBUG] 10:47:11:078 kernel/(10104:10104): crearMensaje
+[INFO] 10:47:11:085 kernel/(10104:10104): socket kernel 4
+[INFO] 10:47:11:085 kernel/(10104:10104): Envie Instrucciones al kernel
+[DEBUG] 10:47:20:421 kernel/(10102:10102): Me llego cod op 4
+[DEBUG] 10:47:20:421 kernel/(10102:10102): Me llego el exit del pcb id 1
+[DEBUG] 10:47:25:475 kernel/(10104:10104): Me llego cod op 4
+[DEBUG] 10:47:25:475 kernel/(10104:10104): Me llego el exit del pcb id 2
+[DEBUG] 10:47:28:538 kernel/(10100:10100): Me llego cod op 4
+[DEBUG] 10:47:28:539 kernel/(10100:10100): Me llego el exit del pcb id 0
+[INFO] 10:50:35:017 kernel/(10171:10171): inicio Consola
+[DEBUG] 10:50:35:018 kernel/(10171:10171): 111
+[DEBUG] 10:50:35:018 kernel/(10171:10171): PLANI_1.txt
+[DEBUG] 10:50:35:018 kernel/(10171:10171): crearMensaje
+[ERROR] 10:50:35:018 kernel/(10171:10171): no input_file
+[INFO] 10:50:43:499 kernel/(10172:10172): inicio Consola
+[DEBUG] 10:50:43:499 kernel/(10172:10172): 111
+[DEBUG] 10:50:43:500 kernel/(10172:10172): PLANI_1.txt
+[DEBUG] 10:50:43:500 kernel/(10172:10172): crearMensaje
+[ERROR] 10:50:43:500 kernel/(10172:10172): no input_file
+[INFO] 10:50:56:452 kernel/(10175:10175): inicio Consola
+[DEBUG] 10:50:56:453 kernel/(10175:10175): 333
+[DEBUG] 10:50:56:453 kernel/(10175:10175): PLANI_2.txt
+[DEBUG] 10:50:56:453 kernel/(10175:10175): crearMensaje
+[ERROR] 10:50:56:453 kernel/(10175:10175): no input_file
+[INFO] 10:51:14:140 kernel/(10193:10193): inicio Consola
+[DEBUG] 10:51:14:141 kernel/(10193:10193): 333
+[DEBUG] 10:51:14:141 kernel/(10193:10193): PLANI_2.txt
+[DEBUG] 10:51:14:141 kernel/(10193:10193): crearMensaje
+[ERROR] 10:51:14:141 kernel/(10193:10193): no input_file
+[INFO] 10:52:45:532 kernel/(10208:10208): inicio Consola
+[DEBUG] 10:52:45:532 kernel/(10208:10208): 333
+[DEBUG] 10:52:45:532 kernel/(10208:10208): PLANI_2
+[DEBUG] 10:52:45:532 kernel/(10208:10208): crearMensaje
+[INFO] 10:53:21:932 kernel/(10219:10219): inicio Consola
+[DEBUG] 10:53:21:932 kernel/(10219:10219): 111
+[DEBUG] 10:53:21:932 kernel/(10219:10219): PLANI_1
+[DEBUG] 10:53:21:932 kernel/(10219:10219): crearMensaje
+[INFO] 10:53:21:936 kernel/(10219:10219): socket kernel 4
+[INFO] 10:53:21:938 kernel/(10219:10219): Envie Instrucciones al kernel
+[INFO] 10:53:22:353 kernel/(10221:10221): inicio Consola
+[DEBUG] 10:53:22:353 kernel/(10221:10221): 222
+[DEBUG] 10:53:22:353 kernel/(10221:10221): PLANI_1
+[DEBUG] 10:53:22:353 kernel/(10221:10221): crearMensaje
+[INFO] 10:53:22:360 kernel/(10221:10221): socket kernel 4
+[INFO] 10:53:22:360 kernel/(10221:10221): Envie Instrucciones al kernel
+[INFO] 10:53:22:930 kernel/(10223:10223): inicio Consola
+[DEBUG] 10:53:22:931 kernel/(10223:10223): 333
+[DEBUG] 10:53:22:931 kernel/(10223:10223): PLANI_2
+[DEBUG] 10:53:22:931 kernel/(10223:10223): crearMensaje
+[INFO] 10:53:22:934 kernel/(10223:10223): socket kernel 4
+[INFO] 10:53:22:934 kernel/(10223:10223): Envie Instrucciones al kernel
+[DEBUG] 10:53:38:177 kernel/(10223:10223): Me llego cod op 4
+[DEBUG] 10:53:38:177 kernel/(10223:10223): Me llego el exit del pcb id 2
+[DEBUG] 10:53:41:194 kernel/(10219:10219): Me llego cod op 4
+[DEBUG] 10:53:41:194 kernel/(10219:10219): Me llego el exit del pcb id 0
+[DEBUG] 10:53:44:232 kernel/(10221:10221): Me llego cod op 4
+[DEBUG] 10:53:44:233 kernel/(10221:10221): Me llego el exit del pcb id 1
+[INFO] 11:02:47:925 kernel/(10570:10570): inicio Consola
+[DEBUG] 11:02:47:927 kernel/(10570:10570): 111
+[DEBUG] 11:02:47:927 kernel/(10570:10570): PLANI_1
+[DEBUG] 11:02:47:927 kernel/(10570:10570): crearMensaje
+[INFO] 11:02:47:935 kernel/(10570:10570): socket kernel 4
+[INFO] 11:02:47:936 kernel/(10570:10570): Envie Instrucciones al kernel
+[DEBUG] 11:02:48:128 kernel/(10570:10570): paqute null
+[INFO] 11:02:48:277 kernel/(10572:10572): inicio Consola
+[DEBUG] 11:02:48:278 kernel/(10572:10572): 222
+[DEBUG] 11:02:48:278 kernel/(10572:10572): PLANI_1
+[DEBUG] 11:02:48:278 kernel/(10572:10572): crearMensaje
+[INFO] 11:05:31:053 kernel/(10600:10600): inicio Consola
+[DEBUG] 11:05:31:054 kernel/(10600:10600): 111
+[DEBUG] 11:05:31:054 kernel/(10600:10600): PLANI_1
+[DEBUG] 11:05:31:054 kernel/(10600:10600): crearMensaje
+[INFO] 11:05:31:058 kernel/(10600:10600): socket kernel 4
+[INFO] 11:05:31:062 kernel/(10600:10600): Envie Instrucciones al kernel
+[DEBUG] 11:05:31:259 kernel/(10600:10600): paqute null
+[INFO] 11:05:31:406 kernel/(10602:10602): inicio Consola
+[DEBUG] 11:05:31:407 kernel/(10602:10602): 222
+[DEBUG] 11:05:31:407 kernel/(10602:10602): PLANI_1
+[DEBUG] 11:05:31:407 kernel/(10602:10602): crearMensaje
+[INFO] 11:14:56:757 kernel/(11051:11051): inicio Consola
+[DEBUG] 11:14:56:758 kernel/(11051:11051): 111
+[DEBUG] 11:14:56:758 kernel/(11051:11051): PLANI_1
+[DEBUG] 11:14:56:759 kernel/(11051:11051): crearMensaje
+[INFO] 11:14:56:763 kernel/(11051:11051): socket kernel 4
+[INFO] 11:14:56:768 kernel/(11051:11051): Envie Instrucciones al kernel
+[INFO] 11:14:57:307 kernel/(11053:11053): inicio Consola
+[DEBUG] 11:14:57:307 kernel/(11053:11053): 222
+[DEBUG] 11:14:57:307 kernel/(11053:11053): PLANI_1
+[DEBUG] 11:14:57:307 kernel/(11053:11053): crearMensaje
+[INFO] 11:14:57:312 kernel/(11053:11053): socket kernel 4
+[INFO] 11:14:57:312 kernel/(11053:11053): Envie Instrucciones al kernel
+[DEBUG] 11:15:26:901 kernel/(11051:11051): paqute null
+[DEBUG] 11:15:26:903 kernel/(11053:11053): paqute null
+[INFO] 11:17:06:236 kernel/(11110:11110): inicio Consola
+[DEBUG] 11:17:06:237 kernel/(11110:11110): 111
+[DEBUG] 11:17:06:237 kernel/(11110:11110): PLANI_1
+[DEBUG] 11:17:06:237 kernel/(11110:11110): crearMensaje
+[INFO] 11:17:06:242 kernel/(11110:11110): socket kernel 4
+[INFO] 11:17:06:243 kernel/(11110:11110): Envie Instrucciones al kernel
+[INFO] 11:17:06:609 kernel/(11112:11112): inicio Consola
+[DEBUG] 11:17:06:609 kernel/(11112:11112): 222
+[DEBUG] 11:17:06:610 kernel/(11112:11112): PLANI_1
+[DEBUG] 11:17:06:610 kernel/(11112:11112): crearMensaje
+[INFO] 11:17:06:610 kernel/(11112:11112): socket kernel 4
+[INFO] 11:17:06:610 kernel/(11112:11112): Envie Instrucciones al kernel
+[DEBUG] 11:17:06:829 kernel/(11112:11112): paqute null
+[DEBUG] 11:17:06:830 kernel/(11110:11110): paqute null
+[INFO] 11:19:02:408 kernel/(11180:11180): inicio Consola
+[DEBUG] 11:19:02:408 kernel/(11180:11180): 111
+[DEBUG] 11:19:02:408 kernel/(11180:11180): PLANI_1
+[DEBUG] 11:19:02:409 kernel/(11180:11180): crearMensaje
+[INFO] 11:19:02:414 kernel/(11180:11180): socket kernel 4
+[INFO] 11:19:02:415 kernel/(11180:11180): Envie Instrucciones al kernel
+[DEBUG] 11:19:41:515 kernel/(11180:11180): paqute null
+[INFO] 11:25:52:566 kernel/(11403:11403): inicio Consola
+[DEBUG] 11:25:52:567 kernel/(11403:11403): 111
+[DEBUG] 11:25:52:567 kernel/(11403:11403): PLANI_1
+[DEBUG] 11:25:52:567 kernel/(11403:11403): crearMensaje
+[INFO] 11:25:52:572 kernel/(11403:11403): socket kernel 4
+[INFO] 11:25:52:572 kernel/(11403:11403): Envie Instrucciones al kernel
+[DEBUG] 11:28:39:042 kernel/(11403:11403): paqute null
+[INFO] 11:32:08:414 kernel/(11534:11534): inicio Consola
+[DEBUG] 11:32:08:419 kernel/(11534:11534): 111
+[DEBUG] 11:32:08:419 kernel/(11534:11534): PLANI_1
+[DEBUG] 11:32:08:420 kernel/(11534:11534): crearMensaje
+[INFO] 11:32:08:424 kernel/(11534:11534): socket kernel 4
+[INFO] 11:32:08:428 kernel/(11534:11534): Envie Instrucciones al kernel
+[DEBUG] 11:32:51:408 kernel/(11534:11534): paqute null
+[INFO] 11:47:02:630 kernel/(11850:11850): inicio Consola
+[DEBUG] 11:47:02:631 kernel/(11850:11850): 111
+[DEBUG] 11:47:02:631 kernel/(11850:11850): PLANI_1
+[DEBUG] 11:47:02:631 kernel/(11850:11850): crearMensaje
+[INFO] 11:47:02:636 kernel/(11850:11850): socket kernel 4
+[INFO] 11:47:02:636 kernel/(11850:11850): Envie Instrucciones al kernel
+[DEBUG] 11:47:53:473 kernel/(11850:11850): paqute null
+[INFO] 11:51:34:132 kernel/(11930:11930): inicio Consola
+[DEBUG] 11:51:34:133 kernel/(11930:11930): 111
+[DEBUG] 11:51:34:133 kernel/(11930:11930): PLANI_1
+[DEBUG] 11:51:34:133 kernel/(11930:11930): crearMensaje
+[INFO] 11:51:34:138 kernel/(11930:11930): socket kernel 4
+[INFO] 11:51:34:138 kernel/(11930:11930): Envie Instrucciones al kernel
+[DEBUG] 11:53:00:144 kernel/(11930:11930): paqute null
+[INFO] 11:54:36:831 kernel/(12015:12015): inicio Consola
+[DEBUG] 11:54:36:838 kernel/(12015:12015): 111
+[DEBUG] 11:54:36:841 kernel/(12015:12015): PLANI_1
+[DEBUG] 11:54:36:841 kernel/(12015:12015): crearMensaje
+[INFO] 11:54:36:844 kernel/(12015:12015): socket kernel 4
+[INFO] 11:54:36:846 kernel/(12015:12015): Envie Instrucciones al kernel
+[DEBUG] 11:54:52:697 kernel/(12015:12015): paqute null
+[INFO] 11:56:10:535 kernel/(12056:12056): inicio Consola
+[DEBUG] 11:56:10:536 kernel/(12056:12056): 111
+[DEBUG] 11:56:10:537 kernel/(12056:12056): PLANI_1
+[DEBUG] 11:56:10:537 kernel/(12056:12056): crearMensaje
+[INFO] 11:56:10:543 kernel/(12056:12056): socket kernel 4
+[INFO] 11:56:10:543 kernel/(12056:12056): Envie Instrucciones al kernel
+[DEBUG] 11:56:34:605 kernel/(12056:12056): paqute null
+[INFO] 11:58:34:194 kernel/(12199:12199): inicio Consola
+[DEBUG] 11:58:34:195 kernel/(12199:12199): 111
+[DEBUG] 11:58:34:195 kernel/(12199:12199): PLANI_1
+[DEBUG] 11:58:34:195 kernel/(12199:12199): crearMensaje
+[INFO] 11:58:34:199 kernel/(12199:12199): socket kernel 4
+[INFO] 11:58:34:204 kernel/(12199:12199): Envie Instrucciones al kernel
+[DEBUG] 11:58:45:380 kernel/(12199:12199): Me llego cod op 4
+[DEBUG] 11:58:45:380 kernel/(12199:12199): Me llego el exit del pcb id 0
+[INFO] 11:59:18:158 kernel/(12315:12315): inicio Consola
+[DEBUG] 11:59:18:159 kernel/(12315:12315): 111
+[DEBUG] 11:59:18:159 kernel/(12315:12315): PLANI_1
+[DEBUG] 11:59:18:159 kernel/(12315:12315): crearMensaje
+[INFO] 11:59:18:163 kernel/(12315:12315): socket kernel 4
+[INFO] 11:59:18:164 kernel/(12315:12315): Envie Instrucciones al kernel
+[INFO] 11:59:18:469 kernel/(12317:12317): inicio Consola
+[DEBUG] 11:59:18:469 kernel/(12317:12317): 222
+[DEBUG] 11:59:18:469 kernel/(12317:12317): PLANI_2
+[DEBUG] 11:59:18:469 kernel/(12317:12317): crearMensaje
+[INFO] 11:59:18:472 kernel/(12317:12317): socket kernel 4
+[INFO] 11:59:18:472 kernel/(12317:12317): Envie Instrucciones al kernel
+[DEBUG] 11:59:31:294 kernel/(12317:12317): Me llego cod op 4
+[DEBUG] 11:59:31:294 kernel/(12317:12317): Me llego el exit del pcb id 2
+[DEBUG] 11:59:34:348 kernel/(12315:12315): Me llego cod op 4
+[DEBUG] 11:59:34:348 kernel/(12315:12315): Me llego el exit del pcb id 1
+[INFO] 12:04:58:262 kernel/(12584:12584): inicio Consola
+[DEBUG] 12:04:58:264 kernel/(12584:12584): 111
+[DEBUG] 12:04:58:264 kernel/(12584:12584): PLANI_1
+[DEBUG] 12:04:58:264 kernel/(12584:12584): crearMensaje
+[INFO] 12:04:58:269 kernel/(12584:12584): socket kernel 4
+[INFO] 12:04:58:269 kernel/(12584:12584): Envie Instrucciones al kernel
+[INFO] 12:04:58:627 kernel/(12586:12586): inicio Consola
+[DEBUG] 12:04:58:628 kernel/(12586:12586): 222
+[DEBUG] 12:04:58:628 kernel/(12586:12586): PLANI_2
+[DEBUG] 12:04:58:628 kernel/(12586:12586): crearMensaje
+[INFO] 12:04:58:636 kernel/(12586:12586): socket kernel 4
+[INFO] 12:04:58:636 kernel/(12586:12586): Envie Instrucciones al kernel
+[DEBUG] 12:05:14:562 kernel/(12586:12586): paqute null
+[DEBUG] 12:05:14:563 kernel/(12584:12584): paqute null
+[INFO] 12:06:41:619 kernel/(12666:12666): inicio Consola
+[DEBUG] 12:06:41:620 kernel/(12666:12666): 111
+[DEBUG] 12:06:41:620 kernel/(12666:12666): PLANI_1
+[DEBUG] 12:06:41:620 kernel/(12666:12666): crearMensaje
+[INFO] 12:06:41:624 kernel/(12666:12666): socket kernel 4
+[INFO] 12:06:41:624 kernel/(12666:12666): Envie Instrucciones al kernel
+[INFO] 12:06:42:107 kernel/(12668:12668): inicio Consola
+[DEBUG] 12:06:42:109 kernel/(12668:12668): 222
+[DEBUG] 12:06:42:110 kernel/(12668:12668): PLANI_2
+[DEBUG] 12:06:42:110 kernel/(12668:12668): crearMensaje
+[INFO] 12:06:42:120 kernel/(12668:12668): socket kernel 4
+[INFO] 12:06:42:120 kernel/(12668:12668): Envie Instrucciones al kernel
+[DEBUG] 12:06:50:036 kernel/(12668:12668): paqute null
+[DEBUG] 12:06:50:037 kernel/(12666:12666): paqute null
+[INFO] 12:08:31:656 kernel/(12719:12719): inicio Consola
+[DEBUG] 12:08:31:657 kernel/(12719:12719): 111
+[DEBUG] 12:08:31:657 kernel/(12719:12719): PLANI_1
+[DEBUG] 12:08:31:657 kernel/(12719:12719): crearMensaje
+[INFO] 12:08:31:660 kernel/(12719:12719): socket kernel 4
+[INFO] 12:08:31:661 kernel/(12719:12719): Envie Instrucciones al kernel
+[INFO] 12:08:32:147 kernel/(12721:12721): inicio Consola
+[DEBUG] 12:08:32:147 kernel/(12721:12721): 222
+[DEBUG] 12:08:32:147 kernel/(12721:12721): PLANI_2
+[DEBUG] 12:08:32:147 kernel/(12721:12721): crearMensaje
+[INFO] 12:08:32:152 kernel/(12721:12721): socket kernel 4
+[INFO] 12:08:32:152 kernel/(12721:12721): Envie Instrucciones al kernel
+[DEBUG] 12:08:42:855 kernel/(12721:12721): Me llego cod op 4
+[DEBUG] 12:08:42:855 kernel/(12721:12721): Me llego el exit del pcb id 1
+[DEBUG] 12:08:53:955 kernel/(12719:12719): Me llego cod op 4
+[DEBUG] 12:08:53:955 kernel/(12719:12719): Me llego el exit del pcb id 0
+[INFO] 12:17:24:395 kernel/(12942:12942): inicio Consola
+[DEBUG] 12:17:24:395 kernel/(12942:12942): 333
+[DEBUG] 12:17:24:395 kernel/(12942:12942): PLANI_1
+[DEBUG] 12:17:24:396 kernel/(12942:12942): crearMensaje
+[INFO] 12:17:24:399 kernel/(12942:12942): socket kernel 4
+[INFO] 12:17:24:400 kernel/(12942:12942): Envie Instrucciones al kernel
+[INFO] 12:17:24:706 kernel/(12944:12944): inicio Consola
+[DEBUG] 12:17:24:707 kernel/(12944:12944): 111
+[DEBUG] 12:17:24:707 kernel/(12944:12944): PLANI_1
+[DEBUG] 12:17:24:707 kernel/(12944:12944): crearMensaje
+[INFO] 12:17:24:712 kernel/(12944:12944): socket kernel 4
+[INFO] 12:17:24:712 kernel/(12944:12944): Envie Instrucciones al kernel
+[INFO] 12:17:25:093 kernel/(12946:12946): inicio Consola
+[DEBUG] 12:17:25:093 kernel/(12946:12946): 222
+[DEBUG] 12:17:25:093 kernel/(12946:12946): PLANI_2
+[DEBUG] 12:17:25:094 kernel/(12946:12946): crearMensaje
+[INFO] 12:17:25:096 kernel/(12946:12946): socket kernel 4
+[INFO] 12:17:25:096 kernel/(12946:12946): Envie Instrucciones al kernel
+[DEBUG] 12:17:38:599 kernel/(12946:12946): Me llego cod op 4
+[DEBUG] 12:17:38:600 kernel/(12946:12946): Me llego el exit del pcb id 2
+[DEBUG] 12:17:44:685 kernel/(12944:12944): Me llego cod op 4
+[DEBUG] 12:17:44:685 kernel/(12944:12944): Me llego el exit del pcb id 1
+[DEBUG] 12:17:49:701 kernel/(12942:12942): Me llego cod op 4
+[DEBUG] 12:17:49:701 kernel/(12942:12942): Me llego el exit del pcb id 0
+[INFO] 12:20:31:984 kernel/(13031:13031): inicio Consola
+[DEBUG] 12:20:31:986 kernel/(13031:13031): 333
+[DEBUG] 12:20:31:987 kernel/(13031:13031): PLANI_1
+[DEBUG] 12:20:31:987 kernel/(13031:13031): crearMensaje
+[INFO] 12:20:31:991 kernel/(13031:13031): socket kernel 4
+[INFO] 12:20:31:991 kernel/(13031:13031): Envie Instrucciones al kernel
+[INFO] 12:20:32:271 kernel/(13033:13033): inicio Consola
+[DEBUG] 12:20:32:271 kernel/(13033:13033): 111
+[DEBUG] 12:20:32:271 kernel/(13033:13033): PLANI_1
+[DEBUG] 12:20:32:271 kernel/(13033:13033): crearMensaje
+[INFO] 12:20:32:274 kernel/(13033:13033): socket kernel 4
+[INFO] 12:20:32:274 kernel/(13033:13033): Envie Instrucciones al kernel
+[INFO] 12:20:32:671 kernel/(13035:13035): inicio Consola
+[DEBUG] 12:20:32:671 kernel/(13035:13035): 222
+[DEBUG] 12:20:32:671 kernel/(13035:13035): PLANI_2
+[DEBUG] 12:20:32:671 kernel/(13035:13035): crearMensaje
+[INFO] 12:20:32:673 kernel/(13035:13035): socket kernel 4
+[INFO] 12:20:32:673 kernel/(13035:13035): Envie Instrucciones al kernel
+[DEBUG] 12:20:47:253 kernel/(13033:13033): Me llego cod op 4
+[DEBUG] 12:20:47:253 kernel/(13033:13033): Me llego el exit del pcb id 1
+[DEBUG] 12:20:52:305 kernel/(13031:13031): Me llego cod op 4
+[DEBUG] 12:20:52:305 kernel/(13031:13031): Me llego el exit del pcb id 0
+[DEBUG] 12:20:57:360 kernel/(13035:13035): Me llego cod op 4
+[DEBUG] 12:20:57:360 kernel/(13035:13035): Me llego el exit del pcb id 2
+[INFO] 12:23:45:155 kernel/(13052:13052): inicio Consola
+[DEBUG] 12:23:45:155 kernel/(13052:13052): 111
+[DEBUG] 12:23:45:155 kernel/(13052:13052): SUSPE_1
+[DEBUG] 12:23:45:155 kernel/(13052:13052): crearMensaje
+[INFO] 12:23:45:159 kernel/(13052:13052): socket kernel 4
+[INFO] 12:23:45:159 kernel/(13052:13052): Envie Instrucciones al kernel
+[INFO] 12:23:45:694 kernel/(13054:13054): inicio Consola
+[DEBUG] 12:23:45:694 kernel/(13054:13054): 222
+[DEBUG] 12:23:45:694 kernel/(13054:13054): SUSPE_2
+[DEBUG] 12:23:45:694 kernel/(13054:13054): crearMensaje
+[INFO] 12:23:45:699 kernel/(13054:13054): socket kernel 4
+[INFO] 12:23:45:699 kernel/(13054:13054): Envie Instrucciones al kernel
+[INFO] 12:23:46:344 kernel/(13056:13056): inicio Consola
+[DEBUG] 12:23:46:345 kernel/(13056:13056): 333
+[DEBUG] 12:23:46:345 kernel/(13056:13056): SUSPE_3
+[DEBUG] 12:23:46:345 kernel/(13056:13056): crearMensaje
+[INFO] 12:23:46:350 kernel/(13056:13056): socket kernel 4
+[INFO] 12:23:46:350 kernel/(13056:13056): Envie Instrucciones al kernel
+[DEBUG] 12:24:00:301 kernel/(13056:13056): Me llego cod op 4
+[DEBUG] 12:24:00:302 kernel/(13056:13056): Me llego el exit del pcb id 5
+[DEBUG] 12:24:06:379 kernel/(13052:13052): Me llego cod op 4
+[DEBUG] 12:24:06:379 kernel/(13052:13052): Me llego el exit del pcb id 3
+[DEBUG] 12:24:16:456 kernel/(13054:13054): Me llego cod op 4
+[DEBUG] 12:24:16:456 kernel/(13054:13054): Me llego el exit del pcb id 4
+[INFO] 12:25:55:674 kernel/(13077:13077): inicio Consola
+[DEBUG] 12:25:55:676 kernel/(13077:13077): 111
+[DEBUG] 12:25:55:676 kernel/(13077:13077): SUSPE_1
+[DEBUG] 12:25:55:676 kernel/(13077:13077): crearMensaje
+[INFO] 12:25:55:679 kernel/(13077:13077): socket kernel 4
+[INFO] 12:25:55:680 kernel/(13077:13077): Envie Instrucciones al kernel
+[INFO] 12:25:56:195 kernel/(13079:13079): inicio Consola
+[DEBUG] 12:25:56:195 kernel/(13079:13079): 222
+[DEBUG] 12:25:56:196 kernel/(13079:13079): SUSPE_2
+[DEBUG] 12:25:56:196 kernel/(13079:13079): crearMensaje
+[INFO] 12:25:56:204 kernel/(13079:13079): socket kernel 4
+[INFO] 12:25:56:204 kernel/(13079:13079): Envie Instrucciones al kernel
+[INFO] 12:25:56:675 kernel/(13081:13081): inicio Consola
+[DEBUG] 12:25:56:675 kernel/(13081:13081): 333
+[DEBUG] 12:25:56:675 kernel/(13081:13081): SUSPE_3
+[DEBUG] 12:25:56:675 kernel/(13081:13081): crearMensaje
+[INFO] 12:25:56:678 kernel/(13081:13081): socket kernel 4
+[INFO] 12:25:56:679 kernel/(13081:13081): Envie Instrucciones al kernel
+[DEBUG] 12:26:11:888 kernel/(13081:13081): Me llego cod op 4
+[DEBUG] 12:26:11:888 kernel/(13081:13081): Me llego el exit del pcb id 2
+[DEBUG] 12:26:14:924 kernel/(13077:13077): Me llego cod op 4
+[DEBUG] 12:26:14:924 kernel/(13077:13077): Me llego el exit del pcb id 0
+[DEBUG] 12:26:19:847 kernel/(13079:13079): Me llego cod op 4
+[DEBUG] 12:26:19:847 kernel/(13079:13079): Me llego el exit del pcb id 1
+[INFO] 12:26:46:474 kernel/(13089:13089): inicio Consola
+[DEBUG] 12:26:46:475 kernel/(13089:13089): 111
+[DEBUG] 12:26:46:475 kernel/(13089:13089): SUSPE_1
+[DEBUG] 12:26:46:475 kernel/(13089:13089): crearMensaje
+[INFO] 12:26:46:479 kernel/(13089:13089): socket kernel 4
+[INFO] 12:26:46:479 kernel/(13089:13089): Envie Instrucciones al kernel
+[DEBUG] 12:27:05:564 kernel/(13089:13089): Me llego cod op 4
+[DEBUG] 12:27:05:564 kernel/(13089:13089): Me llego el exit del pcb id 3
+[INFO] 12:28:28:465 kernel/(13115:13115): inicio Consola
+[DEBUG] 12:28:28:465 kernel/(13115:13115): 111
+[DEBUG] 12:28:28:465 kernel/(13115:13115): SUSPE_1
+[DEBUG] 12:28:28:465 kernel/(13115:13115): crearMensaje
+[INFO] 12:28:28:469 kernel/(13115:13115): socket kernel 4
+[INFO] 12:28:28:469 kernel/(13115:13115): Envie Instrucciones al kernel
+[INFO] 12:28:28:836 kernel/(13117:13117): inicio Consola
+[DEBUG] 12:28:28:836 kernel/(13117:13117): 222
+[DEBUG] 12:28:28:836 kernel/(13117:13117): SUSPE_2
+[DEBUG] 12:28:28:837 kernel/(13117:13117): crearMensaje
+[INFO] 12:28:28:844 kernel/(13117:13117): socket kernel 4
+[INFO] 12:28:28:844 kernel/(13117:13117): Envie Instrucciones al kernel
+[INFO] 12:28:29:247 kernel/(13119:13119): inicio Consola
+[DEBUG] 12:28:29:247 kernel/(13119:13119): 333
+[DEBUG] 12:28:29:247 kernel/(13119:13119): SUSPE_3
+[DEBUG] 12:28:29:247 kernel/(13119:13119): crearMensaje
+[INFO] 12:28:29:250 kernel/(13119:13119): socket kernel 4
+[INFO] 12:28:29:250 kernel/(13119:13119): Envie Instrucciones al kernel
+[DEBUG] 12:28:44:683 kernel/(13119:13119): Me llego cod op 4
+[DEBUG] 12:28:44:683 kernel/(13119:13119): Me llego el exit del pcb id 2
+[DEBUG] 12:28:47:717 kernel/(13115:13115): Me llego cod op 4
+[DEBUG] 12:28:47:718 kernel/(13115:13115): Me llego el exit del pcb id 0
+[DEBUG] 12:28:52:642 kernel/(13117:13117): Me llego cod op 4
+[DEBUG] 12:28:52:642 kernel/(13117:13117): Me llego el exit del pcb id 1
+[INFO] 12:31:37:361 kernel/(13166:13166): inicio Consola
+[DEBUG] 12:31:37:364 kernel/(13166:13166): 111
+[DEBUG] 12:31:37:366 kernel/(13166:13166): SUSPE_1
+[DEBUG] 12:31:37:366 kernel/(13166:13166): crearMensaje
+[INFO] 12:31:37:370 kernel/(13166:13166): socket kernel 4
+[INFO] 12:31:37:371 kernel/(13166:13166): Envie Instrucciones al kernel
+[INFO] 12:31:37:738 kernel/(13168:13168): inicio Consola
+[DEBUG] 12:31:37:738 kernel/(13168:13168): 222
+[DEBUG] 12:31:37:738 kernel/(13168:13168): SUSPE_2
+[DEBUG] 12:31:37:739 kernel/(13168:13168): crearMensaje
+[INFO] 12:31:37:744 kernel/(13168:13168): socket kernel 4
+[INFO] 12:31:37:744 kernel/(13168:13168): Envie Instrucciones al kernel
+[INFO] 12:31:38:265 kernel/(13170:13170): inicio Consola
+[DEBUG] 12:31:38:265 kernel/(13170:13170): 333
+[DEBUG] 12:31:38:265 kernel/(13170:13170): SUSPE_3
+[DEBUG] 12:31:38:265 kernel/(13170:13170): crearMensaje
+[INFO] 12:31:38:269 kernel/(13170:13170): socket kernel 4
+[INFO] 12:31:38:269 kernel/(13170:13170): Envie Instrucciones al kernel
+[DEBUG] 12:31:52:623 kernel/(13168:13168): Me llego cod op 4
+[DEBUG] 12:31:52:623 kernel/(13168:13168): Me llego el exit del pcb id 1
+[DEBUG] 12:31:58:674 kernel/(13170:13170): Me llego cod op 4
+[DEBUG] 12:31:58:675 kernel/(13170:13170): Me llego el exit del pcb id 2
+[DEBUG] 12:32:06:656 kernel/(13166:13166): Me llego cod op 4
+[DEBUG] 12:32:06:656 kernel/(13166:13166): Me llego el exit del pcb id 0
+[INFO] 12:32:30:955 kernel/(13181:13181): inicio Consola
+[DEBUG] 12:32:30:956 kernel/(13181:13181): 111
+[DEBUG] 12:32:30:956 kernel/(13181:13181): SUSPE_1
+[DEBUG] 12:32:30:956 kernel/(13181:13181): crearMensaje
+[INFO] 12:32:30:959 kernel/(13181:13181): socket kernel 4
+[INFO] 12:32:30:959 kernel/(13181:13181): Envie Instrucciones al kernel
+[INFO] 12:32:31:598 kernel/(13183:13183): inicio Consola
+[DEBUG] 12:32:31:598 kernel/(13183:13183): 222
+[DEBUG] 12:32:31:598 kernel/(13183:13183): SUSPE_2
+[DEBUG] 12:32:31:598 kernel/(13183:13183): crearMensaje
+[INFO] 12:32:31:601 kernel/(13183:13183): socket kernel 4
+[INFO] 12:32:31:601 kernel/(13183:13183): Envie Instrucciones al kernel
+[INFO] 12:32:32:404 kernel/(13185:13185): inicio Consola
+[DEBUG] 12:32:32:404 kernel/(13185:13185): 333
+[DEBUG] 12:32:32:404 kernel/(13185:13185): SUSPE_3
+[DEBUG] 12:32:32:404 kernel/(13185:13185): crearMensaje
+[INFO] 12:32:32:406 kernel/(13185:13185): socket kernel 4
+[INFO] 12:32:32:406 kernel/(13185:13185): Envie Instrucciones al kernel
+[DEBUG] 12:32:46:059 kernel/(13185:13185): Me llego cod op 4
+[DEBUG] 12:32:46:059 kernel/(13185:13185): Me llego el exit del pcb id 5
+[DEBUG] 12:32:52:142 kernel/(13181:13181): Me llego cod op 4
+[DEBUG] 12:32:52:142 kernel/(13181:13181): Me llego el exit del pcb id 3
+[DEBUG] 12:33:02:251 kernel/(13183:13183): Me llego cod op 4
+[DEBUG] 12:33:02:253 kernel/(13183:13183): Me llego el exit del pcb id 4
+[INFO] 12:36:13:168 kernel/(13483:13483): inicio Consola
+[DEBUG] 12:36:13:168 kernel/(13483:13483): 111
+[DEBUG] 12:36:13:168 kernel/(13483:13483): SUSPE_1
+[DEBUG] 12:36:13:169 kernel/(13483:13483): crearMensaje
+[INFO] 12:36:13:170 kernel/(13483:13483): socket kernel 4
+[INFO] 12:36:13:170 kernel/(13483:13483): Envie Instrucciones al kernel
+[DEBUG] 12:36:33:188 kernel/(13483:13483): Me llego cod op 4
+[DEBUG] 12:36:33:189 kernel/(13483:13483): Me llego el exit del pcb id 0
+[INFO] 15:48:22:603 kernel/(6369:6369): inicio Consola
+[DEBUG] 15:48:22:606 kernel/(6369:6369): 111
+[DEBUG] 15:48:22:606 kernel/(6369:6369): BASE_1.txt
+[DEBUG] 15:48:22:606 kernel/(6369:6369): crearMensaje
+[INFO] 15:48:22:611 kernel/(6369:6369): socket kernel 4
+[INFO] 15:48:22:611 kernel/(6369:6369): Envie Instrucciones al kernel
+[DEBUG] 15:48:59:431 kernel/(6369:6369): paqute null
+[INFO] 15:51:40:438 kernel/(6697:6697): inicio Consola
+[DEBUG] 15:51:40:442 kernel/(6697:6697): 111
+[DEBUG] 15:51:40:442 kernel/(6697:6697): BASE_1.txt
+[DEBUG] 15:51:40:442 kernel/(6697:6697): crearMensaje
+[INFO] 15:51:40:447 kernel/(6697:6697): socket kernel 4
+[INFO] 15:51:40:447 kernel/(6697:6697): Envie Instrucciones al kernel
+[DEBUG] 15:51:50:684 kernel/(6697:6697): Me llego cod op 4
+[DEBUG] 15:51:50:684 kernel/(6697:6697): Me llego el exit del pcb id 0
+[INFO] 21:24:39:958 kernel/(5051:5051): inicio Consola
+[DEBUG] 21:24:39:960 kernel/(5051:5051): 111
+[DEBUG] 21:24:39:961 kernel/(5051:5051): SUSPE_1
+[DEBUG] 21:24:39:961 kernel/(5051:5051): crearMensaje
+[INFO] 21:24:39:962 kernel/(5051:5051): socket kernel 4
+[INFO] 21:24:39:962 kernel/(5051:5051): Envie Instrucciones al kernel
+[INFO] 21:24:56:794 kernel/(5102:5102): inicio Consola
+[DEBUG] 21:24:56:794 kernel/(5102:5102): 222
+[DEBUG] 21:24:56:810 kernel/(5102:5102): SUSPE_2
+[DEBUG] 21:24:56:810 kernel/(5102:5102): crearMensaje
+[INFO] 21:24:56:812 kernel/(5102:5102): socket kernel 4
+[INFO] 21:24:56:812 kernel/(5102:5102): Envie Instrucciones al kernel
+[DEBUG] 21:25:23:714 kernel/(5102:5102): Me llego cod op 4
+[DEBUG] 21:25:23:714 kernel/(5102:5102): Me llego el exit del pcb id 1
+[DEBUG] 21:25:35:163 kernel/(5051:5051): Me llego cod op 4
+[DEBUG] 21:25:35:163 kernel/(5051:5051): Me llego el exit del pcb id 0
+[INFO] 21:26:54:966 kernel/(5376:5376): inicio Consola
+[DEBUG] 21:26:54:966 kernel/(5376:5376): 333
+[DEBUG] 21:26:54:967 kernel/(5376:5376): SUSPE_3
+[DEBUG] 21:26:54:967 kernel/(5376:5376): crearMensaje
+[INFO] 21:26:54:973 kernel/(5376:5376): socket kernel 4
+[INFO] 21:26:54:973 kernel/(5376:5376): Envie Instrucciones al kernel
+[DEBUG] 21:27:39:803 kernel/(5376:5376): paqute null
+[INFO] 21:29:51:433 kernel/(5808:5808): inicio Consola
+[DEBUG] 21:29:51:435 kernel/(5808:5808): 111
+[DEBUG] 21:29:51:435 kernel/(5808:5808): SUSPE_1
+[DEBUG] 21:29:51:435 kernel/(5808:5808): crearMensaje
+[INFO] 21:29:51:437 kernel/(5808:5808): socket kernel 4
+[INFO] 21:29:51:437 kernel/(5808:5808): Envie Instrucciones al kernel
+[INFO] 21:29:57:931 kernel/(5822:5822): inicio Consola
+[DEBUG] 21:29:57:931 kernel/(5822:5822): 222
+[DEBUG] 21:29:57:931 kernel/(5822:5822): SUSPE_2
+[DEBUG] 21:29:57:934 kernel/(5822:5822): crearMensaje
+[INFO] 21:29:57:935 kernel/(5822:5822): socket kernel 4
+[INFO] 21:29:57:935 kernel/(5822:5822): Envie Instrucciones al kernel
+[INFO] 21:30:00:317 kernel/(5829:5829): inicio Consola
+[DEBUG] 21:30:00:317 kernel/(5829:5829): 333
+[DEBUG] 21:30:00:317 kernel/(5829:5829): SUSPE_3
+[DEBUG] 21:30:00:317 kernel/(5829:5829): crearMensaje
+[INFO] 21:30:00:319 kernel/(5829:5829): socket kernel 4
+[INFO] 21:30:00:320 kernel/(5829:5829): Envie Instrucciones al kernel
+[DEBUG] 21:30:28:793 kernel/(5829:5829): Me llego cod op 4
+[DEBUG] 21:30:28:793 kernel/(5829:5829): Me llego el exit del pcb id 1
+[DEBUG] 21:31:21:359 kernel/(5808:5808): Me llego cod op 4
+[DEBUG] 21:31:21:359 kernel/(5808:5808): Me llego el exit del pcb id 0
+[DEBUG] 21:32:52:097 kernel/(5822:5822): paqute null
+[INFO] 21:36:25:764 kernel/(6827:6827): inicio Consola
+[DEBUG] 21:36:25:765 kernel/(6827:6827): 111
+[DEBUG] 21:36:25:765 kernel/(6827:6827): SUSPE_1
+[DEBUG] 21:36:25:766 kernel/(6827:6827): crearMensaje
+[INFO] 21:36:25:771 kernel/(6827:6827): socket kernel 4
+[INFO] 21:36:25:771 kernel/(6827:6827): Envie Instrucciones al kernel
+[INFO] 21:36:26:114 kernel/(6829:6829): inicio Consola
+[DEBUG] 21:36:26:115 kernel/(6829:6829): 222
+[DEBUG] 21:36:26:115 kernel/(6829:6829): SUSPE_2
+[DEBUG] 21:36:26:115 kernel/(6829:6829): crearMensaje
+[INFO] 21:36:26:121 kernel/(6829:6829): socket kernel 4
+[INFO] 21:36:26:121 kernel/(6829:6829): Envie Instrucciones al kernel
+[INFO] 21:36:26:568 kernel/(6831:6831): inicio Consola
+[DEBUG] 21:36:26:568 kernel/(6831:6831): 333
+[DEBUG] 21:36:26:568 kernel/(6831:6831): SUSPE_3
+[DEBUG] 21:36:26:568 kernel/(6831:6831): crearMensaje
+[INFO] 21:36:26:572 kernel/(6831:6831): socket kernel 4
+[INFO] 21:36:26:572 kernel/(6831:6831): Envie Instrucciones al kernel
+[DEBUG] 21:36:39:102 kernel/(6829:6829): Me llego cod op 4
+[DEBUG] 21:36:39:102 kernel/(6829:6829): Me llego el exit del pcb id 1
+[DEBUG] 21:36:44:161 kernel/(6831:6831): Me llego cod op 4
+[DEBUG] 21:36:44:162 kernel/(6831:6831): Me llego el exit del pcb id 2
+[DEBUG] 21:36:52:129 kernel/(6827:6827): Me llego cod op 4
+[DEBUG] 21:36:52:129 kernel/(6827:6827): Me llego el exit del pcb id 0
+[INFO] 21:42:33:514 kernel/(7435:7435): inicio Consola
+[DEBUG] 21:42:33:517 kernel/(7435:7435): 111
+[DEBUG] 21:42:33:517 kernel/(7435:7435): SUSPE_1
+[DEBUG] 21:42:33:517 kernel/(7435:7435): crearMensaje
+[INFO] 21:42:33:522 kernel/(7435:7435): socket kernel 4
+[INFO] 21:42:33:522 kernel/(7435:7435): Envie Instrucciones al kernel
+[INFO] 21:42:33:944 kernel/(7437:7437): inicio Consola
+[DEBUG] 21:42:33:944 kernel/(7437:7437): 222
+[DEBUG] 21:42:33:944 kernel/(7437:7437): SUSPE_2
+[DEBUG] 21:42:33:944 kernel/(7437:7437): crearMensaje
+[INFO] 21:42:33:953 kernel/(7437:7437): socket kernel 4
+[INFO] 21:42:33:954 kernel/(7437:7437): Envie Instrucciones al kernel
+[INFO] 21:42:34:384 kernel/(7442:7442): inicio Consola
+[DEBUG] 21:42:34:384 kernel/(7442:7442): 333
+[DEBUG] 21:42:34:384 kernel/(7442:7442): SUSPE_3
+[DEBUG] 21:42:34:385 kernel/(7442:7442): crearMensaje
+[INFO] 21:42:34:389 kernel/(7442:7442): socket kernel 4
+[INFO] 21:42:34:389 kernel/(7442:7442): Envie Instrucciones al kernel
+[DEBUG] 21:43:54:501 kernel/(7437:7437): paqute null
+[DEBUG] 21:43:54:502 kernel/(7435:7435): paqute null
+[INFO] 21:49:09:817 kernel/(8307:8307): inicio Consola
+[DEBUG] 21:49:09:818 kernel/(8307:8307): 111
+[DEBUG] 21:49:09:818 kernel/(8307:8307): SUSPE_1
+[DEBUG] 21:49:09:819 kernel/(8307:8307): crearMensaje
+[INFO] 21:49:09:827 kernel/(8307:8307): socket kernel 4
+[INFO] 21:49:09:827 kernel/(8307:8307): Envie Instrucciones al kernel
+[INFO] 21:49:10:295 kernel/(8309:8309): inicio Consola
+[DEBUG] 21:49:10:296 kernel/(8309:8309): 222
+[DEBUG] 21:49:10:296 kernel/(8309:8309): SUSPE_2
+[DEBUG] 21:49:10:296 kernel/(8309:8309): crearMensaje
+[INFO] 21:49:10:305 kernel/(8309:8309): socket kernel 4
+[INFO] 21:49:10:305 kernel/(8309:8309): Envie Instrucciones al kernel
+[INFO] 21:49:10:916 kernel/(8311:8311): inicio Consola
+[DEBUG] 21:49:10:917 kernel/(8311:8311): 333
+[DEBUG] 21:49:10:917 kernel/(8311:8311): SUSPE_3
+[DEBUG] 21:49:10:917 kernel/(8311:8311): crearMensaje
+[INFO] 21:49:10:926 kernel/(8311:8311): socket kernel 4
+[INFO] 21:49:10:926 kernel/(8311:8311): Envie Instrucciones al kernel
+[DEBUG] 21:49:22:053 kernel/(8311:8311): Me llego cod op 4
+[DEBUG] 21:49:22:053 kernel/(8311:8311): Me llego el exit del pcb id 2
+[DEBUG] 21:51:17:672 kernel/(8309:8309): paqute null
+[DEBUG] 21:51:17:672 kernel/(8307:8307): paqute null
+[INFO] 21:58:29:091 kernel/(9493:9493): inicio Consola
+[DEBUG] 21:58:29:093 kernel/(9493:9493): 111
+[DEBUG] 21:58:29:094 kernel/(9493:9493): SUSPE_1
+[DEBUG] 21:58:29:094 kernel/(9493:9493): crearMensaje
+[INFO] 21:58:29:099 kernel/(9493:9493): socket kernel 4
+[INFO] 21:58:29:099 kernel/(9493:9493): Envie Instrucciones al kernel
+[INFO] 21:58:29:682 kernel/(9495:9495): inicio Consola
+[DEBUG] 21:58:29:683 kernel/(9495:9495): 222
+[DEBUG] 21:58:29:683 kernel/(9495:9495): SUSPE_2
+[DEBUG] 21:58:29:683 kernel/(9495:9495): crearMensaje
+[INFO] 21:58:29:688 kernel/(9495:9495): socket kernel 4
+[INFO] 21:58:29:688 kernel/(9495:9495): Envie Instrucciones al kernel
+[INFO] 21:58:30:280 kernel/(9502:9502): inicio Consola
+[DEBUG] 21:58:30:281 kernel/(9502:9502): 333
+[DEBUG] 21:58:30:281 kernel/(9502:9502): SUSPE_3
+[DEBUG] 21:58:30:281 kernel/(9502:9502): crearMensaje
+[INFO] 21:58:30:285 kernel/(9502:9502): socket kernel 4
+[INFO] 21:58:30:285 kernel/(9502:9502): Envie Instrucciones al kernel
+[DEBUG] 21:58:43:375 kernel/(9502:9502): Me llego cod op 4
+[DEBUG] 21:58:43:375 kernel/(9502:9502): Me llego el exit del pcb id 2
+[DEBUG] 21:58:48:367 kernel/(9493:9493): Me llego cod op 4
+[DEBUG] 21:58:48:368 kernel/(9493:9493): Me llego el exit del pcb id 0
+[DEBUG] 21:58:53:373 kernel/(9495:9495): Me llego cod op 4
+[DEBUG] 21:58:53:373 kernel/(9495:9495): Me llego el exit del pcb id 1
+[INFO] 22:07:27:225 kernel/(10556:10556): inicio Consola
+[DEBUG] 22:07:27:225 kernel/(10556:10556): 111
+[DEBUG] 22:07:27:225 kernel/(10556:10556): SUSPE_1
+[DEBUG] 22:07:27:225 kernel/(10556:10556): crearMensaje
+[INFO] 22:07:27:231 kernel/(10556:10556): socket kernel 4
+[INFO] 22:07:27:231 kernel/(10556:10556): Envie Instrucciones al kernel
+[INFO] 22:07:27:765 kernel/(10558:10558): inicio Consola
+[DEBUG] 22:07:27:765 kernel/(10558:10558): 222
+[DEBUG] 22:07:27:765 kernel/(10558:10558): SUSPE_2
+[DEBUG] 22:07:27:765 kernel/(10558:10558): crearMensaje
+[INFO] 22:07:27:773 kernel/(10558:10558): socket kernel 4
+[INFO] 22:07:27:773 kernel/(10558:10558): Envie Instrucciones al kernel
+[INFO] 22:07:28:352 kernel/(10560:10560): inicio Consola
+[DEBUG] 22:07:28:353 kernel/(10560:10560): 333
+[DEBUG] 22:07:28:353 kernel/(10560:10560): SUSPE_3
+[DEBUG] 22:07:28:353 kernel/(10560:10560): crearMensaje
+[INFO] 22:07:28:357 kernel/(10560:10560): socket kernel 4
+[INFO] 22:07:28:357 kernel/(10560:10560): Envie Instrucciones al kernel
+[DEBUG] 22:07:41:541 kernel/(10560:10560): Me llego cod op 4
+[DEBUG] 22:07:41:541 kernel/(10560:10560): Me llego el exit del pcb id 2
+[DEBUG] 22:07:46:542 kernel/(10556:10556): Me llego cod op 4
+[DEBUG] 22:07:46:543 kernel/(10556:10556): Me llego el exit del pcb id 0
+[DEBUG] 22:07:51:554 kernel/(10558:10558): Me llego cod op 4
+[DEBUG] 22:07:51:554 kernel/(10558:10558): Me llego el exit del pcb id 1
+[INFO] 22:29:31:639 kernel/(13152:13152): inicio Consola
+[DEBUG] 22:29:31:644 kernel/(13152:13152): 111
+[DEBUG] 22:29:31:644 kernel/(13152:13152): SUSPE_1
+[DEBUG] 22:29:31:644 kernel/(13152:13152): crearMensaje
+[INFO] 22:29:31:648 kernel/(13152:13152): socket kernel 4
+[INFO] 22:29:31:648 kernel/(13152:13152): Envie Instrucciones al kernel
+[INFO] 22:29:32:185 kernel/(13154:13154): inicio Consola
+[DEBUG] 22:29:32:185 kernel/(13154:13154): 222
+[DEBUG] 22:29:32:185 kernel/(13154:13154): SUSPE_2
+[DEBUG] 22:29:32:186 kernel/(13154:13154): crearMensaje
+[INFO] 22:29:32:195 kernel/(13154:13154): socket kernel 4
+[INFO] 22:29:32:195 kernel/(13154:13154): Envie Instrucciones al kernel
+[INFO] 22:29:32:759 kernel/(13159:13159): inicio Consola
+[DEBUG] 22:29:32:759 kernel/(13159:13159): 333
+[DEBUG] 22:29:32:760 kernel/(13159:13159): SUSPE_3
+[DEBUG] 22:29:32:760 kernel/(13159:13159): crearMensaje
+[INFO] 22:29:32:763 kernel/(13159:13159): socket kernel 4
+[INFO] 22:29:32:763 kernel/(13159:13159): Envie Instrucciones al kernel
+[DEBUG] 22:29:45:913 kernel/(13159:13159): Me llego cod op 4
+[DEBUG] 22:29:45:913 kernel/(13159:13159): Me llego el exit del pcb id 2
+[DEBUG] 22:29:50:944 kernel/(13152:13152): Me llego cod op 4
+[DEBUG] 22:29:50:945 kernel/(13152:13152): Me llego el exit del pcb id 0
+[DEBUG] 22:29:55:981 kernel/(13154:13154): Me llego cod op 4
+[DEBUG] 22:29:55:981 kernel/(13154:13154): Me llego el exit del pcb id 1
+[INFO] 22:31:33:835 kernel/(13362:13362): inicio Consola
+[DEBUG] 22:31:33:836 kernel/(13362:13362): 111
+[DEBUG] 22:31:33:836 kernel/(13362:13362): SUSPE_1
+[DEBUG] 22:31:33:836 kernel/(13362:13362): crearMensaje
+[INFO] 22:31:33:840 kernel/(13362:13362): socket kernel 4
+[INFO] 22:31:33:841 kernel/(13362:13362): Envie Instrucciones al kernel
+[INFO] 22:31:34:366 kernel/(13364:13364): inicio Consola
+[DEBUG] 22:31:34:366 kernel/(13364:13364): 222
+[DEBUG] 22:31:34:367 kernel/(13364:13364): SUSPE_2
+[DEBUG] 22:31:34:367 kernel/(13364:13364): crearMensaje
+[INFO] 22:31:34:373 kernel/(13364:13364): socket kernel 4
+[INFO] 22:31:34:373 kernel/(13364:13364): Envie Instrucciones al kernel
+[INFO] 22:31:34:995 kernel/(13366:13366): inicio Consola
+[DEBUG] 22:31:34:996 kernel/(13366:13366): 333
+[DEBUG] 22:31:34:996 kernel/(13366:13366): SUSPE_3
+[DEBUG] 22:31:34:996 kernel/(13366:13366): crearMensaje
+[INFO] 22:31:34:999 kernel/(13366:13366): socket kernel 4
+[INFO] 22:31:34:999 kernel/(13366:13366): Envie Instrucciones al kernel
+[DEBUG] 22:31:48:117 kernel/(13366:13366): Me llego cod op 4
+[DEBUG] 22:31:48:117 kernel/(13366:13366): Me llego el exit del pcb id 2
+[DEBUG] 22:31:53:130 kernel/(13362:13362): Me llego cod op 4
+[DEBUG] 22:31:53:131 kernel/(13362:13362): Me llego el exit del pcb id 0
+[DEBUG] 22:31:58:144 kernel/(13364:13364): Me llego cod op 4
+[DEBUG] 22:31:58:144 kernel/(13364:13364): Me llego el exit del pcb id 1
+[INFO] 22:36:57:787 kernel/(13876:13876): inicio Consola
+[DEBUG] 22:36:57:789 kernel/(13876:13876): 111
+[DEBUG] 22:36:57:790 kernel/(13876:13876): SUSPE_1
+[DEBUG] 22:36:57:790 kernel/(13876:13876): crearMensaje
+[INFO] 22:36:57:794 kernel/(13876:13876): socket kernel 4
+[INFO] 22:36:57:796 kernel/(13876:13876): Envie Instrucciones al kernel
+[INFO] 22:36:58:439 kernel/(13881:13881): inicio Consola
+[DEBUG] 22:36:58:439 kernel/(13881:13881): 222
+[DEBUG] 22:36:58:439 kernel/(13881:13881): SUSPE_2
+[DEBUG] 22:36:58:439 kernel/(13881:13881): crearMensaje
+[INFO] 22:36:58:444 kernel/(13881:13881): socket kernel 4
+[INFO] 22:36:58:444 kernel/(13881:13881): Envie Instrucciones al kernel
+[INFO] 22:36:59:071 kernel/(13883:13883): inicio Consola
+[DEBUG] 22:36:59:071 kernel/(13883:13883): 333
+[DEBUG] 22:36:59:071 kernel/(13883:13883): SUSPE_3
+[DEBUG] 22:36:59:071 kernel/(13883:13883): crearMensaje
+[INFO] 22:36:59:075 kernel/(13883:13883): socket kernel 4
+[INFO] 22:36:59:076 kernel/(13883:13883): Envie Instrucciones al kernel
+[DEBUG] 22:37:11:859 kernel/(13883:13883): Me llego cod op 4
+[DEBUG] 22:37:11:859 kernel/(13883:13883): Me llego el exit del pcb id 2
+[DEBUG] 22:37:16:870 kernel/(13876:13876): Me llego cod op 4
+[DEBUG] 22:37:16:871 kernel/(13876:13876): Me llego el exit del pcb id 0
+[DEBUG] 22:37:21:893 kernel/(13881:13881): Me llego cod op 4
+[DEBUG] 22:37:21:893 kernel/(13881:13881): Me llego el exit del pcb id 1
+[INFO] 22:43:45:186 kernel/(14928:14928): inicio Consola
+[DEBUG] 22:43:45:188 kernel/(14928:14928): 111
+[DEBUG] 22:43:45:188 kernel/(14928:14928): SUSPE_1
+[DEBUG] 22:43:45:188 kernel/(14928:14928): crearMensaje
+[INFO] 22:43:45:193 kernel/(14928:14928): socket kernel 4
+[INFO] 22:43:45:193 kernel/(14928:14928): Envie Instrucciones al kernel
+[INFO] 22:43:45:789 kernel/(14930:14930): inicio Consola
+[DEBUG] 22:43:45:790 kernel/(14930:14930): 222
+[DEBUG] 22:43:45:790 kernel/(14930:14930): SUSPE_2
+[DEBUG] 22:43:45:790 kernel/(14930:14930): crearMensaje
+[INFO] 22:43:45:798 kernel/(14930:14930): socket kernel 4
+[INFO] 22:43:45:798 kernel/(14930:14930): Envie Instrucciones al kernel
+[INFO] 22:43:46:350 kernel/(14932:14932): inicio Consola
+[DEBUG] 22:43:46:351 kernel/(14932:14932): 333
+[DEBUG] 22:43:46:351 kernel/(14932:14932): SUSPE_3
+[DEBUG] 22:43:46:351 kernel/(14932:14932): crearMensaje
+[INFO] 22:43:46:361 kernel/(14932:14932): socket kernel 4
+[INFO] 22:43:46:361 kernel/(14932:14932): Envie Instrucciones al kernel
+[DEBUG] 22:43:59:430 kernel/(14932:14932): Me llego cod op 4
+[DEBUG] 22:43:59:430 kernel/(14932:14932): Me llego el exit del pcb id 2
+[DEBUG] 22:44:04:459 kernel/(14928:14928): Me llego cod op 4
+[DEBUG] 22:44:04:459 kernel/(14928:14928): Me llego el exit del pcb id 0
+[DEBUG] 22:44:09:477 kernel/(14930:14930): Me llego cod op 4
+[DEBUG] 22:44:09:478 kernel/(14930:14930): Me llego el exit del pcb id 1
+[INFO] 22:48:00:022 kernel/(15381:15381): inicio Consola
+[DEBUG] 22:48:00:024 kernel/(15381:15381): 111
+[DEBUG] 22:48:00:024 kernel/(15381:15381): SUSPE_1
+[DEBUG] 22:48:00:024 kernel/(15381:15381): crearMensaje
+[INFO] 22:48:00:032 kernel/(15381:15381): socket kernel 4
+[INFO] 22:48:00:032 kernel/(15381:15381): Envie Instrucciones al kernel
+[INFO] 22:48:00:919 kernel/(15385:15385): inicio Consola
+[DEBUG] 22:48:00:919 kernel/(15385:15385): 222
+[DEBUG] 22:48:00:919 kernel/(15385:15385): SUSPE_2
+[DEBUG] 22:48:00:919 kernel/(15385:15385): crearMensaje
+[INFO] 22:48:00:928 kernel/(15385:15385): socket kernel 4
+[INFO] 22:48:00:930 kernel/(15385:15385): Envie Instrucciones al kernel
+[INFO] 22:48:02:180 kernel/(15387:15387): inicio Consola
+[DEBUG] 22:48:02:180 kernel/(15387:15387): 333
+[DEBUG] 22:48:02:180 kernel/(15387:15387): SUSPE_3
+[DEBUG] 22:48:02:180 kernel/(15387:15387): crearMensaje
+[INFO] 22:48:02:185 kernel/(15387:15387): socket kernel 4
+[INFO] 22:48:02:186 kernel/(15387:15387): Envie Instrucciones al kernel
+[DEBUG] 22:48:15:344 kernel/(15387:15387): Me llego cod op 4
+[DEBUG] 22:48:15:344 kernel/(15387:15387): Me llego el exit del pcb id 2
+[DEBUG] 22:48:20:330 kernel/(15381:15381): Me llego cod op 4
+[DEBUG] 22:48:20:330 kernel/(15381:15381): Me llego el exit del pcb id 0
+[DEBUG] 22:48:25:127 kernel/(15385:15385): Me llego cod op 4
+[DEBUG] 22:48:25:127 kernel/(15385:15385): Me llego el exit del pcb id 1
+[INFO] 23:06:08:763 kernel/(17367:17367): inicio Consola
+[DEBUG] 23:06:08:767 kernel/(17367:17367): 111
+[DEBUG] 23:06:08:767 kernel/(17367:17367): SUSPE_1
+[DEBUG] 23:06:08:767 kernel/(17367:17367): crearMensaje
+[INFO] 23:06:08:770 kernel/(17367:17367): socket kernel 4
+[INFO] 23:06:08:781 kernel/(17367:17367): Envie Instrucciones al kernel
+[INFO] 23:06:09:659 kernel/(17372:17372): inicio Consola
+[DEBUG] 23:06:09:660 kernel/(17372:17372): 222
+[DEBUG] 23:06:09:660 kernel/(17372:17372): SUSPE_2
+[DEBUG] 23:06:09:660 kernel/(17372:17372): crearMensaje
+[INFO] 23:06:09:667 kernel/(17372:17372): socket kernel 4
+[INFO] 23:06:09:667 kernel/(17372:17372): Envie Instrucciones al kernel
+[INFO] 23:06:10:540 kernel/(17377:17377): inicio Consola
+[DEBUG] 23:06:10:541 kernel/(17377:17377): 333
+[DEBUG] 23:06:10:541 kernel/(17377:17377): SUSPE_3
+[DEBUG] 23:06:10:541 kernel/(17377:17377): crearMensaje
+[INFO] 23:06:10:545 kernel/(17377:17377): socket kernel 4
+[INFO] 23:06:10:545 kernel/(17377:17377): Envie Instrucciones al kernel
+[DEBUG] 23:06:23:050 kernel/(17377:17377): Me llego cod op 4
+[DEBUG] 23:06:23:050 kernel/(17377:17377): Me llego el exit del pcb id 2
+[DEBUG] 23:06:28:076 kernel/(17367:17367): Me llego cod op 4
+[DEBUG] 23:06:28:076 kernel/(17367:17367): Me llego el exit del pcb id 0
+[DEBUG] 23:06:33:099 kernel/(17372:17372): Me llego cod op 4
+[DEBUG] 23:06:33:100 kernel/(17372:17372): Me llego el exit del pcb id 1
+[INFO] 23:12:54:601 kernel/(18172:18172): inicio Consola
+[DEBUG] 23:12:54:603 kernel/(18172:18172): 111
+[DEBUG] 23:12:54:603 kernel/(18172:18172): SUSPE_1
+[DEBUG] 23:12:54:604 kernel/(18172:18172): crearMensaje
+[INFO] 23:12:54:610 kernel/(18172:18172): socket kernel 4
+[INFO] 23:12:54:610 kernel/(18172:18172): Envie Instrucciones al kernel
+[INFO] 23:12:55:398 kernel/(18177:18177): inicio Consola
+[DEBUG] 23:12:55:399 kernel/(18177:18177): 222
+[DEBUG] 23:12:55:399 kernel/(18177:18177): SUSPE_2
+[DEBUG] 23:12:55:399 kernel/(18177:18177): crearMensaje
+[INFO] 23:12:55:406 kernel/(18177:18177): socket kernel 4
+[INFO] 23:12:55:406 kernel/(18177:18177): Envie Instrucciones al kernel
+[INFO] 23:12:56:178 kernel/(18182:18182): inicio Consola
+[DEBUG] 23:12:56:179 kernel/(18182:18182): 333
+[DEBUG] 23:12:56:179 kernel/(18182:18182): SUSPE_3
+[DEBUG] 23:12:56:179 kernel/(18182:18182): crearMensaje
+[INFO] 23:12:56:184 kernel/(18182:18182): socket kernel 4
+[INFO] 23:12:56:184 kernel/(18182:18182): Envie Instrucciones al kernel
+[DEBUG] 23:13:08:990 kernel/(18182:18182): Me llego cod op 4
+[DEBUG] 23:13:08:990 kernel/(18182:18182): Me llego el exit del pcb id 2
+[DEBUG] 23:13:13:989 kernel/(18172:18172): Me llego cod op 4
+[DEBUG] 23:13:13:989 kernel/(18172:18172): Me llego el exit del pcb id 0
+[DEBUG] 23:13:18:991 kernel/(18177:18177): Me llego cod op 4
+[DEBUG] 23:13:18:991 kernel/(18177:18177): Me llego el exit del pcb id 1
+[INFO] 23:22:56:716 kernel/(19666:19666): inicio Consola
+[DEBUG] 23:22:56:721 kernel/(19666:19666): 111
+[DEBUG] 23:22:56:721 kernel/(19666:19666): SUSPE_1
+[DEBUG] 23:22:56:722 kernel/(19666:19666): crearMensaje
+[INFO] 23:22:56:727 kernel/(19666:19666): socket kernel 4
+[INFO] 23:22:56:727 kernel/(19666:19666): Envie Instrucciones al kernel
+[INFO] 23:22:57:219 kernel/(19671:19671): inicio Consola
+[DEBUG] 23:22:57:219 kernel/(19671:19671): 222
+[DEBUG] 23:22:57:219 kernel/(19671:19671): SUSPE_2
+[DEBUG] 23:22:57:219 kernel/(19671:19671): crearMensaje
+[INFO] 23:22:57:228 kernel/(19671:19671): socket kernel 4
+[INFO] 23:22:57:229 kernel/(19671:19671): Envie Instrucciones al kernel
+[INFO] 23:22:57:768 kernel/(19673:19673): inicio Consola
+[DEBUG] 23:22:57:768 kernel/(19673:19673): 333
+[DEBUG] 23:22:57:768 kernel/(19673:19673): SUSPE_3
+[DEBUG] 23:22:57:769 kernel/(19673:19673): crearMensaje
+[INFO] 23:22:57:773 kernel/(19673:19673): socket kernel 4
+[INFO] 23:22:57:773 kernel/(19673:19673): Envie Instrucciones al kernel
+[DEBUG] 23:23:10:092 kernel/(19671:19671): Me llego cod op 4
+[DEBUG] 23:23:10:092 kernel/(19671:19671): Me llego el exit del pcb id 1
+[DEBUG] 23:23:15:119 kernel/(19673:19673): Me llego cod op 4
+[DEBUG] 23:23:15:119 kernel/(19673:19673): Me llego el exit del pcb id 2
+[DEBUG] 23:23:23:101 kernel/(19666:19666): Me llego cod op 4
+[DEBUG] 23:23:23:101 kernel/(19666:19666): Me llego el exit del pcb id 0
+[INFO] 23:25:45:736 kernel/(19956:19956): inicio Consola
+[DEBUG] 23:25:45:748 kernel/(19956:19956): 111
+[DEBUG] 23:25:45:748 kernel/(19956:19956): SUSPE_1
+[DEBUG] 23:25:45:748 kernel/(19956:19956): crearMensaje
+[INFO] 23:25:45:749 kernel/(19956:19956): socket kernel 4
+[INFO] 23:25:45:750 kernel/(19956:19956): Envie Instrucciones al kernel
+[INFO] 23:25:46:265 kernel/(19958:19958): inicio Consola
+[DEBUG] 23:25:46:265 kernel/(19958:19958): 222
+[DEBUG] 23:25:46:265 kernel/(19958:19958): SUSPE_2
+[DEBUG] 23:25:46:265 kernel/(19958:19958): crearMensaje
+[INFO] 23:25:46:272 kernel/(19958:19958): socket kernel 4
+[INFO] 23:25:46:273 kernel/(19958:19958): Envie Instrucciones al kernel
+[INFO] 23:25:46:942 kernel/(19963:19963): inicio Consola
+[DEBUG] 23:25:46:942 kernel/(19963:19963): 333
+[DEBUG] 23:25:46:942 kernel/(19963:19963): SUSPE_3
+[DEBUG] 23:25:46:942 kernel/(19963:19963): crearMensaje
+[INFO] 23:25:46:946 kernel/(19963:19963): socket kernel 4
+[INFO] 23:25:46:947 kernel/(19963:19963): Envie Instrucciones al kernel
+[DEBUG] 23:25:58:063 kernel/(19963:19963): Me llego cod op 4
+[DEBUG] 23:25:58:063 kernel/(19963:19963): Me llego el exit del pcb id 2
+[DEBUG] 23:26:07:231 kernel/(19958:19958): Me llego cod op 4
+[DEBUG] 23:26:07:231 kernel/(19958:19958): Me llego el exit del pcb id 1
+[DEBUG] 23:26:20:271 kernel/(19956:19956): Me llego cod op 4
+[DEBUG] 23:26:20:271 kernel/(19956:19956): Me llego el exit del pcb id 0
+[INFO] 23:30:13:276 kernel/(20416:20416): inicio Consola
+[DEBUG] 23:30:13:279 kernel/(20416:20416): 111
+[DEBUG] 23:30:13:279 kernel/(20416:20416): SUSPE_1
+[DEBUG] 23:30:13:279 kernel/(20416:20416): crearMensaje
+[INFO] 23:30:13:286 kernel/(20416:20416): socket kernel 4
+[INFO] 23:30:13:292 kernel/(20416:20416): Envie Instrucciones al kernel
+[INFO] 23:30:13:894 kernel/(20418:20418): inicio Consola
+[DEBUG] 23:30:13:894 kernel/(20418:20418): 222
+[DEBUG] 23:30:13:895 kernel/(20418:20418): SUSPE_2
+[DEBUG] 23:30:13:895 kernel/(20418:20418): crearMensaje
+[INFO] 23:30:13:905 kernel/(20418:20418): socket kernel 4
+[INFO] 23:30:13:905 kernel/(20418:20418): Envie Instrucciones al kernel
+[INFO] 23:30:14:455 kernel/(20420:20420): inicio Consola
+[DEBUG] 23:30:14:455 kernel/(20420:20420): 333
+[DEBUG] 23:30:14:455 kernel/(20420:20420): SUSPE_3
+[DEBUG] 23:30:14:455 kernel/(20420:20420): crearMensaje
+[INFO] 23:30:14:460 kernel/(20420:20420): socket kernel 4
+[INFO] 23:30:14:461 kernel/(20420:20420): Envie Instrucciones al kernel
+[DEBUG] 23:30:31:728 kernel/(20416:20416): Me llego cod op 4
+[DEBUG] 23:30:31:728 kernel/(20416:20416): Me llego el exit del pcb id 0
+[DEBUG] 23:30:31:732 kernel/(20420:20420): Me llego cod op 4
+[DEBUG] 23:30:31:732 kernel/(20420:20420): Me llego el exit del pcb id 2
+[DEBUG] 23:30:36:607 kernel/(20418:20418): Me llego cod op 4
+[DEBUG] 23:30:36:607 kernel/(20418:20418): Me llego el exit del pcb id 1
+[INFO] 23:44:07:431 kernel/(21938:21938): inicio Consola
+[DEBUG] 23:44:07:438 kernel/(21938:21938): 111
+[DEBUG] 23:44:07:438 kernel/(21938:21938): SUSPE_1
+[DEBUG] 23:44:07:438 kernel/(21938:21938): crearMensaje
+[INFO] 23:44:07:445 kernel/(21938:21938): socket kernel 4
+[INFO] 23:44:07:445 kernel/(21938:21938): Envie Instrucciones al kernel
+[INFO] 23:44:08:361 kernel/(21943:21943): inicio Consola
+[DEBUG] 23:44:08:369 kernel/(21943:21943): 222
+[DEBUG] 23:44:08:369 kernel/(21943:21943): SUSPE_2
+[DEBUG] 23:44:08:369 kernel/(21943:21943): crearMensaje
+[INFO] 23:44:08:377 kernel/(21943:21943): socket kernel 4
+[INFO] 23:44:08:378 kernel/(21943:21943): Envie Instrucciones al kernel
+[INFO] 23:44:09:249 kernel/(21948:21948): inicio Consola
+[DEBUG] 23:44:09:249 kernel/(21948:21948): 333
+[DEBUG] 23:44:09:249 kernel/(21948:21948): SUSPE_3
+[DEBUG] 23:44:09:249 kernel/(21948:21948): crearMensaje
+[INFO] 23:44:09:258 kernel/(21948:21948): socket kernel 4
+[INFO] 23:44:09:258 kernel/(21948:21948): Envie Instrucciones al kernel
+[DEBUG] 23:44:25:886 kernel/(21938:21938): Me llego cod op 4
+[DEBUG] 23:44:25:886 kernel/(21938:21938): Me llego el exit del pcb id 0
+[DEBUG] 23:44:25:892 kernel/(21948:21948): Me llego cod op 4
+[DEBUG] 23:44:25:892 kernel/(21948:21948): Me llego el exit del pcb id 2
+[DEBUG] 23:44:30:789 kernel/(21943:21943): Me llego cod op 4
+[DEBUG] 23:44:30:789 kernel/(21943:21943): Me llego el exit del pcb id 1

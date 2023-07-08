@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.388988265/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.388988265/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.388988265/LD_LIBRARY_PATH/value=${workspace_loc}/psicoLibrary/Debug
+environment/project/cdt.managedbuild.config.gnu.exe.debug.388988265/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.388988265/appendContributed=true
