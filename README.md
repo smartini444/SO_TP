@@ -1,1 +1,1 @@
-# tp-2022-1c-PaguenNuestroPsicologo
+# Trabajo Practico de Sistemas Operativos, Aprobado
